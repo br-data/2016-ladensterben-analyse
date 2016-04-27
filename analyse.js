@@ -17,7 +17,7 @@ function analyse() {
   var ruralStores = parseCSV(loadFile('./clean/allRuralStores-2015.csv'));
 
   // Analysis results go here
-  var results = [];
+  var result = [];
 
   for (var district in districts) {
 
@@ -25,23 +25,28 @@ function analyse() {
 
     // Calculate population change from 2005 to 2014 (absolute)
     currentDistrict.popDeltaAbs = currentDistrict.pop2014 - currentDistrict.pop2005;
+
     // Calculate population change from 2005 to 2014 (percentage)
     currentDistrict.popDeltaPrc = currentDistrict.popDeltaAbs / currentDistrict.pop2005 * 100;
 
     // Calculate shop count change from 2005 to 2015 (absolute)
     currentDistrict.shopCountDeltaAbs = currentDistrict.shopCount2015 - currentDistrict.shopCount2005;
+
     // Calculate shop count change from 2005 to 2015 (percentage)
-    currentDistrict.shopCountDeltaPrc = currentDistrict.shopDeltaAbs / currentDistrict.shopCount2005 * 100;
+    currentDistrict.shopCountDeltaPrc = currentDistrict.shopCountDeltaAbs / currentDistrict.shopCount2005 * 100;
 
     // Calculate shop sales area change from 2005 to 2015 (absolute)
     currentDistrict.salesAreaDeltaAbs = currentDistrict.salesArea2015 - currentDistrict.salesArea2005;
+
     // Calculate shop sales area change from 2005 to 2015 (percentage)
     currentDistrict.salesAreaDeltaPrc = currentDistrict.salesAreaDeltaAbs / currentDistrict.salesArea2005 * 100;
 
     // Calculate shop sales area change from 2007 to 2015 (absolute)
     currentDistrict.employeesDeltaAbs = currentDistrict.employees2015 - currentDistrict.employees2007;
+
     // Calculate shop sales area change from 2007 to 2015 (percentage)
     currentDistrict.employeesDeltaPrc = currentDistrict.employeesDeltaAbs / currentDistrict.employees2007 * 100;
+
 
     // Calculate shops count for 2014
     currentDistrict.shopCount2014 = towns.filter(function (currentTown) {
@@ -55,26 +60,28 @@ function analyse() {
 
     // Calculate shop count change from 2014 to 2015 (absolute)
     currentDistrict.lastShopCountDeltaAbs = currentDistrict.shopCount2015 - currentDistrict.shopCount2014;
+
     // Calculate shop count change  from 2014 to 2015 (percentage)
     currentDistrict.lastShopCountDeltaPrc = currentDistrict.lastShopCountDeltaAbs / currentDistrict.shopCount2014 * 100;
 
-    console.log(currentDistrict.lastShopCountDeltaPrc);
 
-
-    // Calculate number of towns without supermarkets per district
-    currentDistrict.noSupermarketCount = towns.filter(function (currentTown) {
+    // Get all towns per district
+    var townsPerDistrict = towns.filter(function (currentTown) {
 
       return currentDistrict.admDistrict === currentTown.admDistrict &&
-      currentDistrict.districtType === currentTown.districtType &&
-      currentTown.supermarket === 0;
+      currentDistrict.districtType === currentTown.districtType
+    });
+
+    // Calculate number of towns without supermarkets per district
+    currentDistrict.noSupermarketCount = townsPerDistrict.filter(function (currentTown) {
+
+      return currentTown.supermarket === 0;
     }).length;
 
     // Calculate number of towns without supermarkets per district
-    currentDistrict.noStoreCount = towns.filter(function (currentTown) {
+    currentDistrict.noStoreCount = townsPerDistrict.filter(function (currentTown) {
 
-      return currentDistrict.admDistrict === currentTown.admDistrict &&
-      currentDistrict.districtType === currentTown.districtType &&
-      currentTown.supermarket === 0;
+      return currentTown.supermarket === 0;
     }).length;
 
 
@@ -95,26 +102,35 @@ function analyse() {
     }).join(', ');
 
 
-    // Get biggest supermarket chain per district
-    currentDistrict.supermarkets = supermarkets.filter(function (currentSupermarket) {
+    // Get all supermarkets per district
+    var supermarketsPerDistrict = supermarkets.filter(function (currentSupermarket) {
 
       return currentDistrict.admDistrict === currentSupermarket.admDistrict &&
       currentDistrict.districtType === currentSupermarket.districtType;
     });
 
-    currentDistrict.supermarketsPerChain = aggregate(currentDistrict.supermarkets, function (supermarket) {
+    // Aggregate supermarkets by chain affiliation
+    var supermarketsPerChain = aggregate(supermarketsPerDistrict, function (supermarket) {
 
       return supermarket.chain;
     });
 
-    currentDistrict.biggestChain = getBiggestChains(currentDistrict.supermarketsPerChain);
+    // Get the two biggest supermarket chains
+    currentDistrict.biggestChain = getBiggestChains(supermarketsPerChain);
 
+    // Get the store number of the biggest supermarket chain
     currentDistrict.biggestChainCount = currentDistrict.biggestChain[0].value;
 
+    // Calculate the difference (absolute) in stores between the first biggest and the second biggest supermarket chain
     currentDistrict.biggestChainDeltaAbs = currentDistrict.biggestChain[0].value - currentDistrict.biggestChain[1].value;
+
+    // Calculate the difference (percentage) in stores between the first biggest and the second biggest supermarket chain
     currentDistrict.biggestChainDeltaPrc = currentDistrict.biggestChain[0].value / currentDistrict.biggestChainDeltaAbs * 100;
+
+    // Calculate the difference (factor) in stores between the first biggest and the second biggest supermarket chain
     currentDistrict.biggestChainDeltaFctr = currentDistrict.biggestChain[0].value / currentDistrict.biggestChain[1].value;
 
+    // Get the name of the biggest or the two biggest super market chains
     currentDistrict.biggestChain = (function () {
 
       if (currentDistrict.biggestChain[0].value > currentDistrict.biggestChain[1].value) {
@@ -125,9 +141,14 @@ function analyse() {
         return currentDistrict.biggestChain[0].name + ' und ' + currentDistrict.biggestChain[1].name;
       }
     })();
+
+    result.push(currentDistrict);
   }
+
+  console.log(result);
 }
 
+// Returns the two biggest supermarkets from an object
 function getBiggestChains(obj) {
 
     var biggestValue, biggestKey, result = [];
@@ -153,6 +174,7 @@ function getBiggestChains(obj) {
     return result;
 }
 
+// Return the highest value from an object
 function getMaximumValue(obj) {
 
   return Object.keys(obj).reduce(function (m, k) {
@@ -161,6 +183,7 @@ function getMaximumValue(obj) {
   }, -Infinity);
 }
 
+// Return the key for certain value in an object
 function getKeyByValue(obj, val) {
 
   for (var prop in obj) {
@@ -175,6 +198,7 @@ function getKeyByValue(obj, val) {
   }
 }
 
+// Aggregate an object array by a given classifier
 function aggregate(arr, classifier) {
 
   return arr.reduce(function (counter, item) {
