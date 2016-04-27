@@ -1,18 +1,15 @@
 {
-  "name": "tatort-tweets",
-  "description": "Analyse all tweet for the German TV-series ratort",
+  "name": "einzelhandel-analyse",
+  "description": "Analyse data from Bavaria's retail industry",
   "author": "Steffen Kühne",
   "version": "0.0.1",
   "license": "properietary",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://stekhn@bitbucket.org/team_aquarium/tatort-tweets.git"
+    "url": "git@github.com:digitalegarage/einzelhandel-analyse.git"
   },
   "dependencies": {
-    "async": "^1.5.0",
-    "json2csv": "^3.0.1",
-    "mongodb": "^2.1.1",
-    "request": "^2.67.0"
+    "csv": "^0.4.6"
   }
 }
