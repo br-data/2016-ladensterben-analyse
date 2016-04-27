@@ -10,6 +10,7 @@
     "url": "git@github.com:digitalegarage/einzelhandel-analyse.git"
   },
   "dependencies": {
-    "csv-parse": "^1.1.0"
+    "csv-parse": "^1.1.0",
+    "csv-stringify": "^1.0.2"
   }
 }

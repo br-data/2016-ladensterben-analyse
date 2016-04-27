@@ -2,6 +2,7 @@ var fs = require('fs');
 var path = require('path');
 
 var parse = require('csv-parse/lib/sync');
+var stringify = require('csv-stringify');
 
 (function init() {
 
@@ -145,7 +146,12 @@ function analyse() {
     result.push(currentDistrict);
   }
 
-  console.log(result);
+  // Convert JavaScript object to CSV string
+  stringifyCSV(result, function (csv) {
+
+    // Save the CSV string to file
+    saveFile('./data.csv', csv);
+  });
 }
 
 // Returns the two biggest supermarkets from an object
@@ -210,15 +216,15 @@ function aggregate(arr, classifier) {
   }, {});
 }
 
-function parseCSV(data) {
+function parseCSV(data, callback) {
 
-  var parseOption = {
+  var options = {
 
     columns: true,
     auto_parse: true
   };
 
-  return parse(data, parseOption, function (error, parsedData) {
+  return parse(data, options, function (error, parsedData) {
 
     if (!error) {
 
@@ -230,13 +236,46 @@ function parseCSV(data) {
   });
 }
 
-function loadFile(relativePath, callback) {
+function loadFile(relativePath) {
 
   relativePath = path.normalize(relativePath);
 
   try {
 
     return fs.readFileSync(relativePath, 'utf8').toString();
+  } catch (error) {
+
+    console.log(error);
+  }
+}
+
+function stringifyCSV(data, callback) {
+
+  var options = {
+
+    header: true
+  };
+
+  stringify(data, options, function (error, stringData) {
+
+    if (!error) {
+
+      console.log(stringData);
+      callback(stringData);
+    } else {
+
+      console.log(error);
+    }
+  });
+}
+
+function saveFile(relativePath, string) {
+
+  relativePath = path.normalize(relativePath);
+
+  try {
+
+    return fs.writeFileSync(relativePath, string, 'utf8');
   } catch (error) {
 
     console.log(error);
