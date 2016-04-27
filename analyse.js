@@ -23,25 +23,42 @@ function analyse() {
 
     var currentDistrict = districts[district];
 
-    // Calculate population change (absolute)
+    // Calculate population change from 2005 to 2014 (absolute)
     currentDistrict.popDeltaAbs = currentDistrict.pop2014 - currentDistrict.pop2005;
-    // Calculate population change (percentage)
-    currentDistrict.popDeltaPrc = currentDistrict.popDeltaAbs / currentDistrict.pop2005;
+    // Calculate population change from 2005 to 2014 (percentage)
+    currentDistrict.popDeltaPrc = currentDistrict.popDeltaAbs / currentDistrict.pop2005 * 100;
 
-    // Calculate shop count change (absolute)
+    // Calculate shop count change from 2005 to 2015 (absolute)
     currentDistrict.shopCountDeltaAbs = currentDistrict.shopCount2015 - currentDistrict.shopCount2005;
-    // Calculate shop count change (percentage)
-    currentDistrict.shopCountDeltaPrc = currentDistrict.shopDeltaAbs / currentDistrict.shopCount2005;
+    // Calculate shop count change from 2005 to 2015 (percentage)
+    currentDistrict.shopCountDeltaPrc = currentDistrict.shopDeltaAbs / currentDistrict.shopCount2005 * 100;
 
-    // Calculate shop sales area change (absolute)
+    // Calculate shop sales area change from 2005 to 2015 (absolute)
     currentDistrict.salesAreaDeltaAbs = currentDistrict.salesArea2015 - currentDistrict.salesArea2005;
-    // Calculate shop sales area change (percentage)
-    currentDistrict.salesAreaDeltaPrc = currentDistrict.salesAreaDeltaAbs / currentDistrict.salesArea2005;
+    // Calculate shop sales area change from 2005 to 2015 (percentage)
+    currentDistrict.salesAreaDeltaPrc = currentDistrict.salesAreaDeltaAbs / currentDistrict.salesArea2005 * 100;
 
-    // Calculate shop sales area change (absolute)
+    // Calculate shop sales area change from 2007 to 2015 (absolute)
     currentDistrict.employeesDeltaAbs = currentDistrict.employees2015 - currentDistrict.employees2007;
-    // Calculate shop sales area change (percentage)
-    currentDistrict.employeesDeltaPrc = currentDistrict.employeesDeltaAbs / currentDistrict.employees2007;
+    // Calculate shop sales area change from 2007 to 2015 (percentage)
+    currentDistrict.employeesDeltaPrc = currentDistrict.employeesDeltaAbs / currentDistrict.employees2007 * 100;
+
+    // Calculate shops count for 2014
+    currentDistrict.shopCount2014 = towns.filter(function (currentTown) {
+
+      return currentDistrict.admDistrict === currentTown.admDistrict &&
+      currentDistrict.districtType === currentTown.districtType;
+    }).reduce(function (a, b) {
+
+      return a + b.supermarket;
+    }, 0);
+
+    // Calculate shop count change from 2014 to 2015 (absolute)
+    currentDistrict.lastShopCountDeltaAbs = currentDistrict.shopCount2015 - currentDistrict.shopCount2014;
+    // Calculate shop count change  from 2014 to 2015 (percentage)
+    currentDistrict.lastShopCountDeltaPrc = currentDistrict.lastShopCountDeltaAbs / currentDistrict.shopCount2014 * 100;
+
+    console.log(currentDistrict.lastShopCountDeltaPrc);
 
 
     // Calculate number of towns without supermarkets per district
