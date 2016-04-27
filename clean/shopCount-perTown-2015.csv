@@ -1,0 +1,2060 @@
+govDistrict,admDistrict,districtType,town,population,supermarket,store
+Mittelfranken,Ansbach,Landkreis,Adelshofen,1592,0,0
+Mittelfranken,Ansbach,Landkreis,Arberg,2290,1,2
+Mittelfranken,Ansbach,Landkreis,Aurach,2891,1,5
+Mittelfranken,Ansbach,Landkreis,Bechhofen,5914,4,7
+Mittelfranken,Ansbach,Landkreis,Bruckberg,5071,1,0
+Mittelfranken,Ansbach,Landkreis,Buch a. Wald,938,1,4
+Mittelfranken,Ansbach,Landkreis,Burgoberbach,3302,1,1
+Mittelfranken,Ansbach,Landkreis,Burk,1115,1,1
+Mittelfranken,Ansbach,Landkreis,Colmberg,1995,1,4
+Mittelfranken,Ansbach,Landkreis,Dentlein a. Forst,2308,1,4
+Mittelfranken,Ansbach,Landkreis,Diebach,1106,0,0
+Mittelfranken,Ansbach,Landkreis,Dietenhofen,5570,3,5
+Mittelfranken,Ansbach,Landkreis,Dinkelsbühl,11582,10,12
+Mittelfranken,Ansbach,Landkreis,Dombühl,1598,0,1
+Mittelfranken,Ansbach,Landkreis,Dürrwangen,2539,1,2
+Mittelfranken,Ansbach,Landkreis,Ehingen,1950,0,4
+Mittelfranken,Ansbach,Landkreis,Feuchtwangen,12216,8,5
+Mittelfranken,Ansbach,Landkreis,Flachslanden,2366,1,4
+Mittelfranken,Ansbach,Landkreis,Gebsattel,1732,1,2
+Mittelfranken,Ansbach,Landkreis,Gerolfingen,965,0,4
+Mittelfranken,Ansbach,Landkreis,Geslau,1354,1,2
+Mittelfranken,Ansbach,Landkreis,Heilsbronn,9086,5,3
+Mittelfranken,Ansbach,Landkreis,Herrieden,7613,3,5
+Mittelfranken,Ansbach,Landkreis,Insingen,1134,0,1
+Mittelfranken,Ansbach,Landkreis,Langfurth,2102,1,1
+Mittelfranken,Ansbach,Landkreis,Lehrberg,3082,1,1
+Mittelfranken,Ansbach,Landkreis,Leutershausen,5501,4,5
+Mittelfranken,Ansbach,Landkreis,Lichtenau,3743,1,6
+Mittelfranken,Ansbach,Landkreis,Merkendorf,2731,2,4
+Mittelfranken,Ansbach,Landkreis,Mitteleschenbach,1604,1,2
+Mittelfranken,Ansbach,Landkreis,Mönchsroth,1551,2,1
+Mittelfranken,Ansbach,Landkreis,Neuendettelsau,7772,3,7
+Mittelfranken,Ansbach,Landkreis,Neusitz,2031,0,0
+Mittelfranken,Ansbach,Landkreis,Oberdachstetten,1634,1,3
+Mittelfranken,Ansbach,Landkreis,Ohrenbach,575,0,0
+Mittelfranken,Ansbach,Landkreis,Ornbau,1602,1,2
+Mittelfranken,Ansbach,Landkreis,Petersaurach,4913,2,4
+Mittelfranken,Ansbach,Landkreis,Röckingen,724,0,2
+Mittelfranken,Ansbach,Landkreis,Rothenburg ob der Tauber,10911,9,7
+Mittelfranken,Ansbach,Landkreis,Rügland,1260,0,3
+Mittelfranken,Ansbach,Landkreis,Sachsen b. Ansbach,3312,2,1
+Mittelfranken,Ansbach,Landkreis,Schillingsfürst,2752,2,4
+Mittelfranken,Ansbach,Landkreis,Schnelldorf,3525,3,0
+Mittelfranken,Ansbach,Landkreis,Schopfloch,2827,2,3
+Mittelfranken,Ansbach,Landkreis,Steinsfeld,1221,0,0
+Mittelfranken,Ansbach,Landkreis,Unterschwaningen,860,1,1
+Mittelfranken,Ansbach,Landkreis,Wassertrüdingen,5919,7,5
+Mittelfranken,Ansbach,Landkreis,Weidenbach,2174,1,4
+Mittelfranken,Ansbach,Landkreis,Weihenzell,2836,1,2
+Mittelfranken,Ansbach,Landkreis,Weiltingen,1361,1,4
+Mittelfranken,Ansbach,Landkreis,Wettringen,915,0,0
+Mittelfranken,Ansbach,Landkreis,Wieseth,1412,0,3
+Mittelfranken,Ansbach,Landkreis,Wilburgstetten,2060,2,0
+Mittelfranken,Ansbach,Landkreis,Windelsbach,1057,0,1
+Mittelfranken,Ansbach,Landkreis,Windsbach,5999,3,6
+Mittelfranken,Ansbach,Landkreis,Wittelshofen,1244,0,1
+Mittelfranken,Ansbach,Landkreis,Wolframs-Eschenbach,2897,2,4
+Mittelfranken,Ansbach,Landkreis,Wörnitz,1664,2,1
+Mittelfranken,Ansbach,Stadt,Ansbach,40305,18,21
+Mittelfranken,Erlangen,Stadt,Erlangen,107101,42,32
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Adelsdorf,7260,4,5
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Aurachtal,3071,1,0
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Baiersdorf,7316,4,0
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Bubenreuth,4547,4,4
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Buckenhof,3329,1,0
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Eckental,13980,7,6
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Gremsdorf,1572,0,0
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Großenseebach,2461,1,2
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Hemhofen,5129,3,1
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Heroldsberg,8283,5,5
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Herzogenaurach,23303,9,5
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Heßdorf,3530,3,1
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Höchstadt a. d. Aisch,13223,6,9
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Kalchreuth,3011,1,4
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Lonnerstadt,1969,0,4
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Marloffstein,1602,0,2
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Möhrendorf,4546,1,4
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Mühlhausen,4580,3,2
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Oberreichenbach,1221,0,1
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Röttenbach,4592,2,2
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Spardorf,1943,0,0
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Uttenreuth,4768,1,4
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Vestenbergsgreuth,1514,0,2
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Wachenroth,2203,1,3
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Weisendorf,6297,3,8
+Mittelfranken,Fürth,Landkreis,Ammerndorf,2096,1,3
+Mittelfranken,Fürth,Landkreis,Cadolzburg,10462,3,3
+Mittelfranken,Fürth,Landkreis,Großhabersdorf,4198,1,2
+Mittelfranken,Fürth,Landkreis,Langenzenn,10508,7,7
+Mittelfranken,Fürth,Landkreis,Oberasbach,17222,6,4
+Mittelfranken,Fürth,Landkreis,Obermichelbach,3177,1,1
+Mittelfranken,Fürth,Landkreis,Puschendorf,2152,1,3
+Mittelfranken,Fürth,Landkreis,Roßtal,9614,5,6
+Mittelfranken,Fürth,Landkreis,Seukendorf,3097,2,1
+Mittelfranken,Fürth,Landkreis,Stein,13963,5,7
+Mittelfranken,Fürth,Landkreis,Tuchenbach,1322,0,0
+Mittelfranken,Fürth,Landkreis,Veitsbronn,6297,4,4
+Mittelfranken,Fürth,Landkreis,Wilhermsdorf,5033,2,4
+Mittelfranken,Fürth,Landkreis,Zirndorf,25951,8,13
+Mittelfranken,Fürth,Stadt,Fürth,120362,47,28
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Bad Windsheim,11828,8,13
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Baudenbach,1174,1,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Burgbernheim,2914,2,4
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Burghaslach,2500,1,4
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Dachsbach,1793,1,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Diespeck,3702,2,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Dietersheim,2150,1,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Emskirchen,5954,3,11
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Ergersheim,1097,0,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gallmersgarten,741,1,3
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gerhardshofen,2535,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gollhofen,815,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gutenstetten,1361,0,3
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Hagenbüchach,1283,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Hemmersheim,662,0,2
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Illesheim,893,0,2
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Ippesheim,1085,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Ipsheim,2112,1,6
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Langenfeld,990,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Markt Bibart,1880,2,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Markt Erlbach,5558,4,4
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Markt Nordheim,1105,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Markt Taschendorf,1019,1,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Marktbergel,1514,1,2
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Münchsteinach,1397,0,3
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Neuhof a. d. Zenn,2023,1,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Neustadt a. d. Aisch,12169,6,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Oberickelsheim,685,1,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Obernzenn,2682,1,2
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Oberscheinfeld,1205,1,0
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Scheinfeld,4601,3,3
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Simmershofen,887,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Sugenheim,2316,1,2
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Trautskirchen,1310,1,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Uehlfeld,2882,2,5
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Uffenheim,6154,3,9
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Weigenheim,1028,0,1
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Wilhelmsdorf,1369,0,2
+Mittelfranken,Nürnberg,Stadt,Nürnberg,508983,190,125
+Mittelfranken,Nürnberger Land,Landkreis,Alfeld,1081,1,5
+Mittelfranken,Nürnberger Land,Landkreis,Altdorf b. Nürnberg,15351,6,7
+Mittelfranken,Nürnberger Land,Landkreis,Brunn,1466,0,0
+Mittelfranken,Nürnberger Land,Landkreis,Burgthann,11149,3,8
+Mittelfranken,Nürnberger Land,Landkreis,Engelthal,1115,1,3
+Mittelfranken,Nürnberger Land,Landkreis,Feucht,13381,5,5
+Mittelfranken,Nürnberger Land,Landkreis,Happurg,3608,0,10
+Mittelfranken,Nürnberger Land,Landkreis,Hartenstein,1411,1,1
+Mittelfranken,Nürnberger Land,Landkreis,Henfenfeld,1910,0,1
+Mittelfranken,Nürnberger Land,Landkreis,Hersbruck,12277,6,10
+Mittelfranken,Nürnberger Land,Landkreis,Kirchensittenbach,2160,0,4
+Mittelfranken,Nürnberger Land,Landkreis,Lauf a. d. Pegnitz,26159,9,15
+Mittelfranken,Nürnberger Land,Landkreis,Leinburg,6520,2,4
+Mittelfranken,Nürnberger Land,Landkreis,Neuhaus a. d. Pegnitz,2811,3,3
+Mittelfranken,Nürnberger Land,Landkreis,Neunkirchen a. Sand,4638,2,2
+Mittelfranken,Nürnberger Land,Landkreis,Offenhausen,1538,1,1
+Mittelfranken,Nürnberger Land,Landkreis,Ottensoos,2091,1,3
+Mittelfranken,Nürnberger Land,Landkreis,Pommelsbrunn,5218,5,8
+Mittelfranken,Nürnberger Land,Landkreis,Reichenschwand,2333,0,2
+Mittelfranken,Nürnberger Land,Landkreis,Röthenbach a. d. Pegnitz,11794,6,3
+Mittelfranken,Nürnberger Land,Landkreis,Rückersdorf,4445,1,2
+Mittelfranken,Nürnberger Land,Landkreis,Schnaittach,7953,6,8
+Mittelfranken,Nürnberger Land,Landkreis,Schönberg,951,0,0
+Mittelfranken,Nürnberger Land,Landkreis,Schwaig b. Nürnberg,8304,2,3
+Mittelfranken,Nürnberger Land,Landkreis,Schwarzenbruck,8313,2,4
+Mittelfranken,Nürnberger Land,Landkreis,Simmelsdorf,3146,0,12
+Mittelfranken,Nürnberger Land,Landkreis,Velden,6612,1,6
+Mittelfranken,Nürnberger Land,Landkreis,Vorra,1743,1,2
+Mittelfranken,Nürnberger Land,Landkreis,Winkelhaid,4215,1,2
+Mittelfranken,Roth,Landkreis,Abenberg,5503,2,9
+Mittelfranken,Roth,Landkreis,Allersberg,7941,3,7
+Mittelfranken,Roth,Landkreis,Büchenbach,5219,2,3
+Mittelfranken,Roth,Landkreis,Georgensgmünd,6637,5,8
+Mittelfranken,Roth,Landkreis,Greding,7080,4,11
+Mittelfranken,Roth,Landkreis,Heideck,4584,2,7
+Mittelfranken,Roth,Landkreis,Hilpoltstein,13435,5,4
+Mittelfranken,Roth,Landkreis,Kammerstein,2848,2,2
+Mittelfranken,Roth,Landkreis,Rednitzhembach,6828,3,3
+Mittelfranken,Roth,Landkreis,Rohr,3520,1,2
+Mittelfranken,Roth,Landkreis,Roth,24353,11,8
+Mittelfranken,Roth,Landkreis,Röttenbach,4592,0,2
+Mittelfranken,Roth,Landkreis,Schwanstetten,7395,1,2
+Mittelfranken,Roth,Landkreis,Spalt,4954,2,9
+Mittelfranken,Roth,Landkreis,Thalmässing,5146,3,6
+Mittelfranken,Roth,Landkreis,Wendelstein,15722,6,3
+Mittelfranken,Schwabach,Stadt,Schwabach,38825,15,18
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Absberg,1270,0,6
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Alesheim,963,0,0
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Bergen,4891,0,0
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Burgsalach,1160,0,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Dittenheim,1708,0,3
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Ellingen,3666,1,6
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Ettenstatt,826,0,1
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Gnotzheim,848,1,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Gunzenhausen,16279,8,16
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Haundorf,2660,0,1
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Heidenheim,2453,1,3
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Höttingen,1143,0,1
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Langenaltheim,2270,1,0
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Markt Berolzheim,1324,0,3
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Meinheim,837,0,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Muhr a. See,2203,1,0
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Nennslingen,1334,1,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Pappenheim,4056,1,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Pfofeld,1510,2,3
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Pleinfeld,7296,3,5
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Polsingen,1980,1,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Raitenbuch,1142,0,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Solnhofen,1691,0,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Theilenhofen,1159,1,2
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Treuchtlingen,12653,6,7
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Weißenburg i. Bay.,17926,7,13
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Westheim,1135,1,0
+Niederbayern,Deggendorf,Landkreis,Aholming,2303,1,2
+Niederbayern,Deggendorf,Landkreis,Auerbach,2202,1,2
+Niederbayern,Deggendorf,Landkreis,Außernzell,1403,1,1
+Niederbayern,Deggendorf,Landkreis,Bernried,4867,3,3
+Niederbayern,Deggendorf,Landkreis,Buchhofen,912,1,1
+Niederbayern,Deggendorf,Landkreis,Deggendorf,31893,12,17
+Niederbayern,Deggendorf,Landkreis,Grafling,2745,3,2
+Niederbayern,Deggendorf,Landkreis,Grattersdorf,1328,0,1
+Niederbayern,Deggendorf,Landkreis,Hengersberg,7753,6,7
+Niederbayern,Deggendorf,Landkreis,Hunding,1188,0,1
+Niederbayern,Deggendorf,Landkreis,Iggensbach,2123,1,1
+Niederbayern,Deggendorf,Landkreis,Künzing,3129,3,4
+Niederbayern,Deggendorf,Landkreis,Lalling,1579,1,1
+Niederbayern,Deggendorf,Landkreis,Metten,4375,4,3
+Niederbayern,Deggendorf,Landkreis,Moos,2159,2,4
+Niederbayern,Deggendorf,Landkreis,Niederalteich,1919,0,3
+Niederbayern,Deggendorf,Landkreis,Oberpöring,1131,1,1
+Niederbayern,Deggendorf,Landkreis,Offenberg,3277,2,2
+Niederbayern,Deggendorf,Landkreis,Osterhofen,11535,11,6
+Niederbayern,Deggendorf,Landkreis,Otzing,1960,1,1
+Niederbayern,Deggendorf,Landkreis,Plattling,13004,8,6
+Niederbayern,Deggendorf,Landkreis,Schaufling,1516,2,1
+Niederbayern,Deggendorf,Landkreis,Schöllnach,4927,4,4
+Niederbayern,Deggendorf,Landkreis,Stephansposching,3030,1,0
+Niederbayern,Deggendorf,Landkreis,Wallerfing,1349,1,0
+Niederbayern,Deggendorf,Landkreis,Winzer,3792,2,3
+Niederbayern,Dingolfing-Landau,Landkreis,Dingolfing,18310,11,6
+Niederbayern,Dingolfing-Landau,Landkreis,Eichendorf,6443,4,4
+Niederbayern,Dingolfing-Landau,Landkreis,Frontenhausen,4473,2,6
+Niederbayern,Dingolfing-Landau,Landkreis,Gottfrieding,2172,1,0
+Niederbayern,Dingolfing-Landau,Landkreis,Landau a. d. Isar,12695,7,8
+Niederbayern,Dingolfing-Landau,Landkreis,Loiching,3540,1,6
+Niederbayern,Dingolfing-Landau,Landkreis,Mamming,2960,3,2
+Niederbayern,Dingolfing-Landau,Landkreis,Marklkofen,3788,1,2
+Niederbayern,Dingolfing-Landau,Landkreis,Mengkofen,5834,3,3
+Niederbayern,Dingolfing-Landau,Landkreis,Moosthenning,4866,0,3
+Niederbayern,Dingolfing-Landau,Landkreis,Niederviehbach,2540,1,0
+Niederbayern,Dingolfing-Landau,Landkreis,Pilsting,6238,3,2
+Niederbayern,Dingolfing-Landau,Landkreis,Reisbach,7626,5,4
+Niederbayern,Dingolfing-Landau,Landkreis,Simbach,3613,3,5
+Niederbayern,Dingolfing-Landau,Landkreis,Wallersdorf,6712,5,9
+Niederbayern,Freyung-Grafenau,Landkreis,Eppenschlag,946,1,1
+Niederbayern,Freyung-Grafenau,Landkreis,Freyung,7002,7,10
+Niederbayern,Freyung-Grafenau,Landkreis,Fürsteneck,940,1,2
+Niederbayern,Freyung-Grafenau,Landkreis,Grafenau,8325,7,6
+Niederbayern,Freyung-Grafenau,Landkreis,Grainet,2427,3,1
+Niederbayern,Freyung-Grafenau,Landkreis,Haidmühle,1380,2,4
+Niederbayern,Freyung-Grafenau,Landkreis,Hinterschmiding,2510,2,4
+Niederbayern,Freyung-Grafenau,Landkreis,Hohenau,3342,2,3
+Niederbayern,Freyung-Grafenau,Landkreis,Innernzell,1568,1,2
+Niederbayern,Freyung-Grafenau,Landkreis,Jandelsbrunn,3268,2,2
+Niederbayern,Freyung-Grafenau,Landkreis,Mauth,2362,4,4
+Niederbayern,Freyung-Grafenau,Landkreis,Neureichenau,4379,6,3
+Niederbayern,Freyung-Grafenau,Landkreis,Neuschönau,2298,1,4
+Niederbayern,Freyung-Grafenau,Landkreis,Perlesreut,2914,2,2
+Niederbayern,Freyung-Grafenau,Landkreis,Philippsreut,701,1,0
+Niederbayern,Freyung-Grafenau,Landkreis,Ringelai,2023,1,0
+Niederbayern,Freyung-Grafenau,Landkreis,Röhrnbach,4466,3,4
+Niederbayern,Freyung-Grafenau,Landkreis,Saldenburg,1912,0,3
+Niederbayern,Freyung-Grafenau,Landkreis,Sankt Oswald-Riedlhütte,2993,1,3
+Niederbayern,Freyung-Grafenau,Landkreis,Schöfweg,1311,2,4
+Niederbayern,Freyung-Grafenau,Landkreis,Schönberg,951,2,5
+Niederbayern,Freyung-Grafenau,Landkreis,Spiegelau,3940,3,10
+Niederbayern,Freyung-Grafenau,Landkreis,Thurmansbang,2399,1,2
+Niederbayern,Freyung-Grafenau,Landkreis,Waldkirchen,10550,8,8
+Niederbayern,Freyung-Grafenau,Landkreis,Zenting,1176,1,3
+Niederbayern,Kelheim,Landkreis,Abensberg,13069,8,11
+Niederbayern,Kelheim,Landkreis,Aiglsbach,1698,0,1
+Niederbayern,Kelheim,Landkreis,Attenhofen,1343,1,1
+Niederbayern,Kelheim,Landkreis,Bad Abbach,11461,4,1
+Niederbayern,Kelheim,Landkreis,Biburg,1199,0,0
+Niederbayern,Kelheim,Landkreis,Elsendorf,2033,1,2
+Niederbayern,Kelheim,Landkreis,Essing,980,1,0
+Niederbayern,Kelheim,Landkreis,Hausen,2031,1,3
+Niederbayern,Kelheim,Landkreis,Herrngiersdorf,1197,1,1
+Niederbayern,Kelheim,Landkreis,Ihrlerstein,4178,1,2
+Niederbayern,Kelheim,Landkreis,Kelheim,15664,9,8
+Niederbayern,Kelheim,Landkreis,Kirchdorf,1353,0,0
+Niederbayern,Kelheim,Landkreis,Langquaid,5229,4,6
+Niederbayern,Kelheim,Landkreis,Mainburg,14250,7,6
+Niederbayern,Kelheim,Landkreis,Neustadt a. d. Donau,12986,7,5
+Niederbayern,Kelheim,Landkreis,Painten,2195,1,3
+Niederbayern,Kelheim,Landkreis,Riedenburg,5664,2,3
+Niederbayern,Kelheim,Landkreis,Rohr i. NB,3273,3,4
+Niederbayern,Kelheim,Landkreis,Saal a. d. Donau,5292,2,4
+Niederbayern,Kelheim,Landkreis,Siegenburg,3436,2,3
+Niederbayern,Kelheim,Landkreis,Teugn,1597,1,2
+Niederbayern,Kelheim,Landkreis,Train,1847,0,2
+Niederbayern,Kelheim,Landkreis,Volkenschwand,1704,1,3
+Niederbayern,Kelheim,Landkreis,Wildenberg,1349,0,2
+Niederbayern,Landshut,Landkreis,Adlkofen,3826,2,3
+Niederbayern,Landshut,Landkreis,Aham,1882,1,1
+Niederbayern,Landshut,Landkreis,Altdorf,11300,9,6
+Niederbayern,Landshut,Landkreis,Altfraunhofen,2131,1,3
+Niederbayern,Landshut,Landkreis,Baierbach,778,0,0
+Niederbayern,Landshut,Landkreis,Bayerbach b. Ergoldsbach,1752,0,2
+Niederbayern,Landshut,Landkreis,Bodenkirchen,5298,4,5
+Niederbayern,Landshut,Landkreis,Bruckberg,5071,1,5
+Niederbayern,Landshut,Landkreis,Buch a. Erlbach,3565,3,3
+Niederbayern,Landshut,Landkreis,Eching,13761,2,1
+Niederbayern,Landshut,Landkreis,Ergolding,11945,8,5
+Niederbayern,Landshut,Landkreis,Ergoldsbach,7576,5,1
+Niederbayern,Landshut,Landkreis,Essenbach,11482,4,3
+Niederbayern,Landshut,Landkreis,Furth,3416,1,2
+Niederbayern,Landshut,Landkreis,Geisenhausen,6527,4,5
+Niederbayern,Landshut,Landkreis,Gerzen,1692,1,4
+Niederbayern,Landshut,Landkreis,Hohenthann,3864,1,3
+Niederbayern,Landshut,Landkreis,Kröning,1944,1,1
+Niederbayern,Landshut,Landkreis,Kumhausen,5286,3,2
+Niederbayern,Landshut,Landkreis,Neufahrn i. NB,3846,1,5
+Niederbayern,Landshut,Landkreis,Neufraunhofen,1075,1,2
+Niederbayern,Landshut,Landkreis,Niederaichbach,3726,2,1
+Niederbayern,Landshut,Landkreis,Obersüßbach,1739,0,0
+Niederbayern,Landshut,Landkreis,Pfeffenhausen,4773,2,6
+Niederbayern,Landshut,Landkreis,Postau,1622,1,1
+Niederbayern,Landshut,Landkreis,Rottenburg a. d. Laaber,7631,6,8
+Niederbayern,Landshut,Landkreis,Schalkham,968,1,0
+Niederbayern,Landshut,Landkreis,Tiefenbach,3716,1,3
+Niederbayern,Landshut,Landkreis,Velden,6612,4,5
+Niederbayern,Landshut,Landkreis,Vilsbiburg,11519,9,8
+Niederbayern,Landshut,Landkreis,Vilsheim,2374,1,2
+Niederbayern,Landshut,Landkreis,Weihmichl,2502,0,1
+Niederbayern,Landshut,Landkreis,Weng,1403,1,1
+Niederbayern,Landshut,Landkreis,Wörth a. d. Isar,2524,2,2
+Niederbayern,Landshut,Landkreis,Wurmsham,1329,2,1
+Niederbayern,Landshut,Stadt,Landshut,65328,25,31
+Niederbayern,Passau,Landkreis,Aicha vorm Wald,2503,2,2
+Niederbayern,Passau,Landkreis,Aidenbach,3095,2,5
+Niederbayern,Passau,Landkreis,Aldersbach,4301,3,7
+Niederbayern,Passau,Landkreis,Bad Füssing,6904,7,7
+Niederbayern,Passau,Landkreis,Bad Griesbach i. Rottal,8520,8,6
+Niederbayern,Passau,Landkreis,Beutelsbach,1140,0,1
+Niederbayern,Passau,Landkreis,Breitenberg,2150,2,2
+Niederbayern,Passau,Landkreis,Büchlberg,4138,1,3
+Niederbayern,Passau,Landkreis,Eging a. See,4081,3,3
+Niederbayern,Passau,Landkreis,Fürstenstein,3336,4,6
+Niederbayern,Passau,Landkreis,Fürstenzell,7752,5,1
+Niederbayern,Passau,Landkreis,Haarbach,2531,2,5
+Niederbayern,Passau,Landkreis,Hauzenberg,12010,7,8
+Niederbayern,Passau,Landkreis,Hofkirchen,3609,2,6
+Niederbayern,Passau,Landkreis,Hutthurm,5914,3,2
+Niederbayern,Passau,Landkreis,Kirchham,2362,1,2
+Niederbayern,Passau,Landkreis,Kößlarn,1886,1,2
+Niederbayern,Passau,Landkreis,Malching,1272,1,0
+Niederbayern,Passau,Landkreis,Neuburg a. Inn,4249,2,1
+Niederbayern,Passau,Landkreis,Neuhaus a. Inn,3689,3,3
+Niederbayern,Passau,Landkreis,Neukirchen vorm Wald,2737,1,1
+Niederbayern,Passau,Landkreis,Obernzell,3868,5,2
+Niederbayern,Passau,Landkreis,Ortenburg,7038,3,10
+Niederbayern,Passau,Landkreis,Pocking,14932,10,12
+Niederbayern,Passau,Landkreis,Rotthalmünster,5025,3,4
+Niederbayern,Passau,Landkreis,Ruderting,3090,2,1
+Niederbayern,Passau,Landkreis,Ruhstorf a. d. Rott,7067,2,7
+Niederbayern,Passau,Landkreis,Salzweg,6530,4,1
+Niederbayern,Passau,Landkreis,Sonnen,1449,2,1
+Niederbayern,Passau,Landkreis,Tettenweis,1665,1,2
+Niederbayern,Passau,Landkreis,Thyrnau,4252,2,5
+Niederbayern,Passau,Landkreis,Tiefenbach,3716,5,3
+Niederbayern,Passau,Landkreis,Tittling,3618,5,2
+Niederbayern,Passau,Landkreis,Untergriesbach,6099,5,5
+Niederbayern,Passau,Landkreis,Vilshofen an der Donau,16343,11,11
+Niederbayern,Passau,Landkreis,Wegscheid,5467,6,7
+Niederbayern,Passau,Landkreis,Windorf,4801,4,6
+Niederbayern,Passau,Landkreis,Witzmannsberg,1724,1,0
+Niederbayern,Passau,Stadt,Passau,48998,26,15
+Niederbayern,Regen,Landkreis,Achslach,953,1,0
+Niederbayern,Regen,Landkreis,Arnbruck,1997,1,2
+Niederbayern,Regen,Landkreis,Bayerisch Eisenstein,1080,1,1
+Niederbayern,Regen,Landkreis,Bischofsmais,3279,3,8
+Niederbayern,Regen,Landkreis,Böbrach,1557,1,2
+Niederbayern,Regen,Landkreis,Bodenmais,3316,3,4
+Niederbayern,Regen,Landkreis,Drachselsried,2372,1,3
+Niederbayern,Regen,Landkreis,Frauenau,2771,1,5
+Niederbayern,Regen,Landkreis,Geiersthal,2188,0,3
+Niederbayern,Regen,Landkreis,Gotteszell,1207,1,1
+Niederbayern,Regen,Landkreis,Kirchberg i. Wald,4222,2,6
+Niederbayern,Regen,Landkreis,Kirchdorf i. Wald,2102,2,3
+Niederbayern,Regen,Landkreis,Kollnburg,2834,0,1
+Niederbayern,Regen,Landkreis,Langdorf,1981,1,2
+Niederbayern,Regen,Landkreis,Lindberg,2405,1,5
+Niederbayern,Regen,Landkreis,Patersdorf,1771,2,1
+Niederbayern,Regen,Landkreis,Prackenbach,2676,2,3
+Niederbayern,Regen,Landkreis,Regen,11577,7,12
+Niederbayern,Regen,Landkreis,Rinchnach,3168,4,5
+Niederbayern,Regen,Landkreis,Ruhmannsfelden,2025,3,4
+Niederbayern,Regen,Landkreis,Teisnach,2859,3,4
+Niederbayern,Regen,Landkreis,Viechtach,8225,6,9
+Niederbayern,Regen,Landkreis,Zachenberg,2098,1,2
+Niederbayern,Regen,Landkreis,Zwiesel,9587,9,8
+Niederbayern,Rottal-Inn,Landkreis,Arnstorf,7063,6,5
+Niederbayern,Rottal-Inn,Landkreis,Bad Birnbach,5534,3,7
+Niederbayern,Rottal-Inn,Landkreis,Bayerbach,1641,1,1
+Niederbayern,Rottal-Inn,Landkreis,Dietersburg,3094,0,3
+Niederbayern,Rottal-Inn,Landkreis,Eggenfelden,13030,8,8
+Niederbayern,Rottal-Inn,Landkreis,Egglham,2359,3,3
+Niederbayern,Rottal-Inn,Landkreis,Ering,1848,1,0
+Niederbayern,Rottal-Inn,Landkreis,Falkenberg,3770,2,6
+Niederbayern,Rottal-Inn,Landkreis,Gangkofen,6423,2,6
+Niederbayern,Rottal-Inn,Landkreis,Geratskirchen,887,1,1
+Niederbayern,Rottal-Inn,Landkreis,Hebertsfelden,3673,0,2
+Niederbayern,Rottal-Inn,Landkreis,Johanniskirchen,2457,1,3
+Niederbayern,Rottal-Inn,Landkreis,Julbach,2330,1,0
+Niederbayern,Rottal-Inn,Landkreis,Kirchdorf a. Inn,5260,3,3
+Niederbayern,Rottal-Inn,Landkreis,Malgersdorf,1226,0,3
+Niederbayern,Rottal-Inn,Landkreis,Massing,4020,2,5
+Niederbayern,Rottal-Inn,Landkreis,Mitterskirchen,2065,2,3
+Niederbayern,Rottal-Inn,Landkreis,Pfarrkirchen,11951,8,5
+Niederbayern,Rottal-Inn,Landkreis,Postmünster,2270,0,4
+Niederbayern,Rottal-Inn,Landkreis,Reut,1805,0,3
+Niederbayern,Rottal-Inn,Landkreis,Rimbach,882,0,0
+Niederbayern,Rottal-Inn,Landkreis,Roßbach,2893,2,2
+Niederbayern,Rottal-Inn,Landkreis,Schönau,1959,1,2
+Niederbayern,Rottal-Inn,Landkreis,Simbach a. Inn,9724,7,4
+Niederbayern,Rottal-Inn,Landkreis,Stubenberg,1371,1,2
+Niederbayern,Rottal-Inn,Landkreis,Tann,3915,3,4
+Niederbayern,Rottal-Inn,Landkreis,Triftern,5185,3,5
+Niederbayern,Rottal-Inn,Landkreis,Unterdietfurt,2112,1,1
+Niederbayern,Rottal-Inn,Landkreis,Wittibreut,2019,1,1
+Niederbayern,Rottal-Inn,Landkreis,Wurmannsquick,3641,1,6
+Niederbayern,Rottal-Inn,Landkreis,Zeilarn,2173,1,1
+Niederbayern,Straubing,Stadt,Straubing,45056,26,20
+Niederbayern,Straubing-Bogen,Landkreis,Aholfing,1800,1,2
+Niederbayern,Straubing-Bogen,Landkreis,Aiterhofen,3409,1,2
+Niederbayern,Straubing-Bogen,Landkreis,Ascha,1555,1,3
+Niederbayern,Straubing-Bogen,Landkreis,Atting,1646,0,0
+Niederbayern,Straubing-Bogen,Landkreis,Bogen,10252,6,6
+Niederbayern,Straubing-Bogen,Landkreis,Falkenfels,1006,1,3
+Niederbayern,Straubing-Bogen,Landkreis,Feldkirchen,7110,1,1
+Niederbayern,Straubing-Bogen,Landkreis,Geiselhöring,6880,3,9
+Niederbayern,Straubing-Bogen,Landkreis,Haibach,2131,2,3
+Niederbayern,Straubing-Bogen,Landkreis,Haselbach,1636,0,2
+Niederbayern,Straubing-Bogen,Landkreis,Hunderdorf,3294,1,4
+Niederbayern,Straubing-Bogen,Landkreis,Irlbach,1139,0,2
+Niederbayern,Straubing-Bogen,Landkreis,Kirchroth,3750,3,2
+Niederbayern,Straubing-Bogen,Landkreis,Konzell,1798,2,1
+Niederbayern,Straubing-Bogen,Landkreis,Laberweinting,3354,2,6
+Niederbayern,Straubing-Bogen,Landkreis,Leiblfing,4072,1,5
+Niederbayern,Straubing-Bogen,Landkreis,Loitzendorf,607,0,1
+Niederbayern,Straubing-Bogen,Landkreis,Mallersdorf-Pfaffenberg,6400,4,7
+Niederbayern,Straubing-Bogen,Landkreis,Mariaposching,1424,1,1
+Niederbayern,Straubing-Bogen,Landkreis,Mitterfels,2452,2,4
+Niederbayern,Straubing-Bogen,Landkreis,Neukirchen,1846,1,3
+Niederbayern,Straubing-Bogen,Landkreis,Niederwinkling,2567,1,1
+Niederbayern,Straubing-Bogen,Landkreis,Oberschneiding,2785,1,4
+Niederbayern,Straubing-Bogen,Landkreis,Parkstetten,3047,1,2
+Niederbayern,Straubing-Bogen,Landkreis,Perasdorf,651,0,0
+Niederbayern,Straubing-Bogen,Landkreis,Perkam,1549,0,1
+Niederbayern,Straubing-Bogen,Landkreis,Rain,2676,2,2
+Niederbayern,Straubing-Bogen,Landkreis,Rattenberg,1819,1,3
+Niederbayern,Straubing-Bogen,Landkreis,Rattiszell,1511,0,1
+Niederbayern,Straubing-Bogen,Landkreis,Salching,2561,1,3
+Niederbayern,Straubing-Bogen,Landkreis,Sankt Englmar,1586,1,2
+Niederbayern,Straubing-Bogen,Landkreis,Schwarzach,2792,2,2
+Niederbayern,Straubing-Bogen,Landkreis,Stallwang,1350,2,3
+Niederbayern,Straubing-Bogen,Landkreis,Steinach,3003,1,2
+Niederbayern,Straubing-Bogen,Landkreis,Straßkirchen,3203,1,1
+Niederbayern,Straubing-Bogen,Landkreis,Wiesenfelden,3634,2,5
+Niederbayern,Straubing-Bogen,Landkreis,Windberg,1053,0,0
+Oberbayern,Altötting,Landkreis,Altötting,12700,8,9
+Oberbayern,Altötting,Landkreis,Burghausen,18130,9,9
+Oberbayern,Altötting,Landkreis,Burgkirchen a. d. Alz,10443,4,7
+Oberbayern,Altötting,Landkreis,Emmerting,4120,2,1
+Oberbayern,Altötting,Landkreis,Erlbach,1189,1,2
+Oberbayern,Altötting,Landkreis,Feichten a. d. Alz,1186,1,0
+Oberbayern,Altötting,Landkreis,Garching a. d. Alz,8400,6,3
+Oberbayern,Altötting,Landkreis,Haiming,2480,1,1
+Oberbayern,Altötting,Landkreis,Halsbach,923,0,2
+Oberbayern,Altötting,Landkreis,Kastl,2651,1,2
+Oberbayern,Altötting,Landkreis,Kirchweidach,2260,2,2
+Oberbayern,Altötting,Landkreis,Marktl,2634,3,3
+Oberbayern,Altötting,Landkreis,Mehring,2265,0,1
+Oberbayern,Altötting,Landkreis,Neuötting,8570,10,4
+Oberbayern,Altötting,Landkreis,Perach,1235,1,2
+Oberbayern,Altötting,Landkreis,Pleiskirchen,2368,1,3
+Oberbayern,Altötting,Landkreis,Reischach,2611,1,1
+Oberbayern,Altötting,Landkreis,Stammham,1038,1,1
+Oberbayern,Altötting,Landkreis,Teising,1891,1,2
+Oberbayern,Altötting,Landkreis,Töging a. Inn,9137,5,7
+Oberbayern,Altötting,Landkreis,Tüßling,3256,1,2
+Oberbayern,Altötting,Landkreis,Tyrlaching,955,0,0
+Oberbayern,Altötting,Landkreis,Unterneukirchen,2909,1,1
+Oberbayern,Altötting,Landkreis,Winhöring,4663,1,3
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Bad Heilbrunn,3826,1,2
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Bad Tölz,18303,11,15
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Benediktbeuern,3532,1,4
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Bichl,2152,0,2
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Dietramszell,5310,2,6
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Egling,5359,3,7
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Eurasburg,4363,1,3
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Gaißach,2997,3,3
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Geretsried,23813,13,10
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Greiling,1386,1,1
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Icking,3785,0,0
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Jachenau,886,1,0
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Kochel a. See,4069,5,2
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Königsdorf,2921,1,2
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Lenggries,9860,4,14
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Münsing,4235,1,4
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Reichersbeuern,2212,1,2
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Sachsenkam,1312,1,2
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Schlehdorf,1244,1,0
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Wackersberg,3624,1,0
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Wolfratshausen,17900,9,7
+Oberbayern,Berchtesgadener Land,Landkreis,Ainring,9855,3,3
+Oberbayern,Berchtesgadener Land,Landkreis,Anger,4385,4,4
+Oberbayern,Berchtesgadener Land,Landkreis,Bad Reichenhall,17682,9,16
+Oberbayern,Berchtesgadener Land,Landkreis,Bayerisch Gmain,3110,1,3
+Oberbayern,Berchtesgadener Land,Landkreis,Berchtesgaden,7752,7,8
+Oberbayern,Berchtesgadener Land,Landkreis,Bischofswiesen,7719,5,2
+Oberbayern,Berchtesgadener Land,Landkreis,Freilassing,16221,7,7
+Oberbayern,Berchtesgadener Land,Landkreis,Laufen,6671,5,8
+Oberbayern,Berchtesgadener Land,Landkreis,Marktschellenberg,1799,0,1
+Oberbayern,Berchtesgadener Land,Landkreis,Piding,5309,4,2
+Oberbayern,Berchtesgadener Land,Landkreis,Ramsau b. Berchtesgaden,1809,1,2
+Oberbayern,Berchtesgadener Land,Landkreis,Saaldorf-Surheim,5288,2,6
+Oberbayern,Berchtesgadener Land,Landkreis,Schneizlreuth,1427,0,0
+Oberbayern,Berchtesgadener Land,Landkreis,Schönau a. Königssee,5344,4,1
+Oberbayern,Berchtesgadener Land,Landkreis,Teisendorf,9210,6,5
+Oberbayern,Dachau,Landkreis,Altomünster,7632,3,2
+Oberbayern,Dachau,Landkreis,Bergkirchen,7357,5,1
+Oberbayern,Dachau,Landkreis,Dachau,44117,19,21
+Oberbayern,Dachau,Landkreis,Erdweg,5735,1,2
+Oberbayern,Dachau,Landkreis,Haimhausen,4975,1,2
+Oberbayern,Dachau,Landkreis,Hebertshausen,5362,1,2
+Oberbayern,Dachau,Landkreis,Hilgertshausen-Tandern,3157,2,4
+Oberbayern,Dachau,Landkreis,Karlsfeld,18863,4,4
+Oberbayern,Dachau,Landkreis,Markt Indersdorf,9477,8,7
+Oberbayern,Dachau,Landkreis,Odelzhausen,4431,3,2
+Oberbayern,Dachau,Landkreis,Petershausen,6208,4,6
+Oberbayern,Dachau,Landkreis,Pfaffenhofen a. d. Glonn,1846,0,1
+Oberbayern,Dachau,Landkreis,Röhrmoos,6456,3,3
+Oberbayern,Dachau,Landkreis,Schwabhausen,6244,2,4
+Oberbayern,Dachau,Landkreis,Sulzemoos,2766,1,1
+Oberbayern,Dachau,Landkreis,Vierkirchen,4415,4,2
+Oberbayern,Dachau,Landkreis,Weichs,3247,1,4
+Oberbayern,Ebersberg,Landkreis,Anzing,3744,2,1
+Oberbayern,Ebersberg,Landkreis,Aßling,4341,1,4
+Oberbayern,Ebersberg,Landkreis,Baiern,1451,1,4
+Oberbayern,Ebersberg,Landkreis,Bruck,1189,0,1
+Oberbayern,Ebersberg,Landkreis,Ebersberg,11753,5,5
+Oberbayern,Ebersberg,Landkreis,Egmating,2192,1,0
+Oberbayern,Ebersberg,Landkreis,Emmering,1434,1,2
+Oberbayern,Ebersberg,Landkreis,Forstinning,3524,1,3
+Oberbayern,Ebersberg,Landkreis,Frauenneuharting,1533,2,0
+Oberbayern,Ebersberg,Landkreis,Glonn,4546,3,6
+Oberbayern,Ebersberg,Landkreis,Grafing b. München,13022,7,8
+Oberbayern,Ebersberg,Landkreis,Hohenlinden,2924,2,0
+Oberbayern,Ebersberg,Landkreis,Kirchseeon,9994,4,5
+Oberbayern,Ebersberg,Landkreis,Markt Schwaben,12425,6,3
+Oberbayern,Ebersberg,Landkreis,Moosach,1498,0,1
+Oberbayern,Ebersberg,Landkreis,Oberpframmern,2272,1,2
+Oberbayern,Ebersberg,Landkreis,Pliening,5238,3,5
+Oberbayern,Ebersberg,Landkreis,Poing,14144,5,4
+Oberbayern,Ebersberg,Landkreis,Steinhöring,3892,1,1
+Oberbayern,Ebersberg,Landkreis,Vaterstetten,22148,6,4
+Oberbayern,Ebersberg,Landkreis,Zorneding,9030,4,0
+Oberbayern,Eichstätt,Landkreis,Adelschlag,2827,1,1
+Oberbayern,Eichstätt,Landkreis,Altmannstein,6754,3,5
+Oberbayern,Eichstätt,Landkreis,Beilngries,8796,6,11
+Oberbayern,Eichstätt,Landkreis,Böhmfeld,1612,0,2
+Oberbayern,Eichstätt,Landkreis,Buxheim,3582,1,3
+Oberbayern,Eichstätt,Landkreis,Denkendorf,4544,4,5
+Oberbayern,Eichstätt,Landkreis,Dollnstein,2740,2,2
+Oberbayern,Eichstätt,Landkreis,Egweil,1115,0,1
+Oberbayern,Eichstätt,Landkreis,Eichstätt,13684,10,7
+Oberbayern,Eichstätt,Landkreis,Eitensheim,2904,1,0
+Oberbayern,Eichstätt,Landkreis,Gaimersheim,11601,6,4
+Oberbayern,Eichstätt,Landkreis,Großmehring,6696,3,3
+Oberbayern,Eichstätt,Landkreis,Hepberg,2522,0,2
+Oberbayern,Eichstätt,Landkreis,Hitzhofen,2898,1,3
+Oberbayern,Eichstätt,Landkreis,Kinding,2526,1,3
+Oberbayern,Eichstätt,Landkreis,Kipfenberg,5757,2,3
+Oberbayern,Eichstätt,Landkreis,Kösching,9157,4,3
+Oberbayern,Eichstätt,Landkreis,Lenting,4749,2,1
+Oberbayern,Eichstätt,Landkreis,Mindelstetten,1664,0,0
+Oberbayern,Eichstätt,Landkreis,Mörnsheim,1570,0,1
+Oberbayern,Eichstätt,Landkreis,Nassenfels,1935,1,3
+Oberbayern,Eichstätt,Landkreis,Oberdolling,1201,1,1
+Oberbayern,Eichstätt,Landkreis,Pförring,3509,2,4
+Oberbayern,Eichstätt,Landkreis,Pollenfeld,2849,1,1
+Oberbayern,Eichstätt,Landkreis,Schernfeld,3085,1,2
+Oberbayern,Eichstätt,Landkreis,Stammham,1038,1,1
+Oberbayern,Eichstätt,Landkreis,Titting,2644,0,4
+Oberbayern,Eichstätt,Landkreis,Walting,2353,0,0
+Oberbayern,Eichstätt,Landkreis,Wellheim,2688,2,1
+Oberbayern,Eichstätt,Landkreis,Wettstetten,4856,2,0
+Oberbayern,Erding,Landkreis,Berglern,2641,1,0
+Oberbayern,Erding,Landkreis,Bockhorn,3632,1,1
+Oberbayern,Erding,Landkreis,Buch a. Buchrain,1458,1,0
+Oberbayern,Erding,Landkreis,Dorfen,13959,7,8
+Oberbayern,Erding,Landkreis,Eitting,2529,1,2
+Oberbayern,Erding,Landkreis,Erding,35120,20,9
+Oberbayern,Erding,Landkreis,Finsing,4420,1,1
+Oberbayern,Erding,Landkreis,Forstern,3405,1,3
+Oberbayern,Erding,Landkreis,Fraunberg,3421,1,1
+Oberbayern,Erding,Landkreis,Hohenpolding,1466,1,1
+Oberbayern,Erding,Landkreis,Inning a. Holz,1439,0,1
+Oberbayern,Erding,Landkreis,Isen,5413,3,2
+Oberbayern,Erding,Landkreis,Kirchberg,917,2,1
+Oberbayern,Erding,Landkreis,Langenpreising,2677,1,1
+Oberbayern,Erding,Landkreis,Lengdorf,2762,1,4
+Oberbayern,Erding,Landkreis,Moosinning,5627,1,4
+Oberbayern,Erding,Landkreis,Neuching,2483,0,0
+Oberbayern,Erding,Landkreis,Oberding,5766,2,1
+Oberbayern,Erding,Landkreis,Ottenhofen,1858,0,1
+Oberbayern,Erding,Landkreis,Pastetten,2487,2,5
+Oberbayern,Erding,Landkreis,Sankt Wolfgang,4302,1,5
+Oberbayern,Erding,Landkreis,Steinkirchen,1107,0,1
+Oberbayern,Erding,Landkreis,Taufkirchen (Vils),9254,5,5
+Oberbayern,Erding,Landkreis,Walpertskirchen,2077,1,1
+Oberbayern,Erding,Landkreis,Wartenberg,4881,2,4
+Oberbayern,Erding,Landkreis,Wörth,4460,1,1
+Oberbayern,Freising,Landkreis,Allershausen,5286,4,3
+Oberbayern,Freising,Landkreis,Attenkirchen,2680,0,2
+Oberbayern,Freising,Landkreis,Au i. d. Hallertau,5670,3,2
+Oberbayern,Freising,Landkreis,Eching,13761,5,4
+Oberbayern,Freising,Landkreis,Fahrenzhausen,4754,1,7
+Oberbayern,Freising,Landkreis,Freising,45131,23,18
+Oberbayern,Freising,Landkreis,Gammelsdorf,1606,1,2
+Oberbayern,Freising,Landkreis,Haag a. d. Amper,2851,1,3
+Oberbayern,Freising,Landkreis,Hallbergmoos,9914,5,6
+Oberbayern,Freising,Landkreis,Hohenkammer,2355,0,1
+Oberbayern,Freising,Landkreis,Hörgertshausen,1897,1,1
+Oberbayern,Freising,Landkreis,Kirchdorf a. d. Amper,2857,1,2
+Oberbayern,Freising,Landkreis,Kranzberg,4107,1,4
+Oberbayern,Freising,Landkreis,Langenbach,3917,2,1
+Oberbayern,Freising,Landkreis,Marzling,3195,0,0
+Oberbayern,Freising,Landkreis,Mauern,2845,2,3
+Oberbayern,Freising,Landkreis,Moosburg a. d. Isar,17811,9,7
+Oberbayern,Freising,Landkreis,Nandlstadt,5095,3,1
+Oberbayern,Freising,Landkreis,Neufahrn b. Freising,19753,6,3
+Oberbayern,Freising,Landkreis,Paunzhausen,1568,1,0
+Oberbayern,Freising,Landkreis,Rudelzhausen,3189,0,2
+Oberbayern,Freising,Landkreis,Wang,2471,1,0
+Oberbayern,Freising,Landkreis,Wolfersdorf,2468,1,1
+Oberbayern,Freising,Landkreis,Zolling,4296,3,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Adelshofen,1592,0,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Alling,3586,0,3
+Oberbayern,Fürstenfeldbruck,Landkreis,Althegnenberg,1891,0,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Egenhofen,3259,0,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Eichenau,12071,3,4
+Oberbayern,Fürstenfeldbruck,Landkreis,Emmering,1434,2,2
+Oberbayern,Fürstenfeldbruck,Landkreis,Fürstenfeldbruck,34299,13,16
+Oberbayern,Fürstenfeldbruck,Landkreis,Germering,37789,11,10
+Oberbayern,Fürstenfeldbruck,Landkreis,Grafrath,3654,1,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Gröbenzell,19754,7,4
+Oberbayern,Fürstenfeldbruck,Landkreis,Hattenhofen,1439,0,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Jesenwang,1531,0,2
+Oberbayern,Fürstenfeldbruck,Landkreis,Kottgeisering,1623,1,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Landsberied,1475,1,0
+Oberbayern,Fürstenfeldbruck,Landkreis,Maisach,13088,4,4
+Oberbayern,Fürstenfeldbruck,Landkreis,Mammendorf,4600,3,4
+Oberbayern,Fürstenfeldbruck,Landkreis,Mittelstetten,1687,1,0
+Oberbayern,Fürstenfeldbruck,Landkreis,Moorenweis,3917,4,4
+Oberbayern,Fürstenfeldbruck,Landkreis,Oberschweinbach,1651,1,0
+Oberbayern,Fürstenfeldbruck,Landkreis,Olching,26172,8,12
+Oberbayern,Fürstenfeldbruck,Landkreis,Puchheim,20547,6,8
+Oberbayern,Fürstenfeldbruck,Landkreis,Schöngeising,1918,1,1
+Oberbayern,Fürstenfeldbruck,Landkreis,Türkenfeld,3738,1,4
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Bad Bayersoien,1143,1,2
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Bad Kohlgrub,2576,1,3
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Eschenlohe,1583,1,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Ettal,835,1,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Farchant,3720,3,2
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Garmisch-Partenkirchen,26629,14,25
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Grainau,3523,4,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Großweil,1465,2,2
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Krün,1924,3,2
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Mittenwald,7400,5,13
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Murnau a. Staffelsee,12467,9,11
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Oberammergau,5119,4,7
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Oberau,3036,2,3
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Ohlstadt,3242,2,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Riegsee,1177,0,0
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Saulgrub,1649,1,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Schwaigen,592,0,0
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Seehausen a. Staffelsee,2484,0,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Spatzenhausen,751,0,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Uffing a. Staffelsee,3003,3,3
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Unterammergau,1509,0,1
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Wallgau,1414,1,2
+Oberbayern,Ingolstadt,Stadt,Ingolstadt,128230,56,39
+Oberbayern,Landsberg am Lech,Landkreis,Apfeldorf,1073,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Denklingen,2561,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Dießen am Ammersee,10377,7,8
+Oberbayern,Landsberg am Lech,Landkreis,Eching am Ammersee,1656,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Egling a. d. Paar,2286,1,2
+Oberbayern,Landsberg am Lech,Landkreis,Eresing,1831,0,1
+Oberbayern,Landsberg am Lech,Landkreis,Finning,1687,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Fuchstal,3529,4,2
+Oberbayern,Landsberg am Lech,Landkreis,Geltendorf,5579,3,1
+Oberbayern,Landsberg am Lech,Landkreis,Greifenberg,2205,1,0
+Oberbayern,Landsberg am Lech,Landkreis,Hofstetten,1804,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Hurlach,1695,1,0
+Oberbayern,Landsberg am Lech,Landkreis,Igling,2385,0,1
+Oberbayern,Landsberg am Lech,Landkreis,Kaufering,9950,5,4
+Oberbayern,Landsberg am Lech,Landkreis,Kinsau,1027,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Landsberg a. Lech,27830,19,12
+Oberbayern,Landsberg am Lech,Landkreis,Obermeitingen,1636,0,0
+Oberbayern,Landsberg am Lech,Landkreis,Penzing,3603,0,3
+Oberbayern,Landsberg am Lech,Landkreis,Prittriching,2430,1,3
+Oberbayern,Landsberg am Lech,Landkreis,Pürgen,3295,1,0
+Oberbayern,Landsberg am Lech,Landkreis,Reichling,1595,0,3
+Oberbayern,Landsberg am Lech,Landkreis,Rott,1497,1,4
+Oberbayern,Landsberg am Lech,Landkreis,Scheuring,1868,0,0
+Oberbayern,Landsberg am Lech,Landkreis,Schondorf am Ammersee,3950,2,3
+Oberbayern,Landsberg am Lech,Landkreis,Schwifting,920,0,0
+Oberbayern,Landsberg am Lech,Landkreis,Thaining,929,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Unterdießen,1393,2,3
+Oberbayern,Landsberg am Lech,Landkreis,Utting am Ammersee,4389,2,3
+Oberbayern,Landsberg am Lech,Landkreis,Vilgertshofen,2521,1,1
+Oberbayern,Landsberg am Lech,Landkreis,Weil,3790,0,0
+Oberbayern,Landsberg am Lech,Landkreis,Windach,3695,1,1
+Oberbayern,Miesbach,Landkreis,Bad Wiessee,4849,4,4
+Oberbayern,Miesbach,Landkreis,Bayrischzell,1636,1,4
+Oberbayern,Miesbach,Landkreis,Fischbachau,5495,3,9
+Oberbayern,Miesbach,Landkreis,Gmund a.Tegernsee,6023,2,3
+Oberbayern,Miesbach,Landkreis,Hausham,8049,5,7
+Oberbayern,Miesbach,Landkreis,Holzkirchen,15733,8,10
+Oberbayern,Miesbach,Landkreis,Irschenberg,3178,0,6
+Oberbayern,Miesbach,Landkreis,Kreuth,3823,0,2
+Oberbayern,Miesbach,Landkreis,Miesbach,11176,6,8
+Oberbayern,Miesbach,Landkreis,Otterfing,4646,1,1
+Oberbayern,Miesbach,Landkreis,Rottach-Egern,5623,5,7
+Oberbayern,Miesbach,Landkreis,Schliersee,6666,2,6
+Oberbayern,Miesbach,Landkreis,Tegernsee,3914,3,4
+Oberbayern,Miesbach,Landkreis,Valley,3031,0,3
+Oberbayern,Miesbach,Landkreis,Waakirchen,5596,3,3
+Oberbayern,Miesbach,Landkreis,Warngau,3833,1,4
+Oberbayern,Miesbach,Landkreis,Weyarn,3445,1,2
+Oberbayern,Mühldorf am Inn,Landkreis,Ampfing,6089,3,6
+Oberbayern,Mühldorf am Inn,Landkreis,Aschau a. Inn,2892,1,0
+Oberbayern,Mühldorf am Inn,Landkreis,Buchbach,3133,1,2
+Oberbayern,Mühldorf am Inn,Landkreis,Egglkofen,1204,1,1
+Oberbayern,Mühldorf am Inn,Landkreis,Erharting,904,0,1
+Oberbayern,Mühldorf am Inn,Landkreis,Gars a. Inn,3784,5,2
+Oberbayern,Mühldorf am Inn,Landkreis,Haag i. OB,6351,6,4
+Oberbayern,Mühldorf am Inn,Landkreis,Heldenstein,2423,0,0
+Oberbayern,Mühldorf am Inn,Landkreis,Jettenbach,713,0,0
+Oberbayern,Mühldorf am Inn,Landkreis,Kirchdorf,1353,0,2
+Oberbayern,Mühldorf am Inn,Landkreis,Kraiburg a. Inn,4011,2,5
+Oberbayern,Mühldorf am Inn,Landkreis,Lohkirchen,706,0,0
+Oberbayern,Mühldorf am Inn,Landkreis,Maitenbeth,1931,1,0
+Oberbayern,Mühldorf am Inn,Landkreis,Mettenheim,3436,2,1
+Oberbayern,Mühldorf am Inn,Landkreis,Mühldorf a. Inn,18393,10,11
+Oberbayern,Mühldorf am Inn,Landkreis,Neumarkt-Sankt Veit,6015,4,6
+Oberbayern,Mühldorf am Inn,Landkreis,Niederbergkirchen,1218,1,1
+Oberbayern,Mühldorf am Inn,Landkreis,Niedertaufkirchen,1323,0,0
+Oberbayern,Mühldorf am Inn,Landkreis,Oberbergkirchen,1619,1,1
+Oberbayern,Mühldorf am Inn,Landkreis,Oberneukirchen,836,0,0
+Oberbayern,Mühldorf am Inn,Landkreis,Obertaufkirchen,2445,2,0
+Oberbayern,Mühldorf am Inn,Landkreis,Polling,3347,1,5
+Oberbayern,Mühldorf am Inn,Landkreis,Rattenkirchen,957,0,0
+Oberbayern,Mühldorf am Inn,Landkreis,Rechtmehring,1863,1,1
+Oberbayern,Mühldorf am Inn,Landkreis,Reichertsheim,1657,2,1
+Oberbayern,Mühldorf am Inn,Landkreis,Schönberg,951,0,1
+Oberbayern,Mühldorf am Inn,Landkreis,Schwindegg,3441,3,2
+Oberbayern,Mühldorf am Inn,Landkreis,Taufkirchen,1354,1,8
+Oberbayern,Mühldorf am Inn,Landkreis,Unterreit,1721,0,2
+Oberbayern,Mühldorf am Inn,Landkreis,Waldkraiburg,23729,14,8
+Oberbayern,Mühldorf am Inn,Landkreis,Zangberg,1110,0,0
+Oberbayern,München,Landkreis,Aschheim,8035,6,3
+Oberbayern,München,Landkreis,Aying,4731,1,2
+Oberbayern,München,Landkreis,Baierbrunn,3069,1,0
+Oberbayern,München,Landkreis,Brunnthal,4976,3,3
+Oberbayern,München,Landkreis,Feldkirchen,7110,2,3
+Oberbayern,München,Landkreis,Garching b. München,16526,7,5
+Oberbayern,München,Landkreis,Gräfelfing,13223,4,9
+Oberbayern,München,Landkreis,Grasbrunn,6599,3,0
+Oberbayern,München,Landkreis,Grünwald,11191,5,6
+Oberbayern,München,Landkreis,Haar,20006,7,6
+Oberbayern,München,Landkreis,Hohenbrunn,9192,1,1
+Oberbayern,München,Landkreis,Höhenkirchen-Siegertsbrunn,10300,3,3
+Oberbayern,München,Landkreis,Ismaning,15802,6,8
+Oberbayern,München,Landkreis,Kirchheim b. München,12756,5,5
+Oberbayern,München,Landkreis,Neubiberg,13829,5,3
+Oberbayern,München,Landkreis,Neuried,8577,2,2
+Oberbayern,München,Landkreis,Oberhaching,13225,3,2
+Oberbayern,München,Landkreis,Oberschleißheim,11772,4,4
+Oberbayern,München,Landkreis,Ottobrunn,20765,7,7
+Oberbayern,München,Landkreis,Planegg,10674,5,5
+Oberbayern,München,Landkreis,Pullach i. Isartal,8843,4,2
+Oberbayern,München,Landkreis,Putzbrunn,6434,3,2
+Oberbayern,München,Landkreis,Sauerlach,7340,4,8
+Oberbayern,München,Landkreis,Schäftlarn,5781,1,1
+Oberbayern,München,Landkreis,Straßlach-Dingharting,2996,4,3
+Oberbayern,München,Landkreis,Taufkirchen,1354,5,8
+Oberbayern,München,Landkreis,Unterföhring,10782,6,2
+Oberbayern,München,Landkreis,Unterhaching,23411,14,5
+Oberbayern,München,Landkreis,Unterschleißheim,26238,10,2
+Oberbayern,München,Stadt,München,1439438,494,288
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Aresing,2755,1,2
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Berg im Gau,1228,0,1
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Bergheim,1810,1,0
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Brunnen,1576,0,1
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Burgheim,4522,3,4
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Ehekirchen,3693,1,0
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Gachenbach,2323,1,4
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Karlshuld,5297,4,5
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Karlskron,4812,2,2
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Königsmoos,4527,0,1
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Langenmosen,1518,1,3
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Neuburg a. d. Donau,28754,18,16
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Oberhausen,2689,1,2
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Rennertshofen,4781,3,2
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Rohrenfels,1537,1,1
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Schrobenhausen,16112,13,14
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Waidhofen,2206,1,0
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Weichering,2434,1,0
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Baar-Ebenhausen,4920,1,1
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Ernsgaden,1574,1,1
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Geisenfeld,10204,5,4
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Gerolsbach,3370,1,2
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Hettenshausen,2042,0,0
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Hohenwart,4589,2,6
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Ilmmünster,2072,1,2
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Jetzendorf,3022,1,1
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Manching,11471,5,3
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Münchsmünster,2868,1,4
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Pfaffenhofen a. d. Ilm,24379,13,10
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Pörnbach,2126,0,1
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Reichertshausen,4891,2,2
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Reichertshofen,7692,7,6
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Rohrbach,5714,2,3
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Scheyern,4659,1,2
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Schweitenkirchen,4981,2,4
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Vohburg a. d. Donau,7577,4,5
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Wolnzach,11171,4,10
+Oberbayern,Rosenheim,Landkreis,Albaching,1628,1,2
+Oberbayern,Rosenheim,Landkreis,Amerang,3589,2,2
+Oberbayern,Rosenheim,Landkreis,Aschau i. Chiemgau,5742,2,5
+Oberbayern,Rosenheim,Landkreis,Babensham,2936,1,1
+Oberbayern,Rosenheim,Landkreis,Bad Aibling,17866,7,11
+Oberbayern,Rosenheim,Landkreis,Bad Endorf,8130,8,4
+Oberbayern,Rosenheim,Landkreis,Bad Feilnbach,7704,4,3
+Oberbayern,Rosenheim,Landkreis,Bernau a. Chiemsee,7159,3,4
+Oberbayern,Rosenheim,Landkreis,Brannenburg,5870,4,6
+Oberbayern,Rosenheim,Landkreis,Breitbrunn a. Chiemsee,1471,1,1
+Oberbayern,Rosenheim,Landkreis,Bruckmühl,16057,8,10
+Oberbayern,Rosenheim,Landkreis,Chiemsee,304,0,0
+Oberbayern,Rosenheim,Landkreis,Edling,4328,3,2
+Oberbayern,Rosenheim,Landkreis,Eggstätt,2930,2,4
+Oberbayern,Rosenheim,Landkreis,Eiselfing,2940,0,0
+Oberbayern,Rosenheim,Landkreis,Feldkirchen-Westerham,10469,9,6
+Oberbayern,Rosenheim,Landkreis,Flintsbach a. Inn,3003,1,1
+Oberbayern,Rosenheim,Landkreis,Frasdorf,3046,1,3
+Oberbayern,Rosenheim,Landkreis,Griesstätt,2708,2,2
+Oberbayern,Rosenheim,Landkreis,Großkarolinenfeld,7137,3,1
+Oberbayern,Rosenheim,Landkreis,Gstadt a. Chiemsee,1364,2,2
+Oberbayern,Rosenheim,Landkreis,Halfing,2690,2,3
+Oberbayern,Rosenheim,Landkreis,Höslwang,1234,1,0
+Oberbayern,Rosenheim,Landkreis,Kiefersfelden,6816,7,4
+Oberbayern,Rosenheim,Landkreis,Kolbermoor,18163,9,6
+Oberbayern,Rosenheim,Landkreis,Neubeuern,4272,1,2
+Oberbayern,Rosenheim,Landkreis,Nußdorf a. Inn,2665,1,3
+Oberbayern,Rosenheim,Landkreis,Oberaudorf,5060,4,4
+Oberbayern,Rosenheim,Landkreis,Pfaffing,3900,2,0
+Oberbayern,Rosenheim,Landkreis,Prien a. Chiemsee,10555,10,9
+Oberbayern,Rosenheim,Landkreis,Prutting,2574,1,1
+Oberbayern,Rosenheim,Landkreis,Ramerberg,1380,0,1
+Oberbayern,Rosenheim,Landkreis,Raubling,11220,6,5
+Oberbayern,Rosenheim,Landkreis,Riedering,5532,3,4
+Oberbayern,Rosenheim,Landkreis,Rimsting,3736,1,3
+Oberbayern,Rosenheim,Landkreis,Rohrdorf,5586,2,4
+Oberbayern,Rosenheim,Landkreis,Rott a. Inn,3732,1,4
+Oberbayern,Rosenheim,Landkreis,Samerberg,2691,1,0
+Oberbayern,Rosenheim,Landkreis,Schechen,4642,1,1
+Oberbayern,Rosenheim,Landkreis,Schonstett,1286,1,1
+Oberbayern,Rosenheim,Landkreis,Söchtenau,2658,1,2
+Oberbayern,Rosenheim,Landkreis,Soyen,2728,2,3
+Oberbayern,Rosenheim,Landkreis,Stephanskirchen,10069,4,3
+Oberbayern,Rosenheim,Landkreis,Tuntenhausen,7042,1,8
+Oberbayern,Rosenheim,Landkreis,Vogtareuth,3148,1,1
+Oberbayern,Rosenheim,Landkreis,Wasserburg a. Inn,12280,12,4
+Oberbayern,Rosenheim,Stadt,Rosenheim,60246,29,26
+Oberbayern,Starnberg,Landkreis,Andechs,3382,2,3
+Oberbayern,Starnberg,Landkreis,Berg,8310,2,3
+Oberbayern,Starnberg,Landkreis,Feldafing,4294,1,3
+Oberbayern,Starnberg,Landkreis,Gauting,20345,5,5
+Oberbayern,Starnberg,Landkreis,Gilching,17988,8,5
+Oberbayern,Starnberg,Landkreis,Herrsching a. Ammersee,10284,5,9
+Oberbayern,Starnberg,Landkreis,Inning a. Ammersee,4462,1,1
+Oberbayern,Starnberg,Landkreis,Krailling,7650,2,2
+Oberbayern,Starnberg,Landkreis,Pöcking,5664,3,3
+Oberbayern,Starnberg,Landkreis,Seefeld,7115,2,6
+Oberbayern,Starnberg,Landkreis,Starnberg,23261,13,10
+Oberbayern,Starnberg,Landkreis,Tutzing,9600,6,5
+Oberbayern,Starnberg,Landkreis,Weßling,5300,2,2
+Oberbayern,Starnberg,Landkreis,Wörthsee,4902,2,1
+Oberbayern,Traunstein,Landkreis,Altenmarkt a. d. Alz,4242,1,3
+Oberbayern,Traunstein,Landkreis,Bergen,4891,2,3
+Oberbayern,Traunstein,Landkreis,Chieming,4587,2,4
+Oberbayern,Traunstein,Landkreis,Engelsberg,2605,2,1
+Oberbayern,Traunstein,Landkreis,Fridolfing,4149,3,3
+Oberbayern,Traunstein,Landkreis,Grabenstätt,4295,4,2
+Oberbayern,Traunstein,Landkreis,Grassau,6466,4,2
+Oberbayern,Traunstein,Landkreis,Inzell,4556,3,5
+Oberbayern,Traunstein,Landkreis,Kienberg,1365,1,0
+Oberbayern,Traunstein,Landkreis,Kirchanschöring,3178,2,1
+Oberbayern,Traunstein,Landkreis,Marquartstein,3259,2,1
+Oberbayern,Traunstein,Landkreis,Nußdorf,2440,1,3
+Oberbayern,Traunstein,Landkreis,Obing,3996,3,3
+Oberbayern,Traunstein,Landkreis,Palling,3391,2,4
+Oberbayern,Traunstein,Landkreis,Petting,2289,1,1
+Oberbayern,Traunstein,Landkreis,Pittenhart,1722,1,0
+Oberbayern,Traunstein,Landkreis,Reit im Winkl,2318,3,4
+Oberbayern,Traunstein,Landkreis,Ruhpolding,6408,5,6
+Oberbayern,Traunstein,Landkreis,Schleching,1746,2,1
+Oberbayern,Traunstein,Landkreis,Schnaitsee,3586,2,3
+Oberbayern,Traunstein,Landkreis,Seeon-Seebruck,4600,4,1
+Oberbayern,Traunstein,Landkreis,Siegsdorf,8082,5,4
+Oberbayern,Traunstein,Landkreis,Staudach-Egerndach,1112,0,1
+Oberbayern,Traunstein,Landkreis,Surberg,3212,1,0
+Oberbayern,Traunstein,Landkreis,Tacherting,5478,4,2
+Oberbayern,Traunstein,Landkreis,Taching a. See,1911,0,0
+Oberbayern,Traunstein,Landkreis,Tittmoning,5934,6,8
+Oberbayern,Traunstein,Landkreis,Traunreut,20315,10,1
+Oberbayern,Traunstein,Landkreis,Traunstein,19023,16,17
+Oberbayern,Traunstein,Landkreis,Trostberg,11380,9,7
+Oberbayern,Traunstein,Landkreis,Übersee,4918,2,5
+Oberbayern,Traunstein,Landkreis,Unterwössen,3511,3,2
+Oberbayern,Traunstein,Landkreis,Vachendorf,1840,1,1
+Oberbayern,Traunstein,Landkreis,Waging a. See,6523,7,7
+Oberbayern,Traunstein,Landkreis,Wonneberg,1509,0,1
+Oberbayern,Weilheim-Schongau,Landkreis,Altenstadt,3260,2,3
+Oberbayern,Weilheim-Schongau,Landkreis,Antdorf,1267,0,3
+Oberbayern,Weilheim-Schongau,Landkreis,Bernbeuren,2304,1,3
+Oberbayern,Weilheim-Schongau,Landkreis,Bernried am Starnberger See,2235,1,2
+Oberbayern,Weilheim-Schongau,Landkreis,Böbing,1779,1,1
+Oberbayern,Weilheim-Schongau,Landkreis,Burggen,1702,1,1
+Oberbayern,Weilheim-Schongau,Landkreis,Eberfing,1354,0,2
+Oberbayern,Weilheim-Schongau,Landkreis,Eglfing,1001,0,2
+Oberbayern,Weilheim-Schongau,Landkreis,Habach,1063,0,0
+Oberbayern,Weilheim-Schongau,Landkreis,Hohenfurch,1529,1,0
+Oberbayern,Weilheim-Schongau,Landkreis,Hohenpeißenberg,3726,2,0
+Oberbayern,Weilheim-Schongau,Landkreis,Huglfing,2593,2,0
+Oberbayern,Weilheim-Schongau,Landkreis,Iffeldorf,2546,1,2
+Oberbayern,Weilheim-Schongau,Landkreis,Ingenried,928,0,2
+Oberbayern,Weilheim-Schongau,Landkreis,Oberhausen,2689,1,2
+Oberbayern,Weilheim-Schongau,Landkreis,Obersöchering,1573,2,4
+Oberbayern,Weilheim-Schongau,Landkreis,Pähl,2455,1,6
+Oberbayern,Weilheim-Schongau,Landkreis,Peißenberg,12506,6,8
+Oberbayern,Weilheim-Schongau,Landkreis,Peiting,11620,9,5
+Oberbayern,Weilheim-Schongau,Landkreis,Penzberg,16327,7,10
+Oberbayern,Weilheim-Schongau,Landkreis,Polling,3347,1,5
+Oberbayern,Weilheim-Schongau,Landkreis,Prem,884,0,3
+Oberbayern,Weilheim-Schongau,Landkreis,Raisting,2235,2,1
+Oberbayern,Weilheim-Schongau,Landkreis,Rottenbuch,1764,1,0
+Oberbayern,Weilheim-Schongau,Landkreis,Schongau,12208,8,5
+Oberbayern,Weilheim-Schongau,Landkreis,Schwabbruck,922,1,1
+Oberbayern,Weilheim-Schongau,Landkreis,Schwabsoien,1292,1,0
+Oberbayern,Weilheim-Schongau,Landkreis,Seeshaupt,2900,2,2
+Oberbayern,Weilheim-Schongau,Landkreis,Sindelsdorf,1097,1,1
+Oberbayern,Weilheim-Schongau,Landkreis,Steingaden,2773,1,3
+Oberbayern,Weilheim-Schongau,Landkreis,Weilheim i. OB,21509,10,10
+Oberbayern,Weilheim-Schongau,Landkreis,Wessobrunn,2168,0,1
+Oberbayern,Weilheim-Schongau,Landkreis,Wielenbach,3211,2,1
+Oberbayern,Weilheim-Schongau,Landkreis,Wildsteig,1271,0,1
+Oberfranken,Bamberg,Landkreis,Altendorf,905,0,0
+Oberfranken,Bamberg,Landkreis,Baunach,3948,1,4
+Oberfranken,Bamberg,Landkreis,Bischberg,5990,4,4
+Oberfranken,Bamberg,Landkreis,Breitengüßbach,4757,5,4
+Oberfranken,Bamberg,Landkreis,Burgebrach,6481,5,4
+Oberfranken,Bamberg,Landkreis,Burgwindheim,1379,2,0
+Oberfranken,Bamberg,Landkreis,Buttenheim,3369,3,2
+Oberfranken,Bamberg,Landkreis,Ebrach,1870,1,5
+Oberfranken,Bamberg,Landkreis,Frensdorf,4895,1,3
+Oberfranken,Bamberg,Landkreis,Gerach,960,0,0
+Oberfranken,Bamberg,Landkreis,Gundelsheim,3323,1,0
+Oberfranken,Bamberg,Landkreis,Hallstadt,8419,4,5
+Oberfranken,Bamberg,Landkreis,Heiligenstadt i. OFr.,3587,2,2
+Oberfranken,Bamberg,Landkreis,Hirschaid,11912,9,6
+Oberfranken,Bamberg,Landkreis,Kemmern,2578,1,2
+Oberfranken,Bamberg,Landkreis,Königsfeld,1319,0,1
+Oberfranken,Bamberg,Landkreis,Lauter,1138,1,0
+Oberfranken,Bamberg,Landkreis,Lisberg,1756,1,1
+Oberfranken,Bamberg,Landkreis,Litzendorf,5996,3,7
+Oberfranken,Bamberg,Landkreis,Memmelsdorf,8880,4,5
+Oberfranken,Bamberg,Landkreis,Oberhaid,4684,1,2
+Oberfranken,Bamberg,Landkreis,Pettstadt,1960,1,0
+Oberfranken,Bamberg,Landkreis,Pommersfelden,2929,1,2
+Oberfranken,Bamberg,Landkreis,Priesendorf,1519,0,4
+Oberfranken,Bamberg,Landkreis,Rattelsdorf,4490,2,2
+Oberfranken,Bamberg,Landkreis,Reckendorf,1974,1,3
+Oberfranken,Bamberg,Landkreis,Scheßlitz,7045,4,6
+Oberfranken,Bamberg,Landkreis,Schlüsselfeld,5625,6,9
+Oberfranken,Bamberg,Landkreis,Schönbrunn i. Steigerwald,1842,1,0
+Oberfranken,Bamberg,Landkreis,Stadelhofen,1223,0,4
+Oberfranken,Bamberg,Landkreis,Stegaurach,6862,3,7
+Oberfranken,Bamberg,Landkreis,Strullendorf,7731,1,7
+Oberfranken,Bamberg,Landkreis,Viereth-Trunstadt,3623,2,5
+Oberfranken,Bamberg,Landkreis,Walsdorf,2566,1,2
+Oberfranken,Bamberg,Landkreis,Wattendorf,673,0,0
+Oberfranken,Bamberg,Landkreis,Zapfendorf,5001,3,5
+Oberfranken,Bamberg,Stadt,Bamberg,69871,37,38
+Oberfranken,Bayreuth,Landkreis,Ahorntal,2231,0,3
+Oberfranken,Bayreuth,Landkreis,Aufseß,1306,1,4
+Oberfranken,Bayreuth,Landkreis,Bad Berneck i. Fichtelgebirge,4539,3,5
+Oberfranken,Bayreuth,Landkreis,Betzenstein,2483,0,8
+Oberfranken,Bayreuth,Landkreis,Bindlach,7151,2,5
+Oberfranken,Bayreuth,Landkreis,Bischofsgrün,1932,1,3
+Oberfranken,Bayreuth,Landkreis,Creußen,4657,2,2
+Oberfranken,Bayreuth,Landkreis,Eckersdorf,5142,2,1
+Oberfranken,Bayreuth,Landkreis,Emtmannsberg,1103,0,0
+Oberfranken,Bayreuth,Landkreis,Fichtelberg,1916,1,3
+Oberfranken,Bayreuth,Landkreis,Gefrees,4523,2,5
+Oberfranken,Bayreuth,Landkreis,Gesees,1294,0,1
+Oberfranken,Bayreuth,Landkreis,Glashütten,1439,1,0
+Oberfranken,Bayreuth,Landkreis,Goldkronach,3641,1,4
+Oberfranken,Bayreuth,Landkreis,Haag,932,0,0
+Oberfranken,Bayreuth,Landkreis,Heinersreuth,3657,1,1
+Oberfranken,Bayreuth,Landkreis,Hollfeld,5107,5,5
+Oberfranken,Bayreuth,Landkreis,Hummeltal,2385,0,3
+Oberfranken,Bayreuth,Landkreis,Kirchenpingarten,1335,0,1
+Oberfranken,Bayreuth,Landkreis,Mehlmeisel,1320,2,6
+Oberfranken,Bayreuth,Landkreis,Mistelbach,1597,1,0
+Oberfranken,Bayreuth,Landkreis,Mistelgau,3765,1,0
+Oberfranken,Bayreuth,Landkreis,Pegnitz,13486,8,13
+Oberfranken,Bayreuth,Landkreis,Plankenfels,860,0,2
+Oberfranken,Bayreuth,Landkreis,Plech,1328,2,2
+Oberfranken,Bayreuth,Landkreis,Pottenstein,5342,2,7
+Oberfranken,Bayreuth,Landkreis,Prebitz,1059,0,0
+Oberfranken,Bayreuth,Landkreis,Schnabelwaid,975,0,0
+Oberfranken,Bayreuth,Landkreis,Seybothenreuth,1351,0,1
+Oberfranken,Bayreuth,Landkreis,Speichersdorf,5980,4,6
+Oberfranken,Bayreuth,Landkreis,Waischenfeld,3104,2,9
+Oberfranken,Bayreuth,Landkreis,Warmensteinach,2130,1,1
+Oberfranken,Bayreuth,Landkreis,Weidenberg,6318,5,8
+Oberfranken,Bayreuth,Stadt,Bayreuth,72001,35,38
+Oberfranken,Coburg,Landkreis,Ahorn,4286,1,5
+Oberfranken,Coburg,Landkreis,Bad Rodach,6340,5,8
+Oberfranken,Coburg,Landkreis,Dörfles-Esbach,3625,3,3
+Oberfranken,Coburg,Landkreis,Ebersdorf b. Coburg,5954,4,6
+Oberfranken,Coburg,Landkreis,Großheirath,2583,0,3
+Oberfranken,Coburg,Landkreis,Grub a. Forst,2938,0,4
+Oberfranken,Coburg,Landkreis,Itzgrund,2307,1,2
+Oberfranken,Coburg,Landkreis,Lautertal,4173,0,4
+Oberfranken,Coburg,Landkreis,Meeder,3770,1,6
+Oberfranken,Coburg,Landkreis,Neustadt b. Coburg,15321,7,10
+Oberfranken,Coburg,Landkreis,Niederfüllbach,1587,1,0
+Oberfranken,Coburg,Landkreis,Rödental,12955,8,6
+Oberfranken,Coburg,Landkreis,Seßlach,3950,3,6
+Oberfranken,Coburg,Landkreis,Sonnefeld,5009,4,7
+Oberfranken,Coburg,Landkreis,Untersiemau,4064,2,4
+Oberfranken,Coburg,Landkreis,Weidhausen b. Coburg,3154,2,5
+Oberfranken,Coburg,Landkreis,Weitramsdorf,5043,1,4
+Oberfranken,Coburg,Stadt,Coburg,40862,22,15
+Oberfranken,Forchheim,Landkreis,Dormitz,2039,1,1
+Oberfranken,Forchheim,Landkreis,Ebermannstadt,6825,3,8
+Oberfranken,Forchheim,Landkreis,Effeltrich,2650,0,4
+Oberfranken,Forchheim,Landkreis,Eggolsheim,6377,2,4
+Oberfranken,Forchheim,Landkreis,Egloffstein,1990,1,4
+Oberfranken,Forchheim,Landkreis,Forchheim,31084,14,16
+Oberfranken,Forchheim,Landkreis,Gößweinstein,4067,2,6
+Oberfranken,Forchheim,Landkreis,Gräfenberg,4050,3,4
+Oberfranken,Forchheim,Landkreis,Hallerndorf,4040,0,2
+Oberfranken,Forchheim,Landkreis,Hausen,2031,3,2
+Oberfranken,Forchheim,Landkreis,Heroldsbach,4995,1,3
+Oberfranken,Forchheim,Landkreis,Hetzles,1298,0,5
+Oberfranken,Forchheim,Landkreis,Hiltpoltstein,1534,1,3
+Oberfranken,Forchheim,Landkreis,Igensdorf,4955,2,5
+Oberfranken,Forchheim,Landkreis,Kirchehrenbach,2254,2,3
+Oberfranken,Forchheim,Landkreis,Kleinsendelbach,1517,0,1
+Oberfranken,Forchheim,Landkreis,Kunreuth,1359,1,4
+Oberfranken,Forchheim,Landkreis,Langensendelbach,3037,1,4
+Oberfranken,Forchheim,Landkreis,Leutenbach,1723,1,3
+Oberfranken,Forchheim,Landkreis,Neunkirchen a. Brand,7950,4,6
+Oberfranken,Forchheim,Landkreis,Obertrubach,2188,1,2
+Oberfranken,Forchheim,Landkreis,Pinzberg,1920,0,1
+Oberfranken,Forchheim,Landkreis,Poxdorf,1491,0,3
+Oberfranken,Forchheim,Landkreis,Pretzfeld,2461,0,5
+Oberfranken,Forchheim,Landkreis,Unterleinleiter,1222,0,0
+Oberfranken,Forchheim,Landkreis,Weilersbach,2032,1,0
+Oberfranken,Forchheim,Landkreis,Weißenohe,1087,0,0
+Oberfranken,Forchheim,Landkreis,Wiesenthau,1624,0,3
+Oberfranken,Forchheim,Landkreis,Wiesenttal,2487,1,0
+Oberfranken,Hof,Landkreis,Bad Steben,3434,1,8
+Oberfranken,Hof,Landkreis,Berg,8310,1,2
+Oberfranken,Hof,Landkreis,Döhlau,4068,0,3
+Oberfranken,Hof,Landkreis,Feilitzsch,2814,1,2
+Oberfranken,Hof,Landkreis,Gattendorf,1074,1,0
+Oberfranken,Hof,Landkreis,Geroldsgrün,2831,2,7
+Oberfranken,Hof,Landkreis,Helmbrechts,8623,4,11
+Oberfranken,Hof,Landkreis,Issigau,1065,1,0
+Oberfranken,Hof,Landkreis,Köditz,2575,2,1
+Oberfranken,Hof,Landkreis,Konradsreuth,3266,2,5
+Oberfranken,Hof,Landkreis,Leupoldsgrün,1263,0,1
+Oberfranken,Hof,Landkreis,Lichtenberg,1069,0,0
+Oberfranken,Hof,Landkreis,Münchberg,10695,8,14
+Oberfranken,Hof,Landkreis,Naila,7927,5,9
+Oberfranken,Hof,Landkreis,Oberkotzau,5452,2,5
+Oberfranken,Hof,Landkreis,Regnitzlosau,2424,2,3
+Oberfranken,Hof,Landkreis,Rehau,9382,4,7
+Oberfranken,Hof,Landkreis,Schauenstein,1975,1,4
+Oberfranken,Hof,Landkreis,Schwarzenbach a. d. Saale,7097,3,0
+Oberfranken,Hof,Landkreis,Schwarzenbach a. Wald,4612,2,7
+Oberfranken,Hof,Landkreis,Selbitz,4389,1,6
+Oberfranken,Hof,Landkreis,Sparneck,1637,1,2
+Oberfranken,Hof,Landkreis,Stammbach,2342,1,2
+Oberfranken,Hof,Landkreis,Töpen,1110,2,1
+Oberfranken,Hof,Landkreis,Trogen,1507,1,2
+Oberfranken,Hof,Landkreis,Weißdorf,1162,1,1
+Oberfranken,Hof,Landkreis,Zell im Fichtelgebirge,2099,1,3
+Oberfranken,Hof,Stadt,Hof,45638,26,22
+Oberfranken,Kronach,Landkreis,Kronach,17113,14,18
+Oberfranken,Kronach,Landkreis,Küps,7845,6,9
+Oberfranken,Kronach,Landkreis,Ludwigsstadt,3442,3,8
+Oberfranken,Kronach,Landkreis,Marktrodach,3793,2,3
+Oberfranken,Kronach,Landkreis,Mitwitz,2911,2,6
+Oberfranken,Kronach,Landkreis,Nordhalben,1800,1,1
+Oberfranken,Kronach,Landkreis,Pressig,4061,3,11
+Oberfranken,Kronach,Landkreis,Reichenbach,1263,0,2
+Oberfranken,Kronach,Landkreis,Schneckenlohe,1103,0,2
+Oberfranken,Kronach,Landkreis,Steinbach a. Wald,3281,5,5
+Oberfranken,Kronach,Landkreis,Steinwiesen,3556,4,6
+Oberfranken,Kronach,Landkreis,Stockheim,5046,6,9
+Oberfranken,Kronach,Landkreis,Tettau,2245,2,3
+Oberfranken,Kronach,Landkreis,Teuschnitz,1988,1,4
+Oberfranken,Kronach,Landkreis,Tschirn,527,0,0
+Oberfranken,Kronach,Landkreis,Wallenfels,2830,2,3
+Oberfranken,Kronach,Landkreis,Weißenbrunn,2950,1,5
+Oberfranken,Kronach,Landkreis,Wilhelmsthal,3854,3,8
+Oberfranken,Kulmbach,Landkreis,Grafengehaig,922,1,1
+Oberfranken,Kulmbach,Landkreis,Guttenberg,514,0,0
+Oberfranken,Kulmbach,Landkreis,Harsdorf,1015,0,1
+Oberfranken,Kulmbach,Landkreis,Himmelkron,3496,3,6
+Oberfranken,Kulmbach,Landkreis,Kasendorf,2492,0,4
+Oberfranken,Kulmbach,Landkreis,Ködnitz,1599,0,4
+Oberfranken,Kulmbach,Landkreis,Kulmbach,26436,13,18
+Oberfranken,Kulmbach,Landkreis,Kupferberg,1036,0,4
+Oberfranken,Kulmbach,Landkreis,Ludwigschorgast,953,0,1
+Oberfranken,Kulmbach,Landkreis,Mainleus,6469,4,5
+Oberfranken,Kulmbach,Landkreis,Marktleugast,3196,2,3
+Oberfranken,Kulmbach,Landkreis,Marktschorgast,1436,1,2
+Oberfranken,Kulmbach,Landkreis,Neudrossenfeld,3881,1,3
+Oberfranken,Kulmbach,Landkreis,Neuenmarkt,3078,2,2
+Oberfranken,Kulmbach,Landkreis,Presseck,1854,3,0
+Oberfranken,Kulmbach,Landkreis,Rugendorf,998,0,2
+Oberfranken,Kulmbach,Landkreis,Stadtsteinach,3272,2,4
+Oberfranken,Kulmbach,Landkreis,Thurnau,4260,4,6
+Oberfranken,Kulmbach,Landkreis,Trebgast,1598,1,5
+Oberfranken,Kulmbach,Landkreis,Untersteinach,1846,1,1
+Oberfranken,Kulmbach,Landkreis,Wirsberg,1908,0,3
+Oberfranken,Kulmbach,Landkreis,Wonsees,1131,0,3
+Oberfranken,Lichtenfels,Landkreis,Altenkunstadt,5359,3,2
+Oberfranken,Lichtenfels,Landkreis,Bad Staffelstein,10587,6,17
+Oberfranken,Lichtenfels,Landkreis,Burgkunstadt,6525,4,6
+Oberfranken,Lichtenfels,Landkreis,Ebensfeld,5625,2,4
+Oberfranken,Lichtenfels,Landkreis,Hochstadt a. Main,1666,1,1
+Oberfranken,Lichtenfels,Landkreis,Lichtenfels,20251,12,16
+Oberfranken,Lichtenfels,Landkreis,Marktgraitz,1285,1,2
+Oberfranken,Lichtenfels,Landkreis,Marktzeuln,1612,0,1
+Oberfranken,Lichtenfels,Landkreis,Michelau i. OFr.,6492,4,10
+Oberfranken,Lichtenfels,Landkreis,Redwitz a. d. Rodach,3345,1,4
+Oberfranken,Lichtenfels,Landkreis,Weismain,4891,3,6
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Arzberg,5365,3,5
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Bad Alexandersbad,1183,0,1
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Höchstädt i. Fichtelgebirge,1140,0,1
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Hohenberg a. d. Eger,1445,1,1
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Kirchenlamitz,3384,1,4
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Marktleuthen,3299,2,5
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Marktredwitz,17204,8,16
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Nagel,1763,2,6
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Röslau,2226,2,5
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Schirnding,1255,1,3
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Schönwald,3357,2,3
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Selb,15595,8,12
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Thiersheim,1911,1,2
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Thierstein,1175,0,2
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Tröstau,2453,1,2
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Weißenstadt,3193,2,5
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Wunsiedel,9274,7,9
+Oberpfalz,Amberg,Stadt,Amberg,42385,20,30
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ammerthal,2093,0,2
+Oberpfalz,Amberg-Sulzbach,Landkreis,Auerbach i. d. OPf.,8828,5,7
+Oberpfalz,Amberg-Sulzbach,Landkreis,Birgland,1816,1,4
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ebermannsdorf,2415,0,0
+Oberpfalz,Amberg-Sulzbach,Landkreis,Edelsfeld,1895,1,2
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ensdorf,2198,0,1
+Oberpfalz,Amberg-Sulzbach,Landkreis,Etzelwang,1440,1,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Freihung,2506,1,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Freudenberg,4187,1,2
+Oberpfalz,Amberg-Sulzbach,Landkreis,Gebenbach,913,0,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Hahnbach,4916,3,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Hirschau,5819,3,5
+Oberpfalz,Amberg-Sulzbach,Landkreis,Hirschbach,1248,0,1
+Oberpfalz,Amberg-Sulzbach,Landkreis,Hohenburg,1625,0,1
+Oberpfalz,Amberg-Sulzbach,Landkreis,Illschwang,2083,0,1
+Oberpfalz,Amberg-Sulzbach,Landkreis,Kastl,2651,1,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Königstein,1765,1,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Kümmersbruck,9934,3,3
+Oberpfalz,Amberg-Sulzbach,Landkreis,Neukirchen b. Sulzbach-Rosenberg,2618,1,6
+Oberpfalz,Amberg-Sulzbach,Landkreis,Poppenricht,3417,1,1
+Oberpfalz,Amberg-Sulzbach,Landkreis,Rieden,2838,2,4
+Oberpfalz,Amberg-Sulzbach,Landkreis,Schmidmühlen,2377,1,2
+Oberpfalz,Amberg-Sulzbach,Landkreis,Schnaittenbach,4175,3,7
+Oberpfalz,Amberg-Sulzbach,Landkreis,Sulzbach-Rosenberg,19484,7,10
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ursensollen,3711,1,9
+Oberpfalz,Amberg-Sulzbach,Landkreis,Vilseck,6435,3,1
+Oberpfalz,Amberg-Sulzbach,Landkreis,Weigendorf,1238,0,3
+Oberpfalz,Cham,Landkreis,Arnschwang,2010,1,4
+Oberpfalz,Cham,Landkreis,Arrach,2631,2,3
+Oberpfalz,Cham,Landkreis,Bad Kötzting,7292,7,5
+Oberpfalz,Cham,Landkreis,Blaibach,1977,1,2
+Oberpfalz,Cham,Landkreis,Cham,16827,12,15
+Oberpfalz,Cham,Landkreis,Chamerau,2598,1,4
+Oberpfalz,Cham,Landkreis,Eschlkam,3385,2,8
+Oberpfalz,Cham,Landkreis,Falkenstein,3216,2,3
+Oberpfalz,Cham,Landkreis,Furth i. Wald,8961,9,15
+Oberpfalz,Cham,Landkreis,Gleißenberg,880,0,2
+Oberpfalz,Cham,Landkreis,Grafenwiesen,1582,2,3
+Oberpfalz,Cham,Landkreis,Hohenwarth,1966,2,4
+Oberpfalz,Cham,Landkreis,Lam,2749,5,6
+Oberpfalz,Cham,Landkreis,Lohberg,1948,2,4
+Oberpfalz,Cham,Landkreis,Michelsneukirchen,1744,1,3
+Oberpfalz,Cham,Landkreis,Miltach,2277,2,4
+Oberpfalz,Cham,Landkreis,Neukirchen b. Hl. Blut,3825,4,7
+Oberpfalz,Cham,Landkreis,Pemfling,2222,1,3
+Oberpfalz,Cham,Landkreis,Pösing,970,1,1
+Oberpfalz,Cham,Landkreis,Reichenbach,1263,1,1
+Oberpfalz,Cham,Landkreis,Rettenbach,1767,0,1
+Oberpfalz,Cham,Landkreis,Rimbach,882,0,3
+Oberpfalz,Cham,Landkreis,Roding,11781,10,9
+Oberpfalz,Cham,Landkreis,Rötz,3567,2,3
+Oberpfalz,Cham,Landkreis,Runding,2278,1,2
+Oberpfalz,Cham,Landkreis,Schönthal,2050,1,3
+Oberpfalz,Cham,Landkreis,Schorndorf,2632,2,4
+Oberpfalz,Cham,Landkreis,Stamsried,2128,2,3
+Oberpfalz,Cham,Landkreis,Tiefenbach,3716,2,2
+Oberpfalz,Cham,Landkreis,Traitsching,4079,1,4
+Oberpfalz,Cham,Landkreis,Treffelstein,1001,1,1
+Oberpfalz,Cham,Landkreis,Waffenbrunn,2043,1,1
+Oberpfalz,Cham,Landkreis,Wald,2815,1,5
+Oberpfalz,Cham,Landkreis,Walderbach,2103,1,2
+Oberpfalz,Cham,Landkreis,Waldmünchen,6975,6,6
+Oberpfalz,Cham,Landkreis,Weiding,2568,2,3
+Oberpfalz,Cham,Landkreis,Willmering,2079,2,0
+Oberpfalz,Cham,Landkreis,Zandt,1903,2,4
+Oberpfalz,Cham,Landkreis,Zell,1824,2,2
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Berching,8525,2,9
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Berg b. Neumarkt i. d. OPf.,7538,2,4
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Berngau,2543,0,1
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Breitenbrunn,3384,1,0
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Deining,4334,1,2
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Dietfurt a. d. Altmühl,6101,3,6
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Freystadt,8577,5,8
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Hohenfels,2031,1,1
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Lauterhofen,3625,1,4
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Lupburg,2350,1,2
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Mühlhausen,4580,4,3
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Neumarkt i. d. OPf.,38612,18,17
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Parsberg,6761,5,4
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Pilsach,2708,0,4
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Postbauer-Heng,7422,3,5
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Pyrbaum,5637,3,3
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Sengenthal,3018,1,2
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Seubersdorf i. d. OPf.,4963,2,7
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Velburg,5133,2,4
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Altenstadt a. d. Waldnaab,4769,1,2
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Bechtsrieth,1060,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Eschenbach i. d. OPf.,4045,3,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Eslarn,2769,2,4
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Etzenricht,1586,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Floß,3460,3,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Flossenbürg,1627,1,1
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Georgenberg,1388,1,1
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Grafenwöhr,6637,6,6
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Irchenrieth,1215,1,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Kirchendemenreuth,881,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Kirchenthumbach,3231,1,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Kohlberg,1295,0,1
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Leuchtenberg,1231,0,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Luhe-Wildenau,3421,1,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Mantel,2906,1,6
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Moosbach,2462,1,7
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Neustadt a. d. Waldnaab,5800,4,5
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Neustadt a. Kulm,1229,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Parkstein,2297,0,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Pirk,1808,0,2
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Pleystein,2528,1,7
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Pressath,4349,4,7
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Püchersreuth,1604,1,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Schirmitz,2047,0,1
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Schlammersdorf,883,0,2
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Schwarzenbach,1164,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Speinshart,1120,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Störnstein,1460,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Tännesberg,1463,1,4
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Theisseil,1207,0,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Trabitz,1318,0,1
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Vohenstrauß,8046,5,8
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Vorbach,1017,1,0
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Waidhaus,2312,1,2
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Waldthurn,1984,1,3
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Weiherhammer,3811,2,4
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Windischeschenbach,5070,4,13
+Oberpfalz,Regensburg,Landkreis,Alteglofsheim,3260,1,3
+Oberpfalz,Regensburg,Landkreis,Altenthann,1535,0,0
+Oberpfalz,Regensburg,Landkreis,Aufhausen,1725,1,3
+Oberpfalz,Regensburg,Landkreis,Bach a. d. Donau,1847,0,3
+Oberpfalz,Regensburg,Landkreis,Barbing,5229,2,4
+Oberpfalz,Regensburg,Landkreis,Beratzhausen,5341,2,5
+Oberpfalz,Regensburg,Landkreis,Bernhardswald,5603,2,3
+Oberpfalz,Regensburg,Landkreis,Brennberg,1853,1,2
+Oberpfalz,Regensburg,Landkreis,Brunn,1466,2,1
+Oberpfalz,Regensburg,Landkreis,Deuerling,2050,0,2
+Oberpfalz,Regensburg,Landkreis,Donaustauf,3814,1,2
+Oberpfalz,Regensburg,Landkreis,Duggendorf,1611,0,0
+Oberpfalz,Regensburg,Landkreis,Hagelstadt,1993,1,2
+Oberpfalz,Regensburg,Landkreis,Hemau,8578,5,4
+Oberpfalz,Regensburg,Landkreis,Holzheim a. Forst,984,1,0
+Oberpfalz,Regensburg,Landkreis,Kallmünz,2844,2,2
+Oberpfalz,Regensburg,Landkreis,Köfering,2434,2,0
+Oberpfalz,Regensburg,Landkreis,Laaber,5146,1,3
+Oberpfalz,Regensburg,Landkreis,Lappersdorf,13169,7,5
+Oberpfalz,Regensburg,Landkreis,Mintraching,4837,0,2
+Oberpfalz,Regensburg,Landkreis,Mötzing,1526,0,0
+Oberpfalz,Regensburg,Landkreis,Neutraubling,13080,6,3
+Oberpfalz,Regensburg,Landkreis,Nittendorf,8955,5,4
+Oberpfalz,Regensburg,Landkreis,Obertraubling,7912,2,5
+Oberpfalz,Regensburg,Landkreis,Pentling,5952,3,0
+Oberpfalz,Regensburg,Landkreis,Pettendorf,3342,1,1
+Oberpfalz,Regensburg,Landkreis,Pfakofen,1580,0,2
+Oberpfalz,Regensburg,Landkreis,Pfatter,3107,2,3
+Oberpfalz,Regensburg,Landkreis,Pielenhofen,1461,0,1
+Oberpfalz,Regensburg,Landkreis,Regenstauf,15447,8,8
+Oberpfalz,Regensburg,Landkreis,Riekofen,799,0,0
+Oberpfalz,Regensburg,Landkreis,Schierling,7415,2,7
+Oberpfalz,Regensburg,Landkreis,Sinzing,6846,3,4
+Oberpfalz,Regensburg,Landkreis,Sünching,1972,1,1
+Oberpfalz,Regensburg,Landkreis,Tegernheim,5196,3,3
+Oberpfalz,Regensburg,Landkreis,Thalmassing,3323,0,0
+Oberpfalz,Regensburg,Landkreis,Wenzenbach,8331,2,4
+Oberpfalz,Regensburg,Landkreis,Wiesent,2539,0,2
+Oberpfalz,Regensburg,Landkreis,Wolfsegg,1501,1,1
+Oberpfalz,Regensburg,Landkreis,Wörth a. d. Donau,4588,4,5
+Oberpfalz,Regensburg,Landkreis,Zeitlarn,5933,1,0
+Oberpfalz,Regensburg,Stadt,Regensburg,136886,58,36
+Oberpfalz,Schwandorf,Landkreis,Altendorf,905,0,0
+Oberpfalz,Schwandorf,Landkreis,Bodenwöhr,4097,1,5
+Oberpfalz,Schwandorf,Landkreis,Bruck i. d. OPf.,4323,2,5
+Oberpfalz,Schwandorf,Landkreis,Burglengenfeld,12589,5,6
+Oberpfalz,Schwandorf,Landkreis,Dieterskirchen,1004,1,3
+Oberpfalz,Schwandorf,Landkreis,Fensterbach,2409,1,5
+Oberpfalz,Schwandorf,Landkreis,Gleiritsch,672,0,0
+Oberpfalz,Schwandorf,Landkreis,Guteneck,856,0,1
+Oberpfalz,Schwandorf,Landkreis,Maxhütte-Haidhof,10720,5,7
+Oberpfalz,Schwandorf,Landkreis,Nabburg,5982,4,7
+Oberpfalz,Schwandorf,Landkreis,Neukirchen-Balbini,1118,1,2
+Oberpfalz,Schwandorf,Landkreis,Neunburg vorm Wald,8062,8,8
+Oberpfalz,Schwandorf,Landkreis,Niedermurach,1251,0,2
+Oberpfalz,Schwandorf,Landkreis,Nittenau,8599,4,5
+Oberpfalz,Schwandorf,Landkreis,Oberviechtach,4841,4,5
+Oberpfalz,Schwandorf,Landkreis,Pfreimd,5459,4,4
+Oberpfalz,Schwandorf,Landkreis,Schmidgaden,2869,1,1
+Oberpfalz,Schwandorf,Landkreis,Schönsee,2598,2,2
+Oberpfalz,Schwandorf,Landkreis,Schwandorf,27591,14,15
+Oberpfalz,Schwandorf,Landkreis,Schwarzach b. Nabburg,1486,0,0
+Oberpfalz,Schwandorf,Landkreis,Schwarzenfeld,6157,4,7
+Oberpfalz,Schwandorf,Landkreis,Schwarzhofen,1429,1,1
+Oberpfalz,Schwandorf,Landkreis,Stadlern,587,1,0
+Oberpfalz,Schwandorf,Landkreis,Steinberg am See,1855,1,2
+Oberpfalz,Schwandorf,Landkreis,Stulln,1642,0,2
+Oberpfalz,Schwandorf,Landkreis,Teublitz,7341,5,3
+Oberpfalz,Schwandorf,Landkreis,Teunz,1913,1,2
+Oberpfalz,Schwandorf,Landkreis,Thanstein,979,2,0
+Oberpfalz,Schwandorf,Landkreis,Trausnitz,932,0,0
+Oberpfalz,Schwandorf,Landkreis,Wackersdorf,5024,2,0
+Oberpfalz,Schwandorf,Landkreis,Weiding,2568,0,3
+Oberpfalz,Schwandorf,Landkreis,Wernberg-Köblitz,5581,4,7
+Oberpfalz,Schwandorf,Landkreis,Winklarn,1437,0,4
+Oberpfalz,Tirschenreuth,Landkreis,Bärnau,3155,2,6
+Oberpfalz,Tirschenreuth,Landkreis,Brand,1143,2,3
+Oberpfalz,Tirschenreuth,Landkreis,Ebnath,1330,0,3
+Oberpfalz,Tirschenreuth,Landkreis,Erbendorf,5273,4,5
+Oberpfalz,Tirschenreuth,Landkreis,Falkenberg,3770,1,2
+Oberpfalz,Tirschenreuth,Landkreis,Friedenfels,1261,0,1
+Oberpfalz,Tirschenreuth,Landkreis,Fuchsmühl,1656,1,2
+Oberpfalz,Tirschenreuth,Landkreis,Immenreuth,1808,1,2
+Oberpfalz,Tirschenreuth,Landkreis,Kastl,2651,0,3
+Oberpfalz,Tirschenreuth,Landkreis,Kemnath,5229,6,8
+Oberpfalz,Tirschenreuth,Landkreis,Konnersreuth,1892,0,3
+Oberpfalz,Tirschenreuth,Landkreis,Krummennaab,1484,2,0
+Oberpfalz,Tirschenreuth,Landkreis,Kulmain,2281,1,4
+Oberpfalz,Tirschenreuth,Landkreis,Leonberg,1095,0,0
+Oberpfalz,Tirschenreuth,Landkreis,Mähring,1868,2,1
+Oberpfalz,Tirschenreuth,Landkreis,Mitterteich,6699,3,7
+Oberpfalz,Tirschenreuth,Landkreis,Neualbenreuth,1448,0,3
+Oberpfalz,Tirschenreuth,Landkreis,Neusorg,1873,2,3
+Oberpfalz,Tirschenreuth,Landkreis,Pechbrunn,1381,0,2
+Oberpfalz,Tirschenreuth,Landkreis,Plößberg,3284,2,4
+Oberpfalz,Tirschenreuth,Landkreis,Pullenreuth,1791,1,3
+Oberpfalz,Tirschenreuth,Landkreis,Reuth b. Erbendorf,1193,0,2
+Oberpfalz,Tirschenreuth,Landkreis,Tirschenreuth,9037,7,11
+Oberpfalz,Tirschenreuth,Landkreis,Waldershof,4316,3,2
+Oberpfalz,Tirschenreuth,Landkreis,Waldsassen,6831,4,4
+Oberpfalz,Tirschenreuth,Landkreis,Wiesau,4091,2,7
+Oberpfalz,Weiden in der Oberpfalz,Stadt,Weiden i. d. OPf.,42014,26,25
+Schwaben,Aichach-Friedberg,Landkreis,Adelzhausen,1621,0,0
+Schwaben,Aichach-Friedberg,Landkreis,Affing,5312,2,5
+Schwaben,Aichach-Friedberg,Landkreis,Aichach,20635,8,7
+Schwaben,Aichach-Friedberg,Landkreis,Aindling,4320,5,6
+Schwaben,Aichach-Friedberg,Landkreis,Baar (Schwaben),1143,1,1
+Schwaben,Aichach-Friedberg,Landkreis,Dasing,5441,6,4
+Schwaben,Aichach-Friedberg,Landkreis,Eurasburg,4363,0,0
+Schwaben,Aichach-Friedberg,Landkreis,Friedberg,29077,13,18
+Schwaben,Aichach-Friedberg,Landkreis,Hollenbach,2320,0,1
+Schwaben,Aichach-Friedberg,Landkreis,Inchenhofen,2551,0,0
+Schwaben,Aichach-Friedberg,Landkreis,Kissing,11346,5,4
+Schwaben,Aichach-Friedberg,Landkreis,Kühbach,4036,2,2
+Schwaben,Aichach-Friedberg,Landkreis,Merching,3118,0,1
+Schwaben,Aichach-Friedberg,Landkreis,Mering,13774,9,5
+Schwaben,Aichach-Friedberg,Landkreis,Obergriesbach,1969,0,0
+Schwaben,Aichach-Friedberg,Landkreis,Petersdorf,1656,1,3
+Schwaben,Aichach-Friedberg,Landkreis,Pöttmes,6317,4,5
+Schwaben,Aichach-Friedberg,Landkreis,Rehling,2446,0,2
+Schwaben,Aichach-Friedberg,Landkreis,Ried,2971,0,4
+Schwaben,Aichach-Friedberg,Landkreis,Schiltberg,1884,0,3
+Schwaben,Aichach-Friedberg,Landkreis,Schmiechen,1192,1,0
+Schwaben,Aichach-Friedberg,Landkreis,Sielenbach,1574,0,2
+Schwaben,Aichach-Friedberg,Landkreis,Steindorf,892,0,3
+Schwaben,Aichach-Friedberg,Landkreis,Todtenweis,1372,0,0
+Schwaben,Augsburg,Landkreis,Adelsried,2265,1,4
+Schwaben,Augsburg,Landkreis,Allmannshofen,833,0,0
+Schwaben,Augsburg,Landkreis,Altenmünster,3727,3,7
+Schwaben,Augsburg,Landkreis,Aystetten,2983,1,1
+Schwaben,Augsburg,Landkreis,Biberbach,3425,1,1
+Schwaben,Augsburg,Landkreis,Bobingen,16544,9,5
+Schwaben,Augsburg,Landkreis,Bonstetten,1250,0,1
+Schwaben,Augsburg,Landkreis,Diedorf,9869,4,5
+Schwaben,Augsburg,Landkreis,Dinkelscherben,6447,3,4
+Schwaben,Augsburg,Landkreis,Ehingen,1950,0,0
+Schwaben,Augsburg,Landkreis,Ellgau,1028,0,1
+Schwaben,Augsburg,Landkreis,Emersacker,1373,1,0
+Schwaben,Augsburg,Landkreis,Fischach,4646,3,7
+Schwaben,Augsburg,Landkreis,Gablingen,4717,1,4
+Schwaben,Augsburg,Landkreis,Gersthofen,21189,7,12
+Schwaben,Augsburg,Landkreis,Gessertshausen,4200,2,3
+Schwaben,Augsburg,Landkreis,Graben,3612,1,2
+Schwaben,Augsburg,Landkreis,Großaitingen,4860,3,3
+Schwaben,Augsburg,Landkreis,Heretsried,978,0,0
+Schwaben,Augsburg,Landkreis,Hiltenfingen,1465,1,0
+Schwaben,Augsburg,Landkreis,Horgau,2573,2,0
+Schwaben,Augsburg,Landkreis,Kleinaitingen,1255,1,0
+Schwaben,Augsburg,Landkreis,Klosterlechfeld,2696,0,1
+Schwaben,Augsburg,Landkreis,Königsbrunn,27378,12,7
+Schwaben,Augsburg,Landkreis,Kühlenthal,817,0,0
+Schwaben,Augsburg,Landkreis,Kutzenhausen,2482,0,0
+Schwaben,Augsburg,Landkreis,Langenneufnach,1652,1,2
+Schwaben,Augsburg,Landkreis,Langerringen,3712,2,3
+Schwaben,Augsburg,Landkreis,Langweid a. Lech,7476,3,1
+Schwaben,Augsburg,Landkreis,Meitingen,11053,7,7
+Schwaben,Augsburg,Landkreis,Mickhausen,1386,0,2
+Schwaben,Augsburg,Landkreis,Mittelneufnach,1054,1,1
+Schwaben,Augsburg,Landkreis,Neusäß,21451,7,6
+Schwaben,Augsburg,Landkreis,Nordendorf,2268,2,2
+Schwaben,Augsburg,Landkreis,Oberottmarshausen,1662,0,0
+Schwaben,Augsburg,Landkreis,Scherstetten,1000,0,0
+Schwaben,Augsburg,Landkreis,Schwabmünchen,13543,8,8
+Schwaben,Augsburg,Landkreis,Stadtbergen,14836,11,4
+Schwaben,Augsburg,Landkreis,Thierhaupten,3812,2,1
+Schwaben,Augsburg,Landkreis,Untermeitingen,6581,5,1
+Schwaben,Augsburg,Landkreis,Ustersbach,1113,0,1
+Schwaben,Augsburg,Landkreis,Walkertshofen,1146,0,0
+Schwaben,Augsburg,Landkreis,Wehringen,2953,0,2
+Schwaben,Augsburg,Landkreis,Welden,3584,2,3
+Schwaben,Augsburg,Landkreis,Westendorf,1540,1,2
+Schwaben,Augsburg,Landkreis,Zusmarshausen,6136,4,8
+Schwaben,Augsburg,Stadt,Augsburg,270068,97,49
+Schwaben,Dillingen an der Donau,Landkreis,Aislingen,1342,0,3
+Schwaben,Dillingen an der Donau,Landkreis,Bachhagel,2226,1,1
+Schwaben,Dillingen an der Donau,Landkreis,Bächingen a. d. Brenz,1292,1,1
+Schwaben,Dillingen an der Donau,Landkreis,Binswangen,1346,0,1
+Schwaben,Dillingen an der Donau,Landkreis,Bissingen,3518,1,3
+Schwaben,Dillingen an der Donau,Landkreis,Blindheim,1693,0,0
+Schwaben,Dillingen an der Donau,Landkreis,Buttenwiesen,5730,2,5
+Schwaben,Dillingen an der Donau,Landkreis,Dillingen a. d. Donau,18474,7,11
+Schwaben,Dillingen an der Donau,Landkreis,Finningen,1641,1,1
+Schwaben,Dillingen an der Donau,Landkreis,Glött,1069,0,2
+Schwaben,Dillingen an der Donau,Landkreis,Gundelfingen a. d. Donau,7705,3,6
+Schwaben,Dillingen an der Donau,Landkreis,Haunsheim,1549,0,0
+Schwaben,Dillingen an der Donau,Landkreis,Höchstädt a. d. Donau,6480,5,7
+Schwaben,Dillingen an der Donau,Landkreis,Holzheim,3683,2,3
+Schwaben,Dillingen an der Donau,Landkreis,Laugna,1538,0,0
+Schwaben,Dillingen an der Donau,Landkreis,Lauingen (Donau),10637,7,4
+Schwaben,Dillingen an der Donau,Landkreis,Lutzingen,980,1,0
+Schwaben,Dillingen an der Donau,Landkreis,Medlingen,1001,0,0
+Schwaben,Dillingen an der Donau,Landkreis,Mödingen,1326,0,3
+Schwaben,Dillingen an der Donau,Landkreis,Schwenningen,1385,0,2
+Schwaben,Dillingen an der Donau,Landkreis,Syrgenstein,3539,2,3
+Schwaben,Dillingen an der Donau,Landkreis,Villenbach,1214,0,0
+Schwaben,Dillingen an der Donau,Landkreis,Wertingen,8801,5,4
+Schwaben,Dillingen an der Donau,Landkreis,Wittislingen,2251,2,2
+Schwaben,Dillingen an der Donau,Landkreis,Ziertheim,1002,0,0
+Schwaben,Dillingen an der Donau,Landkreis,Zöschingen,728,1,0
+Schwaben,Dillingen an der Donau,Landkreis,Zusamaltheim,1309,0,1
+Schwaben,Donau-Ries,Landkreis,Alerheim,1629,0,2
+Schwaben,Donau-Ries,Landkreis,Amerdingen,857,1,0
+Schwaben,Donau-Ries,Landkreis,Asbach-Bäumenheim,4409,2,1
+Schwaben,Donau-Ries,Landkreis,Auhausen,1028,0,2
+Schwaben,Donau-Ries,Landkreis,Brand,1143,0,0
+Schwaben,Donau-Ries,Landkreis,Buchdorf,1623,1,2
+Schwaben,Donau-Ries,Landkreis,Daiting,796,0,0
+Schwaben,Donau-Ries,Landkreis,Deiningen,2036,1,0
+Schwaben,Donau-Ries,Landkreis,Donauwörth,18384,9,8
+Schwaben,Donau-Ries,Landkreis,Ederheim,1132,0,2
+Schwaben,Donau-Ries,Landkreis,Ehingen a. Ries,770,0,0
+Schwaben,Donau-Ries,Landkreis,Forheim,567,0,1
+Schwaben,Donau-Ries,Landkreis,Fremdingen,2024,1,4
+Schwaben,Donau-Ries,Landkreis,Fünfstetten,1341,0,1
+Schwaben,Donau-Ries,Landkreis,Genderkingen,1161,1,0
+Schwaben,Donau-Ries,Landkreis,Hainsfarth,1430,0,2
+Schwaben,Donau-Ries,Landkreis,Harburg (Schwaben),5432,2,7
+Schwaben,Donau-Ries,Landkreis,Hohenaltheim,590,0,1
+Schwaben,Donau-Ries,Landkreis,Holzheim,3683,0,3
+Schwaben,Donau-Ries,Landkreis,Huisheim,1618,0,1
+Schwaben,Donau-Ries,Landkreis,Kaisheim,4328,1,3
+Schwaben,Donau-Ries,Landkreis,Maihingen,1220,0,1
+Schwaben,Donau-Ries,Landkreis,Marktoffingen,1323,0,0
+Schwaben,Donau-Ries,Landkreis,Marxheim,2532,1,1
+Schwaben,Donau-Ries,Landkreis,Megesheim,845,1,0
+Schwaben,Donau-Ries,Landkreis,Mertingen,3871,2,2
+Schwaben,Donau-Ries,Landkreis,Mönchsdeggingen,1361,1,1
+Schwaben,Donau-Ries,Landkreis,Monheim,4823,4,4
+Schwaben,Donau-Ries,Landkreis,Möttingen,2449,2,1
+Schwaben,Donau-Ries,Landkreis,Munningen,1740,1,2
+Schwaben,Donau-Ries,Landkreis,Münster,1163,0,1
+Schwaben,Donau-Ries,Landkreis,Niederschönenfeld,1406,0,2
+Schwaben,Donau-Ries,Landkreis,Nördlingen,18977,11,14
+Schwaben,Donau-Ries,Landkreis,Oberndorf a. Lech,2424,0,0
+Schwaben,Donau-Ries,Landkreis,Oettingen i. Bay.,5044,3,7
+Schwaben,Donau-Ries,Landkreis,Otting,780,0,0
+Schwaben,Donau-Ries,Landkreis,Rain,2676,8,8
+Schwaben,Donau-Ries,Landkreis,Reimlingen,1349,0,0
+Schwaben,Donau-Ries,Landkreis,Rögling,634,1,1
+Schwaben,Donau-Ries,Landkreis,Tagmersheim,1049,0,2
+Schwaben,Donau-Ries,Landkreis,Tapfheim,3979,1,4
+Schwaben,Donau-Ries,Landkreis,Wallerstein,3396,2,3
+Schwaben,Donau-Ries,Landkreis,Wechingen,1365,0,2
+Schwaben,Donau-Ries,Landkreis,Wemding,5699,4,8
+Schwaben,Donau-Ries,Landkreis,Wolferstadt,1106,1,1
+Schwaben,Günzburg,Landkreis,Aichen,1166,1,1
+Schwaben,Günzburg,Landkreis,Aletshausen,1104,0,1
+Schwaben,Günzburg,Landkreis,Balzhausen,1182,1,0
+Schwaben,Günzburg,Landkreis,Bibertal,4689,2,4
+Schwaben,Günzburg,Landkreis,Breitenthal,1217,1,2
+Schwaben,Günzburg,Landkreis,Bubesheim,1504,1,1
+Schwaben,Günzburg,Landkreis,Burgau,9335,7,6
+Schwaben,Günzburg,Landkreis,Burtenbach,3166,1,6
+Schwaben,Günzburg,Landkreis,Deisenhausen,1499,1,2
+Schwaben,Günzburg,Landkreis,Dürrlauingen,1616,0,1
+Schwaben,Günzburg,Landkreis,Ebershausen,608,0,2
+Schwaben,Günzburg,Landkreis,Ellzee,1122,1,0
+Schwaben,Günzburg,Landkreis,Gundremmingen,1569,0,2
+Schwaben,Günzburg,Landkreis,Günzburg,19699,12,7
+Schwaben,Günzburg,Landkreis,Haldenwang,1781,0,1
+Schwaben,Günzburg,Landkreis,Ichenhausen,8390,5,4
+Schwaben,Günzburg,Landkreis,Jettingen-Scheppach,6683,5,9
+Schwaben,Günzburg,Landkreis,Kammeltal,3324,3,0
+Schwaben,Günzburg,Landkreis,Kötz,3151,0,3
+Schwaben,Günzburg,Landkreis,Krumbach (Schwaben),12403,8,13
+Schwaben,Günzburg,Landkreis,Landensberg,674,0,0
+Schwaben,Günzburg,Landkreis,Leipheim,6725,4,3
+Schwaben,Günzburg,Landkreis,Münsterhausen,1949,1,2
+Schwaben,Günzburg,Landkreis,Neuburg a. d. Kammel,3145,1,6
+Schwaben,Günzburg,Landkreis,Offingen,4127,3,3
+Schwaben,Günzburg,Landkreis,Rettenbach,1767,0,1
+Schwaben,Günzburg,Landkreis,Röfingen,1067,0,0
+Schwaben,Günzburg,Landkreis,Thannhausen,5971,6,9
+Schwaben,Günzburg,Landkreis,Ursberg,3209,2,0
+Schwaben,Günzburg,Landkreis,Waldstetten,1196,0,1
+Schwaben,Günzburg,Landkreis,Waltenhausen,681,0,0
+Schwaben,Günzburg,Landkreis,Wiesenbach,977,1,0
+Schwaben,Günzburg,Landkreis,Winterbach,804,0,0
+Schwaben,Günzburg,Landkreis,Ziemetshausen,2934,1,2
+Schwaben,Kaufbeuren,Stadt,Kaufbeuren,42073,21,6
+Schwaben,Kempten,Stadt,Kempten (Allgäu),64716,35,20
+Schwaben,Lindau (Bodensee),Landkreis,Bodolz,3202,1,0
+Schwaben,Lindau (Bodensee),Landkreis,Gestratz,1193,1,0
+Schwaben,Lindau (Bodensee),Landkreis,Grünenbach,1405,2,1
+Schwaben,Lindau (Bodensee),Landkreis,Heimenkirch,3660,2,2
+Schwaben,Lindau (Bodensee),Landkreis,Hergatz,2316,1,1
+Schwaben,Lindau (Bodensee),Landkreis,Hergensweiler,1775,0,0
+Schwaben,Lindau (Bodensee),Landkreis,Lindau (Bodensee),25025,11,10
+Schwaben,Lindau (Bodensee),Landkreis,Lindenberg i. Allgäu,11112,7,5
+Schwaben,Lindau (Bodensee),Landkreis,Maierhöfen,1629,0,1
+Schwaben,Lindau (Bodensee),Landkreis,Nonnenhorn,1665,1,0
+Schwaben,Lindau (Bodensee),Landkreis,Oberreute,1638,0,1
+Schwaben,Lindau (Bodensee),Landkreis,Opfenbach,2308,1,2
+Schwaben,Lindau (Bodensee),Landkreis,Röthenbach (Allgäu),1717,0,1
+Schwaben,Lindau (Bodensee),Landkreis,Scheidegg,4272,2,5
+Schwaben,Lindau (Bodensee),Landkreis,Sigmarszell,2832,1,2
+Schwaben,Lindau (Bodensee),Landkreis,Stiefenhofen,1789,1,1
+Schwaben,Lindau (Bodensee),Landkreis,Wasserburg (Bodensee),3564,1,1
+Schwaben,Lindau (Bodensee),Landkreis,Weiler-Simmerberg,6515,3,4
+Schwaben,Lindau (Bodensee),Landkreis,Weißensberg,2697,2,0
+Schwaben,Memmingen,Stadt,Memmingen,41295,25,21
+Schwaben,Neu-Ulm,Landkreis,Altenstadt,3260,2,4
+Schwaben,Neu-Ulm,Landkreis,Bellenberg,4570,1,2
+Schwaben,Neu-Ulm,Landkreis,Buch,3635,3,3
+Schwaben,Neu-Ulm,Landkreis,Elchingen,9137,3,2
+Schwaben,Neu-Ulm,Landkreis,Holzheim,3683,0,3
+Schwaben,Neu-Ulm,Landkreis,Illertissen,16517,11,6
+Schwaben,Neu-Ulm,Landkreis,Kellmünz a. d. Iller,1337,0,1
+Schwaben,Neu-Ulm,Landkreis,Nersingen,9201,6,4
+Schwaben,Neu-Ulm,Landkreis,Neu-Ulm,54631,16,17
+Schwaben,Neu-Ulm,Landkreis,Oberroth,845,0,1
+Schwaben,Neu-Ulm,Landkreis,Osterberg,843,0,0
+Schwaben,Neu-Ulm,Landkreis,Pfaffenhofen a. d. Roth,6931,3,2
+Schwaben,Neu-Ulm,Landkreis,Roggenburg,2734,0,2
+Schwaben,Neu-Ulm,Landkreis,Senden,22171,11,6
+Schwaben,Neu-Ulm,Landkreis,Unterroth,976,0,0
+Schwaben,Neu-Ulm,Landkreis,Vöhringen,13058,6,7
+Schwaben,Neu-Ulm,Landkreis,Weißenhorn,13335,6,8
+Schwaben,Oberallgäu,Landkreis,Altusried,9949,3,6
+Schwaben,Oberallgäu,Landkreis,Bad Hindelang,4850,4,10
+Schwaben,Oberallgäu,Landkreis,Balderschwang,275,0,0
+Schwaben,Oberallgäu,Landkreis,Betzigau,2781,0,2
+Schwaben,Oberallgäu,Landkreis,Blaichach,5615,3,3
+Schwaben,Oberallgäu,Landkreis,Bolsterlang,1095,1,0
+Schwaben,Oberallgäu,Landkreis,Buchenberg,3980,1,1
+Schwaben,Oberallgäu,Landkreis,Burgberg i. Allgäu,3094,1,1
+Schwaben,Oberallgäu,Landkreis,Dietmannsried,7872,5,5
+Schwaben,Oberallgäu,Landkreis,Durach,6745,2,3
+Schwaben,Oberallgäu,Landkreis,Fischen i. Allgäu,3050,3,2
+Schwaben,Oberallgäu,Landkreis,Haldenwang,1781,2,1
+Schwaben,Oberallgäu,Landkreis,Immenstadt i. Allgäu,14006,6,6
+Schwaben,Oberallgäu,Landkreis,Lauben,1283,2,1
+Schwaben,Oberallgäu,Landkreis,Missen-Wilhams,1452,2,2
+Schwaben,Oberallgäu,Landkreis,Obermaiselstein,939,0,1
+Schwaben,Oberallgäu,Landkreis,Oberstaufen,7248,4,2
+Schwaben,Oberallgäu,Landkreis,Oberstdorf,10005,8,6
+Schwaben,Oberallgäu,Landkreis,Ofterschwang,2083,1,2
+Schwaben,Oberallgäu,Landkreis,Oy-Mittelberg,4391,3,4
+Schwaben,Oberallgäu,Landkreis,Rettenberg,4266,2,3
+Schwaben,Oberallgäu,Landkreis,Sonthofen,21624,10,12
+Schwaben,Oberallgäu,Landkreis,Sulzberg,4716,1,3
+Schwaben,Oberallgäu,Landkreis,Waltenhofen,8906,6,11
+Schwaben,Oberallgäu,Landkreis,Weitnau,5180,3,2
+Schwaben,Oberallgäu,Landkreis,Wertach,2535,2,4
+Schwaben,Oberallgäu,Landkreis,Wiggensbach,4850,2,1
+Schwaben,Oberallgäu,Landkreis,Wildpoldsried,2605,1,1
+Schwaben,Ostallgäu,Landkreis,Aitrang,2023,0,2
+Schwaben,Ostallgäu,Landkreis,Baisweil,1305,0,0
+Schwaben,Ostallgäu,Landkreis,Bidingen,1657,0,1
+Schwaben,Ostallgäu,Landkreis,Biessenhofen,3941,3,1
+Schwaben,Ostallgäu,Landkreis,Buchloe,12227,7,4
+Schwaben,Ostallgäu,Landkreis,Eggenthal,1299,1,0
+Schwaben,Ostallgäu,Landkreis,Eisenberg,1183,0,1
+Schwaben,Ostallgäu,Landkreis,Friesenried,1506,0,0
+Schwaben,Ostallgäu,Landkreis,Füssen,14439,15,7
+Schwaben,Ostallgäu,Landkreis,Germaringen,3824,1,3
+Schwaben,Ostallgäu,Landkreis,Görisried,1305,1,1
+Schwaben,Ostallgäu,Landkreis,Günzach,1463,0,3
+Schwaben,Ostallgäu,Landkreis,Halblech,3424,1,5
+Schwaben,Ostallgäu,Landkreis,Hopferau,1110,0,3
+Schwaben,Ostallgäu,Landkreis,Irsee,1423,0,1
+Schwaben,Ostallgäu,Landkreis,Jengen,2373,2,1
+Schwaben,Ostallgäu,Landkreis,Kaltental,1593,2,1
+Schwaben,Ostallgäu,Landkreis,Kraftisried,726,0,0
+Schwaben,Ostallgäu,Landkreis,Lamerdingen,1786,0,1
+Schwaben,Ostallgäu,Landkreis,Lechbruck am See,2532,3,3
+Schwaben,Ostallgäu,Landkreis,Lengenwang,1364,1,2
+Schwaben,Ostallgäu,Landkreis,Marktoberdorf,18117,11,7
+Schwaben,Ostallgäu,Landkreis,Mauerstetten,2945,0,1
+Schwaben,Ostallgäu,Landkreis,Nesselwang,3529,3,5
+Schwaben,Ostallgäu,Landkreis,Obergünzburg,6243,5,4
+Schwaben,Ostallgäu,Landkreis,Oberostendorf,1310,1,1
+Schwaben,Ostallgäu,Landkreis,Osterzell,677,0,1
+Schwaben,Ostallgäu,Landkreis,Pforzen,2133,0,1
+Schwaben,Ostallgäu,Landkreis,Pfronten,8077,4,6
+Schwaben,Ostallgäu,Landkreis,Rettenbach am Auerberg,824,1,1
+Schwaben,Ostallgäu,Landkreis,Rieden,2838,0,0
+Schwaben,Ostallgäu,Landkreis,Rieden am Forggensee,1291,0,1
+Schwaben,Ostallgäu,Landkreis,Ronsberg,1633,1,2
+Schwaben,Ostallgäu,Landkreis,Roßhaupten,2155,1,2
+Schwaben,Ostallgäu,Landkreis,Rückholz,791,1,3
+Schwaben,Ostallgäu,Landkreis,Ruderatshofen,1718,1,0
+Schwaben,Ostallgäu,Landkreis,Schwangau,3436,2,2
+Schwaben,Ostallgäu,Landkreis,Seeg,2797,2,6
+Schwaben,Ostallgäu,Landkreis,Stötten am Auerberg,1833,1,0
+Schwaben,Ostallgäu,Landkreis,Stöttwang,1781,0,1
+Schwaben,Ostallgäu,Landkreis,Unterthingau,2747,1,2
+Schwaben,Ostallgäu,Landkreis,Untrasried,1537,2,3
+Schwaben,Ostallgäu,Landkreis,Waal,2196,0,1
+Schwaben,Ostallgäu,Landkreis,Wald,2815,1,1
+Schwaben,Ostallgäu,Landkreis,Westendorf,1540,1,2
+Schwaben,Unterallgäu,Landkreis,Amberg,42385,1,1
+Schwaben,Unterallgäu,Landkreis,Apfeltrach,939,0,0
+Schwaben,Unterallgäu,Landkreis,Babenhausen,5266,5,6
+Schwaben,Unterallgäu,Landkreis,Bad Grönenbach,5297,3,4
+Schwaben,Unterallgäu,Landkreis,Bad Wörishofen,14594,10,10
+Schwaben,Unterallgäu,Landkreis,Benningen,2035,0,2
+Schwaben,Unterallgäu,Landkreis,Böhen,714,0,1
+Schwaben,Unterallgäu,Landkreis,Boos,1879,1,1
+Schwaben,Unterallgäu,Landkreis,Breitenbrunn,3384,1,2
+Schwaben,Unterallgäu,Landkreis,Buxheim,3582,0,1
+Schwaben,Unterallgäu,Landkreis,Dirlewang,2073,1,2
+Schwaben,Unterallgäu,Landkreis,Egg a. d. Günz,1124,1,0
+Schwaben,Unterallgäu,Landkreis,Eppishausen,1751,1,1
+Schwaben,Unterallgäu,Landkreis,Erkheim,2898,3,3
+Schwaben,Unterallgäu,Landkreis,Ettringen,3304,3,3
+Schwaben,Unterallgäu,Landkreis,Fellheim,1140,0,0
+Schwaben,Unterallgäu,Landkreis,Hawangen,1302,0,1
+Schwaben,Unterallgäu,Landkreis,Heimertingen,1679,1,1
+Schwaben,Unterallgäu,Landkreis,Holzgünz,1204,1,0
+Schwaben,Unterallgäu,Landkreis,Kammlach,1770,2,1
+Schwaben,Unterallgäu,Landkreis,Kettershausen,1749,1,2
+Schwaben,Unterallgäu,Landkreis,Kirchhaslach,1285,0,2
+Schwaben,Unterallgäu,Landkreis,Kirchheim i. Schw.,2465,1,1
+Schwaben,Unterallgäu,Landkreis,Kronburg,1761,0,1
+Schwaben,Unterallgäu,Landkreis,Lachen,1445,0,0
+Schwaben,Unterallgäu,Landkreis,Lauben,1283,0,1
+Schwaben,Unterallgäu,Landkreis,Lautrach,1200,1,1
+Schwaben,Unterallgäu,Landkreis,Legau,3140,1,4
+Schwaben,Unterallgäu,Landkreis,Markt Rettenbach,3675,2,2
+Schwaben,Unterallgäu,Landkreis,Markt Wald,2321,1,1
+Schwaben,Unterallgäu,Landkreis,Memmingerberg,2628,0,0
+Schwaben,Unterallgäu,Landkreis,Mindelheim,14440,8,9
+Schwaben,Unterallgäu,Landkreis,Niederrieden,1357,1,1
+Schwaben,Unterallgäu,Landkreis,Oberrieden,1233,0,1
+Schwaben,Unterallgäu,Landkreis,Oberschönegg,931,0,1
+Schwaben,Unterallgäu,Landkreis,Ottobeuren,7937,3,6
+Schwaben,Unterallgäu,Landkreis,Pfaffenhausen,2403,2,1
+Schwaben,Unterallgäu,Landkreis,Pleß,830,0,1
+Schwaben,Unterallgäu,Landkreis,Rammingen,1439,1,2
+Schwaben,Unterallgäu,Landkreis,Salgen,1416,0,0
+Schwaben,Unterallgäu,Landkreis,Sontheim,2493,0,3
+Schwaben,Unterallgäu,Landkreis,Stetten,1424,1,2
+Schwaben,Unterallgäu,Landkreis,Trunkelsberg,1739,1,0
+Schwaben,Unterallgäu,Landkreis,Türkheim,6712,3,5
+Schwaben,Unterallgäu,Landkreis,Tussenhausen,2942,1,3
+Schwaben,Unterallgäu,Landkreis,Ungerhausen,1013,1,0
+Schwaben,Unterallgäu,Landkreis,Unteregg,1367,1,1
+Schwaben,Unterallgäu,Landkreis,Westerheim,2150,0,2
+Schwaben,Unterallgäu,Landkreis,Wiedergeltingen,1374,1,0
+Schwaben,Unterallgäu,Landkreis,Winterrieden,883,0,1
+Schwaben,Unterallgäu,Landkreis,Wolfertschwenden,1876,1,0
+Schwaben,Unterallgäu,Landkreis,Woringen,1896,1,2
+Unterfranken,Aschaffenburg,Landkreis,Alzenau,18926,8,18
+Unterfranken,Aschaffenburg,Landkreis,Bessenbach,5745,2,3
+Unterfranken,Aschaffenburg,Landkreis,Blankenbach,1573,0,2
+Unterfranken,Aschaffenburg,Landkreis,Dammbach,1825,1,2
+Unterfranken,Aschaffenburg,Landkreis,Geiselbach,2090,1,1
+Unterfranken,Aschaffenburg,Landkreis,Glattbach,3231,1,3
+Unterfranken,Aschaffenburg,Landkreis,Goldbach,9612,5,9
+Unterfranken,Aschaffenburg,Landkreis,Großostheim,16373,9,11
+Unterfranken,Aschaffenburg,Landkreis,Haibach,2131,3,4
+Unterfranken,Aschaffenburg,Landkreis,Heigenbrücken,2215,1,1
+Unterfranken,Aschaffenburg,Landkreis,Heimbuchenthal,2127,0,0
+Unterfranken,Aschaffenburg,Landkreis,Heinrichsthal,841,0,2
+Unterfranken,Aschaffenburg,Landkreis,Hösbach,13121,5,13
+Unterfranken,Aschaffenburg,Landkreis,Johannesberg,3871,0,1
+Unterfranken,Aschaffenburg,Landkreis,Kahl a. Main,7319,2,4
+Unterfranken,Aschaffenburg,Landkreis,Karlstein a. Main,7949,2,4
+Unterfranken,Aschaffenburg,Landkreis,Kleinkahl,1852,0,2
+Unterfranken,Aschaffenburg,Landkreis,Kleinostheim,8204,4,3
+Unterfranken,Aschaffenburg,Landkreis,Krombach,2121,0,3
+Unterfranken,Aschaffenburg,Landkreis,Laufach,5160,2,4
+Unterfranken,Aschaffenburg,Landkreis,Mainaschaff,8618,5,5
+Unterfranken,Aschaffenburg,Landkreis,Mespelbrunn,2173,1,2
+Unterfranken,Aschaffenburg,Landkreis,Mömbris,11916,5,11
+Unterfranken,Aschaffenburg,Landkreis,Rothenbuch,1858,1,0
+Unterfranken,Aschaffenburg,Landkreis,Sailauf,3621,0,2
+Unterfranken,Aschaffenburg,Landkreis,Schöllkrippen,3955,5,6
+Unterfranken,Aschaffenburg,Landkreis,Sommerkahl,1149,0,3
+Unterfranken,Aschaffenburg,Landkreis,Stockstadt a. Main,7575,6,4
+Unterfranken,Aschaffenburg,Landkreis,Waldaschaff,4005,2,1
+Unterfranken,Aschaffenburg,Landkreis,Weibersbrunn,1994,0,2
+Unterfranken,Aschaffenburg,Landkreis,Westerngrund,1860,0,3
+Unterfranken,Aschaffenburg,Landkreis,Wiesen,1035,0,2
+Unterfranken,Aschaffenburg,Stadt,Aschaffenburg,68386,27,32
+Unterfranken,Bad Kissingen,Landkreis,Aura a. d. Saale,874,0,0
+Unterfranken,Bad Kissingen,Landkreis,Bad Bocklet,4463,4,6
+Unterfranken,Bad Kissingen,Landkreis,Bad Brückenau,6712,8,3
+Unterfranken,Bad Kissingen,Landkreis,Bad Kissingen,21423,11,16
+Unterfranken,Bad Kissingen,Landkreis,Burkardroth,7565,2,16
+Unterfranken,Bad Kissingen,Landkreis,Elfershausen,2802,0,1
+Unterfranken,Bad Kissingen,Landkreis,Euerdorf,1519,2,1
+Unterfranken,Bad Kissingen,Landkreis,Fuchsstadt,1876,1,3
+Unterfranken,Bad Kissingen,Landkreis,Geroda,895,1,1
+Unterfranken,Bad Kissingen,Landkreis,Hammelburg,11386,9,8
+Unterfranken,Bad Kissingen,Landkreis,Maßbach,4630,2,6
+Unterfranken,Bad Kissingen,Landkreis,Motten,1781,1,2
+Unterfranken,Bad Kissingen,Landkreis,Münnerstadt,7487,3,10
+Unterfranken,Bad Kissingen,Landkreis,Nüdlingen,4085,1,2
+Unterfranken,Bad Kissingen,Landkreis,Oberleichtersbach,2029,0,1
+Unterfranken,Bad Kissingen,Landkreis,Oberthulba,5030,3,8
+Unterfranken,Bad Kissingen,Landkreis,Oerlenbach,4967,1,7
+Unterfranken,Bad Kissingen,Landkreis,Ramsthal,1124,1,2
+Unterfranken,Bad Kissingen,Landkreis,Rannungen,1151,0,1
+Unterfranken,Bad Kissingen,Landkreis,Riedenberg,969,1,1
+Unterfranken,Bad Kissingen,Landkreis,Schondra,1726,0,2
+Unterfranken,Bad Kissingen,Landkreis,Sulzthal,884,0,3
+Unterfranken,Bad Kissingen,Landkreis,Thundorf i. UFr.,1090,0,0
+Unterfranken,Bad Kissingen,Landkreis,Wartmannsroth,2195,2,3
+Unterfranken,Bad Kissingen,Landkreis,Wildflecken,3009,2,2
+Unterfranken,Bad Kissingen,Landkreis,Zeitlofs,2077,0,3
+Unterfranken,Haßberge,Landkreis,Aidhausen,1753,1,4
+Unterfranken,Haßberge,Landkreis,Breitbrunn,1028,1,1
+Unterfranken,Haßberge,Landkreis,Bundorf,883,0,2
+Unterfranken,Haßberge,Landkreis,Burgpreppach,1382,1,0
+Unterfranken,Haßberge,Landkreis,Ebelsbach,3797,4,4
+Unterfranken,Haßberge,Landkreis,Ebern,7196,6,6
+Unterfranken,Haßberge,Landkreis,Eltman,5254,1,3
+Unterfranken,Haßberge,Landkreis,Ermershausen,605,1,1
+Unterfranken,Haßberge,Landkreis,Gädheim,1251,0,0
+Unterfranken,Haßberge,Landkreis,Haßfurt,13440,8,7
+Unterfranken,Haßberge,Landkreis,Hofheim i. UFr.,4974,6,7
+Unterfranken,Haßberge,Landkreis,Kirchlauter,1365,1,0
+Unterfranken,Haßberge,Landkreis,Knetzgau,6345,2,6
+Unterfranken,Haßberge,Landkreis,Königsberg i. Bay.,3606,1,3
+Unterfranken,Haßberge,Landkreis,Maroldsweisach,3478,3,7
+Unterfranken,Haßberge,Landkreis,Oberaurach,4294,1,3
+Unterfranken,Haßberge,Landkreis,Pfarrweisach,1534,0,2
+Unterfranken,Haßberge,Landkreis,Rauhenebrach,2947,1,2
+Unterfranken,Haßberge,Landkreis,Rentweinsdorf,1580,0,2
+Unterfranken,Haßberge,Landkreis,Riedbach,1701,0,1
+Unterfranken,Haßberge,Landkreis,Sand a. Main,3107,2,1
+Unterfranken,Haßberge,Landkreis,Stettfeld,1163,0,2
+Unterfranken,Haßberge,Landkreis,Theres,2670,1,2
+Unterfranken,Haßberge,Landkreis,Untermerzbach,1715,1,1
+Unterfranken,Haßberge,Landkreis,Wonfurt,1876,0,0
+Unterfranken,Haßberge,Landkreis,Zeil a. Main,5560,3,4
+Unterfranken,Kitzingen,Landkreis,Abtswind,820,0,0
+Unterfranken,Kitzingen,Landkreis,Albertshofen,2010,1,4
+Unterfranken,Kitzingen,Landkreis,Biebelried,1210,0,1
+Unterfranken,Kitzingen,Landkreis,Buchbrunn,1044,0,0
+Unterfranken,Kitzingen,Landkreis,Castell,819,1,2
+Unterfranken,Kitzingen,Landkreis,Dettelbach,6911,3,9
+Unterfranken,Kitzingen,Landkreis,Geiselwind,2386,1,2
+Unterfranken,Kitzingen,Landkreis,Großlangheim,1598,0,0
+Unterfranken,Kitzingen,Landkreis,Iphofen,4420,3,3
+Unterfranken,Kitzingen,Landkreis,Kitzingen,20499,12,11
+Unterfranken,Kitzingen,Landkreis,Kleinlangheim,1663,0,2
+Unterfranken,Kitzingen,Landkreis,Mainbernheim,2240,1,1
+Unterfranken,Kitzingen,Landkreis,Mainstockheim,1937,0,0
+Unterfranken,Kitzingen,Landkreis,Markt Einersheim,1169,1,3
+Unterfranken,Kitzingen,Landkreis,Marktbreit,3599,1,2
+Unterfranken,Kitzingen,Landkreis,Marktsteft,1828,1,2
+Unterfranken,Kitzingen,Landkreis,Martinsheim,1005,0,1
+Unterfranken,Kitzingen,Landkreis,Nordheim a. Main,1015,1,0
+Unterfranken,Kitzingen,Landkreis,Obernbreit,1711,1,4
+Unterfranken,Kitzingen,Landkreis,Prichsenstadt,3149,0,5
+Unterfranken,Kitzingen,Landkreis,Rödelsee,1693,1,0
+Unterfranken,Kitzingen,Landkreis,Rüdenhausen,810,0,0
+Unterfranken,Kitzingen,Landkreis,Schwarzach a. Main,3670,2,2
+Unterfranken,Kitzingen,Landkreis,Segnitz,850,0,2
+Unterfranken,Kitzingen,Landkreis,Seinsheim,1039,0,1
+Unterfranken,Kitzingen,Landkreis,Sommerach,1414,0,3
+Unterfranken,Kitzingen,Landkreis,Sulzfeld a. Main,1251,0,0
+Unterfranken,Kitzingen,Landkreis,Volkach,9070,7,8
+Unterfranken,Kitzingen,Landkreis,Wiesenbronn,964,1,0
+Unterfranken,Kitzingen,Landkreis,Wiesentheid,4783,4,5
+Unterfranken,Kitzingen,Landkreis,Willanzheim,1564,0,4
+Unterfranken,Main-Spessart,Landkreis,Arnstein,8010,5,5
+Unterfranken,Main-Spessart,Landkreis,Aura i. Sinngrund,1005,0,1
+Unterfranken,Main-Spessart,Landkreis,Birkenfeld,2158,1,3
+Unterfranken,Main-Spessart,Landkreis,Bischbrunn,1803,0,0
+Unterfranken,Main-Spessart,Landkreis,Burgsinn,2512,4,4
+Unterfranken,Main-Spessart,Landkreis,Erlenbach b. Marktheidenfeld,2392,3,1
+Unterfranken,Main-Spessart,Landkreis,Esselbach,1998,2,5
+Unterfranken,Main-Spessart,Landkreis,Eußenheim,3191,1,4
+Unterfranken,Main-Spessart,Landkreis,Fellen,858,1,3
+Unterfranken,Main-Spessart,Landkreis,Frammersbach,4425,3,5
+Unterfranken,Main-Spessart,Landkreis,Gemünden a. Main,10518,7,8
+Unterfranken,Main-Spessart,Landkreis,Gössenheim,1200,0,1
+Unterfranken,Main-Spessart,Landkreis,Gräfendorf,1328,0,1
+Unterfranken,Main-Spessart,Landkreis,Hafenlohr,1860,0,1
+Unterfranken,Main-Spessart,Landkreis,Hasloch,1390,0,0
+Unterfranken,Main-Spessart,Landkreis,Himmelstadt,1681,0,0
+Unterfranken,Main-Spessart,Landkreis,Karbach,1406,0,1
+Unterfranken,Main-Spessart,Landkreis,Karlstadt,14760,9,14
+Unterfranken,Main-Spessart,Landkreis,Karsbach,1752,0,1
+Unterfranken,Main-Spessart,Landkreis,Kreuzwertheim,3683,2,5
+Unterfranken,Main-Spessart,Landkreis,Lohr a. Main,15515,8,11
+Unterfranken,Main-Spessart,Landkreis,Marktheidenfeld,10803,8,9
+Unterfranken,Main-Spessart,Landkreis,Mittelsinn,840,0,3
+Unterfranken,Main-Spessart,Landkreis,Neuendorf,827,0,0
+Unterfranken,Main-Spessart,Landkreis,Neuhütten,1188,1,2
+Unterfranken,Main-Spessart,Landkreis,Neustadt a. Main,1255,0,0
+Unterfranken,Main-Spessart,Landkreis,Obersinn,985,1,2
+Unterfranken,Main-Spessart,Landkreis,Partenstein,2805,2,3
+Unterfranken,Main-Spessart,Landkreis,Rechtenbach,992,1,1
+Unterfranken,Main-Spessart,Landkreis,Retzstadt,1535,1,4
+Unterfranken,Main-Spessart,Landkreis,Rieneck,2017,0,5
+Unterfranken,Main-Spessart,Landkreis,Roden,1023,0,0
+Unterfranken,Main-Spessart,Landkreis,Rothenfels,977,0,0
+Unterfranken,Main-Spessart,Landkreis,Schollbrunn,931,1,0
+Unterfranken,Main-Spessart,Landkreis,Steinfeld,2214,0,6
+Unterfranken,Main-Spessart,Landkreis,Thüngen,1322,1,3
+Unterfranken,Main-Spessart,Landkreis,Triefenstein,4291,1,3
+Unterfranken,Main-Spessart,Landkreis,Urspringen,1367,1,3
+Unterfranken,Main-Spessart,Landkreis,Wiesthal,1384,0,3
+Unterfranken,Main-Spessart,Landkreis,Zellingen,6361,6,7
+Unterfranken,Miltenberg,Landkreis,Altenbuch,1261,0,4
+Unterfranken,Miltenberg,Landkreis,Amorbach,3877,2,4
+Unterfranken,Miltenberg,Landkreis,Bürgstadt,4193,5,2
+Unterfranken,Miltenberg,Landkreis,Collenberg,2475,2,1
+Unterfranken,Miltenberg,Landkreis,Dorfprozelten,1759,1,2
+Unterfranken,Miltenberg,Landkreis,Eichenbühl,2570,0,0
+Unterfranken,Miltenberg,Landkreis,Elsenfeld,8829,4,5
+Unterfranken,Miltenberg,Landkreis,Erlenbach a. Main,9957,4,7
+Unterfranken,Miltenberg,Landkreis,Eschau,3830,2,6
+Unterfranken,Miltenberg,Landkreis,Faulbach,2669,1,5
+Unterfranken,Miltenberg,Landkreis,Großheubach,5042,1,4
+Unterfranken,Miltenberg,Landkreis,Großwallstadt,4114,1,3
+Unterfranken,Miltenberg,Landkreis,Hausen,2031,0,1
+Unterfranken,Miltenberg,Landkreis,Kirchzell,2273,0,4
+Unterfranken,Miltenberg,Landkreis,Kleinheubach,3579,4,1
+Unterfranken,Miltenberg,Landkreis,Kleinwallstadt,5740,1,5
+Unterfranken,Miltenberg,Landkreis,Klingenberg a. Main,6123,1,2
+Unterfranken,Miltenberg,Landkreis,Laudenbach,1386,0,2
+Unterfranken,Miltenberg,Landkreis,Leidersbach,4743,2,6
+Unterfranken,Miltenberg,Landkreis,Miltenberg,9280,5,9
+Unterfranken,Miltenberg,Landkreis,Mömlingen,4933,2,2
+Unterfranken,Miltenberg,Landkreis,Mönchberg,2547,1,3
+Unterfranken,Miltenberg,Landkreis,Neunkirchen,1475,0,1
+Unterfranken,Miltenberg,Landkreis,Niedernberg,4898,2,2
+Unterfranken,Miltenberg,Landkreis,Obernburg a. Main,8384,5,5
+Unterfranken,Miltenberg,Landkreis,Röllbach,1698,0,1
+Unterfranken,Miltenberg,Landkreis,Rüdenau,787,0,2
+Unterfranken,Miltenberg,Landkreis,Schneeberg,1803,1,1
+Unterfranken,Miltenberg,Landkreis,Stadtprozelten,1546,2,2
+Unterfranken,Miltenberg,Landkreis,Sulzbach a. Main,6927,5,4
+Unterfranken,Miltenberg,Landkreis,Weilbach,2200,0,0
+Unterfranken,Miltenberg,Landkreis,Wörth a. Main,4799,4,3
+Unterfranken,Rhön-Grabfeld,Landkreis,Aubstadt,719,0,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Bad Königshofen i. Grabfeld,6925,6,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Bad Neustadt a. d. Saale,15488,10,11
+Unterfranken,Rhön-Grabfeld,Landkreis,Bastheim,2488,1,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Bischofsheim a. d. Rhön,4718,3,9
+Unterfranken,Rhön-Grabfeld,Landkreis,Burglauer,1643,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Fladungen,2135,1,3
+Unterfranken,Rhön-Grabfeld,Landkreis,Großbardorf,914,0,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Großeibstadt,1133,0,3
+Unterfranken,Rhön-Grabfeld,Landkreis,Hausen,2031,0,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Hendungen,943,0,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Herbstadt,627,0,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Heustreu,1220,0,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Höchheim,1146,0,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Hohenroth,3519,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Hollstadt,1573,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Mellrichstadt,5758,5,4
+Unterfranken,Rhön-Grabfeld,Landkreis,Niederlauer,1732,0,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Nordheim v. d. Rhön,1081,1,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Oberelsbach,2726,2,7
+Unterfranken,Rhön-Grabfeld,Landkreis,Oberstreu,1574,0,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Ostheim v. d. Rhön,3472,2,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Rödelmaier,937,0,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Saal a. d. Saale,1474,2,3
+Unterfranken,Rhön-Grabfeld,Landkreis,Salz,2391,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Sandberg,2577,2,4
+Unterfranken,Rhön-Grabfeld,Landkreis,Schönau a. d. Brend,1280,1,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Sondheim v. d. Rhön,971,1,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Stockheim,5046,0,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Strahlungen,922,0,2
+Unterfranken,Rhön-Grabfeld,Landkreis,Sulzdorf a. d. Lederhecke,1123,0,3
+Unterfranken,Rhön-Grabfeld,Landkreis,Sulzfeld,1706,1,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Trappstadt,999,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Unsleben,893,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Willmars,646,1,1
+Unterfranken,Rhön-Grabfeld,Landkreis,Wollbach,1295,1,0
+Unterfranken,Rhön-Grabfeld,Landkreis,Wülfershausen a. d. Saale,1462,1,2
+Unterfranken,Schweinfurt,Landkreis,Bergrheinfeld,5137,2,5
+Unterfranken,Schweinfurt,Landkreis,Dingolshausen,1266,0,1
+Unterfranken,Schweinfurt,Landkreis,Dittelbrunn,7146,2,4
+Unterfranken,Schweinfurt,Landkreis,Donnersdorf,1998,1,3
+Unterfranken,Schweinfurt,Landkreis,Euerbach,2961,2,1
+Unterfranken,Schweinfurt,Landkreis,Frankenwinheim,986,1,3
+Unterfranken,Schweinfurt,Landkreis,Geldersheim,2482,0,4
+Unterfranken,Schweinfurt,Landkreis,Gerolzhofen,6537,6,5
+Unterfranken,Schweinfurt,Landkreis,Gochsheim,6129,3,0
+Unterfranken,Schweinfurt,Landkreis,Grafenrheinfeld,3416,2,3
+Unterfranken,Schweinfurt,Landkreis,Grettstadt,4133,2,2
+Unterfranken,Schweinfurt,Landkreis,Kolitzheim,5345,2,6
+Unterfranken,Schweinfurt,Landkreis,Lülsfeld,808,0,0
+Unterfranken,Schweinfurt,Landkreis,Michelau i. Steigerwald,1112,0,0
+Unterfranken,Schweinfurt,Landkreis,Niederwerrn,7767,2,5
+Unterfranken,Schweinfurt,Landkreis,Oberschwarzach,1403,1,2
+Unterfranken,Schweinfurt,Landkreis,Poppenhausen,4018,1,4
+Unterfranken,Schweinfurt,Landkreis,Röthlein,4728,2,3
+Unterfranken,Schweinfurt,Landkreis,Schonungen,7752,3,4
+Unterfranken,Schweinfurt,Landkreis,Schwanfeld,1870,1,2
+Unterfranken,Schweinfurt,Landkreis,Schwebheim,4131,2,1
+Unterfranken,Schweinfurt,Landkreis,Sennfeld,4029,4,2
+Unterfranken,Schweinfurt,Landkreis,Stadtlauringen,4181,3,9
+Unterfranken,Schweinfurt,Landkreis,Sulzheim,1978,0,2
+Unterfranken,Schweinfurt,Landkreis,Üchtelhausen,3793,1,1
+Unterfranken,Schweinfurt,Landkreis,Waigolshausen,2781,1,4
+Unterfranken,Schweinfurt,Landkreis,Wasserlosen,3354,1,5
+Unterfranken,Schweinfurt,Landkreis,Werneck,10321,7,8
+Unterfranken,Schweinfurt,Landkreis,Wipfeld,1107,0,2
+Unterfranken,Schweinfurt,Stadt,Schweinfurt,52950,31,18
+Unterfranken,Würzburg,Landkreis,Altertheim,2034,0,1
+Unterfranken,Würzburg,Landkreis,Aub,1537,1,2
+Unterfranken,Würzburg,Landkreis,Bergtheim,3417,2,4
+Unterfranken,Würzburg,Landkreis,Bieberehren,902,0,1
+Unterfranken,Würzburg,Landkreis,Bütthard,1272,0,2
+Unterfranken,Würzburg,Landkreis,Eibelstadt,2815,2,1
+Unterfranken,Würzburg,Landkreis,Eisenheim,1346,0,0
+Unterfranken,Würzburg,Landkreis,Eisingen,3601,2,3
+Unterfranken,Würzburg,Landkreis,Erlabrunn,1704,0,4
+Unterfranken,Würzburg,Landkreis,Estenfeld,4841,2,2
+Unterfranken,Würzburg,Landkreis,Frickenhausen a. Main,1226,0,2
+Unterfranken,Würzburg,Landkreis,Gaukönigshofen,2468,1,2
+Unterfranken,Würzburg,Landkreis,Gelchsheim,822,1,1
+Unterfranken,Würzburg,Landkreis,Gerbrunn,6465,4,0
+Unterfranken,Würzburg,Landkreis,Geroldshausen,1331,1,3
+Unterfranken,Würzburg,Landkreis,Giebelstadt,5082,3,5
+Unterfranken,Würzburg,Landkreis,Greußenheim,1578,1,0
+Unterfranken,Würzburg,Landkreis,Güntersleben,4411,1,2
+Unterfranken,Würzburg,Landkreis,Hausen b. Würzburg,2383,1,1
+Unterfranken,Würzburg,Landkreis,Helmstadt,2566,2,3
+Unterfranken,Würzburg,Landkreis,Hettstadt,3623,1,2
+Unterfranken,Würzburg,Landkreis,Höchberg,9494,5,3
+Unterfranken,Würzburg,Landkreis,Holzkirchen,15733,0,2
+Unterfranken,Würzburg,Landkreis,Kirchheim,2175,2,1
+Unterfranken,Würzburg,Landkreis,Kist,2423,1,3
+Unterfranken,Würzburg,Landkreis,Kleinrinderfeld,2094,1,4
+Unterfranken,Würzburg,Landkreis,Kürnach,4602,3,3
+Unterfranken,Würzburg,Landkreis,Leinach,3112,1,4
+Unterfranken,Würzburg,Landkreis,Margetshöchheim,3155,1,2
+Unterfranken,Würzburg,Landkreis,Neubrunn,2165,1,2
+Unterfranken,Würzburg,Landkreis,Oberpleichfeld,1099,0,2
+Unterfranken,Würzburg,Landkreis,Ochsenfurt,11180,7,6
+Unterfranken,Würzburg,Landkreis,Prosselsheim,1170,0,1
+Unterfranken,Würzburg,Landkreis,Randersacker,3454,1,0
+Unterfranken,Würzburg,Landkreis,Reichenberg,3943,1,4
+Unterfranken,Würzburg,Landkreis,Remlingen,1491,1,0
+Unterfranken,Würzburg,Landkreis,Riedenheim,737,0,2
+Unterfranken,Würzburg,Landkreis,Rimpar,7756,4,2
+Unterfranken,Würzburg,Landkreis,Rottendorf,5216,2,4
+Unterfranken,Würzburg,Landkreis,Röttingen,1648,1,6
+Unterfranken,Würzburg,Landkreis,Sommerhausen,1676,1,0
+Unterfranken,Würzburg,Landkreis,Sonderhofen,835,0,3
+Unterfranken,Würzburg,Landkreis,Tauberrettersheim,861,0,1
+Unterfranken,Würzburg,Landkreis,Theilheim,2340,0,1
+Unterfranken,Würzburg,Landkreis,Thüngersheim,2683,1,3
+Unterfranken,Würzburg,Landkreis,Uettingen,1911,2,2
+Unterfranken,Würzburg,Landkreis,Unterpleichfeld,2853,1,3
+Unterfranken,Würzburg,Landkreis,Veitshöchheim,9893,6,2
+Unterfranken,Würzburg,Landkreis,Waldbrunn,2602,1,1
+Unterfranken,Würzburg,Landkreis,Waldbüttelbrunn,5040,1,2
+Unterfranken,Würzburg,Landkreis,Winterhausen,1438,0,1
+Unterfranken,Würzburg,Landkreis,Zell a. Main,4258,0,0
+Unterfranken,Würzburg,Stadt,Würzburg,126823,49,36
