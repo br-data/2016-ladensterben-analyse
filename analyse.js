@@ -12,7 +12,7 @@ function analyse() {
 
   // Load and parse the datasets
   var districts = parseCSV(loadFile('./clean/shopCount-perAdmDistrict-2005-2015.csv'));
-  var towns = parseCSV(loadFile('./clean/shopCount-perTown-2015.csv'));
+  var towns = parseCSV(loadFile('./clean/shopCount-perTown-2014.csv'));
   var supermarkets = parseCSV(loadFile('./clean/allSupermarkets-2015.csv'));
   var ruralStores = parseCSV(loadFile('./clean/allRuralStores-2015.csv'));
 
@@ -85,8 +85,88 @@ function analyse() {
       currentDistrict.districtType === currentSupermarket.districtType;
     });
 
-    results.push(currentDistrict);
+    currentDistrict.supermarketsPerChain = aggregate(currentDistrict.supermarkets, function (supermarket) {
+
+      return supermarket.chain;
+    });
+
+    currentDistrict.biggestChain = getBiggestChains(currentDistrict.supermarketsPerChain);
+
+    currentDistrict.biggestChainCount = currentDistrict.biggestChain[0].value;
+
+    currentDistrict.biggestChainDeltaAbs = currentDistrict.biggestChain[0].value - currentDistrict.biggestChain[1].value;
+    currentDistrict.biggestChainDeltaPrc = currentDistrict.biggestChain[0].value / currentDistrict.biggestChainDeltaAbs * 100;
+    currentDistrict.biggestChainDeltaFctr = currentDistrict.biggestChain[0].value / currentDistrict.biggestChain[1].value;
+
+    currentDistrict.biggestChain = (function () {
+
+      if (currentDistrict.biggestChain[0].value > currentDistrict.biggestChain[1].value) {
+
+        return currentDistrict.biggestChain[0].name;
+      } else {
+
+        return currentDistrict.biggestChain[0].name + ' und ' + currentDistrict.biggestChain[1].name;
+      }
+    })();
   }
+}
+
+function getBiggestChains(obj) {
+
+    var biggestValue, biggestKey, result = [];
+
+    biggestValue = getMaximumValue(obj);
+    biggestKey = getKeyByValue(obj, biggestValue);
+
+    result.push({
+      name: biggestKey,
+      value: biggestValue
+    });
+
+    delete obj[biggestKey];
+
+    biggestValue = getMaximumValue(obj);
+    biggestKey = getKeyByValue(obj, biggestValue);
+
+    result.push({
+      name: biggestKey,
+      value: biggestValue
+    });
+
+    return result;
+}
+
+function getMaximumValue(obj) {
+
+  return Object.keys(obj).reduce(function (m, k) {
+
+    return obj[k] > m ? obj[k] : m;
+  }, -Infinity);
+}
+
+function getKeyByValue(obj, val) {
+
+  for (var prop in obj) {
+
+    if (obj.hasOwnProperty(prop)) {
+
+      if (obj[prop] === val) {
+
+        return prop;
+      }
+    }
+  }
+}
+
+function aggregate(arr, classifier) {
+
+  return arr.reduce(function (counter, item) {
+
+    var p = (classifier || String)(item);
+    counter[p] = counter.hasOwnProperty(p) ? counter[p] + 1 : 1;
+
+    return counter;
+  }, {});
 }
 
 function parseCSV(data) {
