@@ -1,25 +1,48 @@
 var fs = require('fs');
+var path = require('path');
+
+var csv = require('csv');
 
 (function init() {
 
-  loadFiles();
+  var data = parseCSV(loadFile('./clean/shopCount-perAdmDistrict-2005-2015.csv'));
+  console.log(data);
+
+
 })();
-
-function loadFiles() {
-
-  var files = [];
-  var normalizedPath = require('path').join(__dirname, 'data');
-
-  fs.readdirSync(normalizedPath).forEach(function (file) {
-
-    var ref = require('./data/' + file);
-    files.push(ref);
-  });
-
-  analyse(files);
-}
 
 function analyse(files) {
 
 
+}
+
+function parseCSV(data) {
+
+  var parseOption = {
+
+    columns: true
+  };
+
+  return csv.parse(data, parseOption, function (error, output) {
+
+    if (!error) {
+
+      console.log(output);
+    } else {
+
+    }
+  });
+}
+
+function loadFile(relativePath, callback) {
+
+  relativePath = path.normalize(relativePath);
+
+  try {
+
+    return fs.readFileSync(relativePath, 'utf8').toString();
+  } catch (error) {
+
+    console.log(error);
+  }
 }
