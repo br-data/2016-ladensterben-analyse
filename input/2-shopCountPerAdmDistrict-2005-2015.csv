@@ -1,7 +1,7 @@
 govDistrict,admDistrict,admDistrictShort,districtType,id,pop2014,pop2005,shopCount2005,shopCount2015,salesArea2005,salesArea2015,employees2007,employees2015
-Oberbayern,Ingolstadt,,Stadt,09161,131002,121314,53,56,"1,013","1,258",166,476
-Oberbayern,München,,Stadt,09162,1429584,1259677,457,503,680,"1,072",4,5
-Oberbayern,Rosenheim,,Stadt,09163,60889,60226,27,30,"1,140","1,276",139,193
+Oberbayern,Ingolstadt,,Stadt,09161,131002,121314,53,56,1013,1258,166,476
+Oberbayern,München,,Stadt,09162,1429584,1259677,457,503,680,1072,4,5
+Oberbayern,Rosenheim,,Stadt,09163,60889,60226,27,30,1140,1276,139,193
 Oberbayern,Altötting,,Landkreis,09171,107465,109227,68,60,764,787,240,221
 Oberbayern,Berchtesgadener Land,,Landkreis,09172,102976,102587,74,57,555,751,188,199
 Oberbayern,Bad Tölz-Wolfratshausen,,Landkreis,09173,123340,120633,69,58,608,732,198,210
@@ -22,9 +22,9 @@ Oberbayern,Rosenheim,,Landkreis,09187,251850,247057,151,134,550,710,533,627
 Oberbayern,Starnberg,,Landkreis,09188,131873,129091,50,55,602,606,352,567
 Oberbayern,Traunstein,,Landkreis,09189,171978,170906,126,109,574,700,457,333
 Oberbayern,Weilheim-Schongau,,Landkreis,09190,131190,131034,64,66,894,923,226,376
-Niederbayern,Landshut,,Stadt,09261,67509,61368,22,26,916,"1,391",163,228
-Niederbayern,Passau,,Stadt,09262,49952,50651,30,28,"1,061","1,168",413,356
-Niederbayern,Straubing,,Stadt,09263,46027,44633,27,25,"1,156","1,269",211,227
+Niederbayern,Landshut,,Stadt,09261,67509,61368,22,26,916,1391,163,228
+Niederbayern,Passau,,Stadt,09262,49952,50651,30,28,1061,1168,413,356
+Niederbayern,Straubing,,Stadt,09263,46027,44633,27,25,1156,1269,211,227
 Niederbayern,Deggendorf,,Landkreis,09271,115699,117492,81,73,742,750,245,235
 Niederbayern,Freyung-Grafenau,,Landkreis,09272,77927,81582,86,63,400,511,83,149
 Niederbayern,Kelheim,,Landkreis,09273,116495,113237,61,60,749,679,92,130
@@ -34,9 +34,9 @@ Niederbayern,Regen,,Landkreis,09276,76265,81416,63,56,599,606,99,93
 Niederbayern,Rottal-Inn,,Landkreis,09277,118164,119598,76,64,687,724,252,314
 Niederbayern,Straubing-Bogen,,Landkreis,09278,97967,97797,68,49,479,449,245,353
 Niederbayern,Dingolfing-Landau,,Landkreis,09279,93450,91906,61,50,564,691,173,330
-Oberpfalz,Amberg,,Stadt,09361,41535,44618,21,20,"1,246","1,060",160,159
-Oberpfalz,Regensburg,,Stadt,09362,142292,129859,56,60,953,"1,272",419,534
-Oberpfalz,Weiden in der Oberpfalz,Weiden,Stadt,09363,41817,42672,27,26,"1,078","1,439",96,247
+Oberpfalz,Amberg,,Stadt,09361,41535,44618,21,20,1246,1060,160,159
+Oberpfalz,Regensburg,,Stadt,09362,142292,129859,56,60,953,1272,419,534
+Oberpfalz,Weiden in der Oberpfalz,Weiden,Stadt,09363,41817,42672,27,26,1078,1439,96,247
 Oberpfalz,Amberg-Sulzbach,,Landkreis,09371,103045,108159,50,40,537,568,103,269
 Oberpfalz,Cham,,Landkreis,09372,125844,130871,123,94,413,660,183,288
 Oberpfalz,Neumarkt in der Oberpfalz,Neumarkt,Landkreis,09373,128975,128613,61,56,623,761,280,530
@@ -44,10 +44,10 @@ Oberpfalz,Neustadt an der Waldnaab,Neustadt,Landkreis,09374,95184,100081,70,44,4
 Oberpfalz,Regensburg,,Landkreis,09375,187205,182193,85,71,898,643,136,188
 Oberpfalz,Schwandorf,,Landkreis,09376,143614,144748,92,73,717,731,238,400
 Oberpfalz,Tirschenreuth,,Landkreis,09377,73250,77729,64,46,471,699,149,173
-Oberfranken,Bamberg,,Stadt,09461,71952,70081,33,36,"1,153","1,298",267,183
-Oberfranken,Bayreuth,,Stadt,09462,71601,73997,36,35,901,"1,054",347,317
-Oberfranken,Coburg,,Stadt,09463,41062,41950,23,23,666,"1,121",277,80
-Oberfranken,Hof,,Stadt,09464,44325,48723,27,24,"1,380","1,039",111,180
+Oberfranken,Bamberg,,Stadt,09461,71952,70081,33,36,1153,1298,267,183
+Oberfranken,Bayreuth,,Stadt,09462,71601,73997,36,35,901,1054,347,317
+Oberfranken,Coburg,,Stadt,09463,41062,41950,23,23,666,1121,277,80
+Oberfranken,Hof,,Stadt,09464,44325,48723,27,24,1380,1039,111,180
 Oberfranken,Bamberg,,Landkreis,09471,144695,144825,84,76,651,696,232,229
 Oberfranken,Bayreuth,,Landkreis,09472,104615,108724,68,49,540,673,161,227
 Oberfranken,Coburg,,Landkreis,09473,86715,91325,59,41,667,719,116,118
@@ -57,11 +57,11 @@ Oberfranken,Kronach,,Landkreis,09476,67998,73678,68,52,525,615,81,48
 Oberfranken,Kulmbach,,Landkreis,09477,72541,77141,46,38,731,897,179,200
 Oberfranken,Lichtenfels,,Landkreis,09478,66540,70057,46,35,659,824,143,135
 Oberfranken,Wunsiedel im Fichtelgebirge,Wunsiedel,Landkreis,09479,73403,81631,57,40,689,859,143,160
-Mittelfranken,Ansbach,,Stadt,09561,40010,40624,22,19,"1,083","1,103",103,58
-Mittelfranken,Erlangen,,Stadt,09562,106423,103197,43,42,970,"1,275",196,292
-Mittelfranken,Fürth,,Stadt,09563,121519,113422,56,49,821,"1,121",452,567
-Mittelfranken,Nürnberg,,Stadt,09564,501072,499237,200,190,876,"1,169",1,1
-Mittelfranken,Schwabach,,Stadt,09565,39941,38791,15,15,"1,470","1,554",89,155
+Mittelfranken,Ansbach,,Stadt,09561,40010,40624,22,19,1083,1103,103,58
+Mittelfranken,Erlangen,,Stadt,09562,106423,103197,43,42,970,1275,196,292
+Mittelfranken,Fürth,,Stadt,09563,121519,113422,56,49,821,1121,452,567
+Mittelfranken,Nürnberg,,Stadt,09564,501072,499237,200,190,876,1169,1,1
+Mittelfranken,Schwabach,,Stadt,09565,39941,38791,15,15,1470,1554,89,155
 Mittelfranken,Ansbach,,Landkreis,09571,179419,183755,110,91,569,675,192,319
 Mittelfranken,Erlangen-Höchstadt,,Landkreis,09572,132830,130489,58,57,826,774,732,275
 Mittelfranken,Fürth,,Landkreis,09573,113847,114024,46,43,814,759,149,256
@@ -69,9 +69,9 @@ Mittelfranken,Nürnberger Land,,Landkreis,09574,165918,168389,78,66,731,792,254,
 Mittelfranken,Neustadt/Aisch-Bad Windsheim,,Landkreis,09575,97808,99979,58,49,692,650,251,201
 Mittelfranken,Roth,,Landkreis,09576,123890,125708,62,51,822,633,118,444
 Mittelfranken,Weißenburg-Gunzenhausen,,Landkreis,09577,92518,94660,49,35,814,731,231,164
-Unterfranken,Aschaffenburg,,Stadt,09661,68167,68642,26,27,"1,035","1,385",155,195
-Unterfranken,Schweinfurt,,Stadt,09662,51610,54273,27,31,"1,119","1,292",334,228
-Unterfranken,Würzburg,,Stadt,09663,124219,133906,46,49,"1,047","1,369",201,277
+Unterfranken,Aschaffenburg,,Stadt,09661,68167,68642,26,27,1035,1385,155,195
+Unterfranken,Schweinfurt,,Stadt,09662,51610,54273,27,31,1119,1292,334,228
+Unterfranken,Würzburg,,Stadt,09663,124219,133906,46,49,1047,1369,201,277
 Unterfranken,Aschaffenburg,,Landkreis,09671,172776,174974,82,72,690,722,257,211
 Unterfranken,Bad Kissingen,,Landkreis,09672,102901,107988,77,51,590,664,253,385
 Unterfranken,Rhön-Grabfeld,,Landkreis,09673,79676,86094,60,47,508,620,162,180
@@ -81,15 +81,15 @@ Unterfranken,Miltenberg,,Landkreis,09676,127941,131376,62,56,617,838,394,431
 Unterfranken,Main-Spessart,,Landkreis,09677,125915,131218,90,71,586,704,389,200
 Unterfranken,Schweinfurt,,Landkreis,09678,113747,115924,60,52,535,576,169,154
 Unterfranken,Würzburg,,Landkreis,09679,159253,159978,77,70,658,595,67,206
-Schwaben,Augsburg,,Stadt,09761,281111,262676,101,93,995,"1,229",439,738
-Schwaben,Kaufbeuren,,Stadt,09762,42014,42183,22,21,"1,137","1,170",160,167
-Schwaben,Kempten,,Stadt,09763,65624,61360,39,35,794,"1,319",205,403
-Schwaben,Memmingen,,Stadt,09764,42201,41107,28,25,"1,187","1,299",188,288
+Schwaben,Augsburg,,Stadt,09761,281111,262676,101,93,995,1229,439,738
+Schwaben,Kaufbeuren,,Stadt,09762,42014,42183,22,21,1137,1170,160,167
+Schwaben,Kempten,,Stadt,09763,65624,61360,39,35,794,1319,205,403
+Schwaben,Memmingen,,Stadt,09764,42201,41107,28,25,1187,1299,188,288
 Schwaben,Aichach-Friedberg,,Landkreis,09771,129294,127446,49,56,767,774,358,594
 Schwaben,Augsburg,,Landkreis,09772,242697,241381,104,109,918,911,273,572
 Schwaben,Dillingen an der Donau,,Landkreis,09773,93478,95512,44,40,732,884,105,205
 Schwaben,Günzburg,,Landkreis,09774,121828,122450,60,65,841,793,223,209
-Schwaben,Neu-Ulm,,Landkreis,09775,167847,163387,70,69,"1,056",967,636,527
+Schwaben,Neu-Ulm,,Landkreis,09775,167847,163387,70,69,1056,967,636,527
 Schwaben,Lindau (Bodensee),Lindau,Landkreis,09776,79387,79467,40,34,660,665,145,123
 Schwaben,Ostallgäu,,Landkreis,09777,135894,134766,92,79,549,665,427,337
 Schwaben,Unterallgäu,,Landkreis,09778,138712,135708,72,70,604,571,144,229
