@@ -12,10 +12,10 @@ var stringify = require('csv-stringify');
 function analyse() {
 
   // Load and parse the datasets
-  var districts = parseCSV(loadFile('./clean/shopCount-perAdmDistrict-2005-2015.csv'));
-  var towns = parseCSV(loadFile('./clean/shopCount-perTown-2014.csv'));
-  var supermarkets = parseCSV(loadFile('./clean/allSupermarkets-2015.csv'));
-  var ruralStores = parseCSV(loadFile('./clean/allRuralStores-2015.csv'));
+  var supermarkets = parseCSV(loadFile('./input/1-allSupermarkets-2015.csv'));
+  var districts = parseCSV(loadFile('./input/2-shopCountPerAdmDistrict-2005-2015.csv'));
+  var towns = parseCSV(loadFile('./input/3-shopCountPerTown-2014.csv'));
+  var ruralStores = parseCSV(loadFile('./input/4-allRuralStores-2015.csv'));
 
   // Analysis results go here
   var result = [];
@@ -150,8 +150,11 @@ function analyse() {
   stringifyCSV(result, function (csv) {
 
     // Save the CSV string to file
-    // saveFile('./data.csv', csv);
+    saveFile('./output/results.csv', csv);
   });
+
+  // Save JSON
+  saveFile('./output/results.json', JSON.stringify(result, null, 2));
 }
 
 // Returns the two biggest supermarkets from an object
