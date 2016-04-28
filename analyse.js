@@ -82,7 +82,7 @@ function analyse() {
     // Calculate number of towns without supermarkets per district
     currentDistrict.noStoreCount = townsPerDistrict.filter(function (currentTown) {
 
-      return currentTown.supermarket === 0;
+      return currentTown.store === 0;
     }).length;
 
 
