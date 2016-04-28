@@ -7,15 +7,15 @@ Sammlung an Tools um die Daten des bayerischen Einzelhandels zu analysieren.
 3. `node analyse.js` ausführen, um das Skript zu starten.
 
 ## Datenquelle
-Die Daten stammen aus mehreren schriftlichen Anfragen des Abgeordneten Klaus Adelt (SPD), welche vom bayerischen Wirtschaftministerium beantwortet wurden. Die Daten wurde von der Firma TradeDimensions für die bayerische Landesregierung erhoben. 
+Die Daten stammen aus mehreren schriftlichen Anfragen des Landtagsabgeordneten Klaus Adelt (SPD), welche vom bayerischen Wirtschaftministerium beantwortet wurden. Die Daten wurde von der Firma TradeDimensions für die bayerische Landesregierung erhoben. 
 - Anfrage 2014: https://kleineanfragen.de/bayern/17/3014-nahversorgung-in-bayern
 - Anfrage 2015:
 
 ## Daten extrahieren und bereinigen
-Die Originialdaten aus der Anfrage wurden mit [Tabula](http://tabula.technology/) extrahiert und anschließend bereinigt. Beim Bereinigen der Daten wurden in erster Linie die Spaltennamen und die Namen der Landkreise vereinheitlicht. Die bereinigten Daten liegen im Ordner `/input`:
+Die Originialdaten aus der Anfrage wurden mit [Tabula](http://tabula.technology/) extrahiert und anschließend bereinigt. Beim Bereinigen der Daten wurden in erster Linie die Spaltennamen und die Namen der Landkreise vereinheitlicht. Zudem wurden manchen Landkreisen einen Partnerlandkreis zugewiesen. Die bereinigten Daten liegen im Ordner `/input`:
 
 - **1-allSupermarkets-2015.csv**: Anlage 1: Alle Lebensmitteleinzelhandelsgeschäfte in Bayern pro Gemeinde mit Unternehmensgruppenzugehörigkeit
-- **2-shopCountPerAdmDistrict-2005-2015.csv**: Anlage 2: Vergleich der Landkreise mit Zahlen zur Anzahl der Geschäfte, durchschnittliche Verkaufsfläche und Zahl der Angestellten, jeweils damals iund heute
+- **2-shopCountPerAdmDistrict-2005-2015.csv**: Anlage 2: Vergleich der Landkreise mit Zahlen zur Anzahl der Geschäfte, durchschnittliche Verkaufsfläche und Zahl der Angestellten, jeweils damals und heute
 - **3-shopCountPerTown-2014.csv**: Anlage 3: Gemeinden mit der Anzahl der Supermärkte und der kleinen Lebensmittelbetriebe (Bäcker, Metzger usw.) 
 - **4-allRuralStores-2015.csv**: Anlage 4: Gemeinden mit einem Dorfladen 
 
@@ -27,6 +27,7 @@ Das Skript `analyse.js` lädt die Tabellen aus `/input`, führt Berechnungen dur
   "govDistrict": "Oberbayern", // Name des Regierungsbezirk
   "admDistrict": "Ingolstadt", // Name des Stadt- oder Landkreises
   "admDistrictShort": "", // Kurzname des Stadt- oder Landkreises, falls anwendbar
+  "relatedDistrictId": "", // Partnerlandkreis, falls anwendbar
   "districtType": "Stadt", // Stadt- oder Landkreise
   "id": "09161", // Landkreisschlüssel (nach AGS)
   "pop2014": 131002, // Bevölkerung 2014

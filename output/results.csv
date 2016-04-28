@@ -1,97 +1,97 @@
-govDistrict,admDistrict,admDistrictShort,districtType,id,pop2014,pop2005,shopCount2005,shopCount2015,salesArea2005,salesArea2015,employees2007,employees2015,popDeltaAbs,popDeltaPrc,shopCountDeltaAbs,shopCountDeltaPrc,salesAreaDeltaAbs,salesAreaDeltaPrc,employeesDeltaAbs,employeesDeltaPrc,shopCount2014,lastShopCountDeltaAbs,lastShopCountDeltaPrc,noSupermarketCount,noStoreCount,ruralStoresNames,ruralStoresCount,biggestChain,biggestChainCount,biggestChainDeltaAbs,biggestChainDeltaPrc,biggestChainDeltaFctr
-Oberbayern,Ingolstadt,,Stadt,09161,131002,121314,53,56,1013,1258,166,476,9688,7.99,3,5.66,245,24.19,310,186.75,56,0,0,0,0,,0,Edeka,18,12,66.67,3
-Oberbayern,München,,Stadt,09162,1429584,1259677,457,503,680,1072,4,5,169907,13.49,46,10.07,392,57.65,1,25,494,9,2,0,0,,0,Kaiser's Tengelmann,89,12,13.48,1.16
-Oberbayern,Rosenheim,,Stadt,09163,60889,60226,27,30,1140,1276,139,193,663,1.1,3,11.11,136,11.93,54,38.85,29,1,3,0,0,,0,Edeka,5,1,20,1.25
-Oberbayern,Altötting,,Landkreis,09171,107465,109227,68,60,764,787,240,221,-1762,-1.61,-8,-11.76,23,3.01,-19,-7.92,61,-1,-2,3,2,,0,Edeka,27,20,74.07,3.86
-Oberbayern,Berchtesgadener Land,,Landkreis,09172,102976,102587,74,57,555,751,188,199,389,0.38,-17,-22.97,196,35.32,11,5.85,58,-1,-2,2,1,,0,Edeka,26,19,73.08,3.71
-Oberbayern,Bad Tölz-Wolfratshausen,,Landkreis,09173,123340,120633,69,58,608,732,198,210,2707,2.24,-11,-15.94,124,20.39,12,6.06,61,-3,-5,2,4,"Reichersbeuern, Wolfratshausen",2,Edeka,20,14,70,3.33
-Oberbayern,Dachau,,Landkreis,09174,146279,134382,54,61,771,715,241,419,11897,8.85,7,12.96,-56,-7.26,178,73.86,62,-1,-2,1,0,,0,Rewe,15,4,26.67,1.36
-Oberbayern,Ebersberg,,Landkreis,09175,134873,123895,54,56,665,763,285,345,10978,8.86,2,3.7,98,14.74,60,21.05,56,0,0,2,4,Gelting,1,Edeka,13,1,7.69,1.08
-Oberbayern,Eichstätt,,Landkreis,09176,127189,123233,64,58,581,589,438,401,3956,3.21,-6,-9.37,8,1.38,-37,-8.45,58,0,0,7,4,"Appertshofen, Lippertshofen",2,Edeka,27,17,62.96,2.7
-Oberbayern,Erding,,Landkreis,09177,131839,123094,58,57,634,689,165,484,8745,7.1,-1,-1.72,55,8.68,319,193.33,57,0,0,4,3,"Langenpreising, Wörth",2,Edeka,24,18,75,4
-Oberbayern,Freising,,Landkreis,09178,170357,160655,69,74,774,801,197,713,9702,6.04,5,7.25,27,3.49,516,261.93,74,0,0,4,3,"Haag an der Amper, Paunzhausen",2,Edeka,20,5,25,1.33
-Oberbayern,Fürstenfeldbruck,,Landkreis,09179,210278,199783,68,70,893,911,635,886,10495,5.25,2,2.94,18,2.02,251,39.53,68,2,3,6,3,Schöngeising,1,Rewe,16,7,43.75,1.78
-Oberbayern,Garmisch-Partenkirchen,,Landkreis,09180,85931,87351,61,53,472,611,170,291,-1420,-1.63,-8,-13.11,139,29.45,121,71.18,57,-4,-7,5,2,Farchant,1,Edeka,18,12,66.67,3
-Oberbayern,Landsberg am Lech,Landsberg,Landkreis,09181,116118,112080,58,57,559,842,145,278,4038,3.6,-1,-1.72,283,50.63,133,91.72,59,-2,-3,8,7,"Hurlach, Windach",2,Edeka,21,14,66.67,3
-Oberbayern,Miesbach,,Landkreis,09182,96773,94970,49,44,596,611,248,350,1803,1.9,-5,-10.2,15,2.52,102,41.13,45,-1,-2,3,0,,0,Edeka,15,9,60,2.5
-Oberbayern,Mühldorf am Inn,Mühldorf,Landkreis,09183,110296,110930,65,62,732,770,219,247,-634,-0.57,-3,-4.62,38,5.19,28,12.79,62,0,0,11,10,"Mettenheim, Mittergars, Oberflossing, Oberornau, Ramsau",5,Edeka,27,18,66.67,3
-Oberbayern,München,,Landkreis,09184,332800,309080,117,131,791,843,760,1,23720,7.67,14,11.97,52,6.57,-759,-99.87,131,0,0,0,2,,0,Kaiser's Tengelmann,26,7,26.92,1.37
-Oberbayern,Neuburg-Schrobenhausen,,Landkreis,09185,93505,91181,45,49,814,747,567,620,2324,2.55,4,8.89,-67,-8.23,53,9.35,52,-3,-6,3,4,,0,Edeka,21,14,66.67,3
-Oberbayern,Pfaffenhofen an der Ilm,Pfaffenhofen,Landkreis,09186,121594,115809,59,53,629,655,401,364,5785,5,-6,-10.17,26,4.13,-37,-9.23,53,0,0,2,1,,0,Edeka,17,10,58.82,2.43
-Oberbayern,Rosenheim,,Landkreis,09187,251850,247057,151,134,550,710,533,627,4793,1.94,-17,-11.26,160,29.09,94,17.64,139,-5,-4,3,5,"Evenhausen, Pfaffenhofen, Sachrang",3,Edeka,60,46,76.67,4.29
-Oberbayern,Starnberg,,Landkreis,09188,131873,129091,50,55,602,606,352,567,2782,2.16,5,10,4,0.66,215,61.08,54,1,2,0,0,,0,Edeka,14,2,14.29,1.17
-Oberbayern,Traunstein,,Landkreis,09189,171978,170906,126,109,574,700,457,333,1072,0.63,-17,-13.49,126,21.95,-124,-27.13,114,-5,-4,3,4,"Frabertsham, Hammer, Schleching",3,Edeka,53,43,81.13,5.3
-Oberbayern,Weilheim-Schongau,,Landkreis,09190,131190,131034,64,66,894,923,226,376,156,0.12,2,3.13,29,3.24,150,66.37,68,-2,-3,8,6,Habach,1,Edeka,19,12,63.16,2.71
-Niederbayern,Landshut,,Stadt,09261,67509,61368,22,26,916,1391,163,228,6141,10.01,4,18.18,475,51.86,65,39.88,25,1,4,0,0,,0,Edeka,5,1,20,1.25
-Niederbayern,Passau,,Stadt,09262,49952,50651,30,28,1061,1168,413,356,-699,-1.38,-2,-6.67,107,10.08,-57,-13.8,26,2,8,0,0,,0,Edeka,8,3,37.5,1.6
-Niederbayern,Straubing,,Stadt,09263,46027,44633,27,25,1156,1269,211,227,1394,3.12,-2,-7.41,113,9.78,16,7.58,26,-1,-4,0,0,,0,Edeka und Netto,5,0,0,1
-Niederbayern,Deggendorf,,Landkreis,09271,115699,117492,81,73,742,750,245,235,-1793,-1.53,-8,-9.88,8,1.08,-10,-4.08,72,1,1,3,2,,0,Edeka,33,22,66.67,3
-Niederbayern,Freyung-Grafenau,,Landkreis,09272,77927,81582,86,63,400,511,83,149,-3655,-4.48,-23,-26.74,111,27.75,66,79.52,64,-1,-2,1,2,,0,Edeka,44,39,88.64,8.8
-Niederbayern,Kelheim,,Landkreis,09273,116495,113237,61,60,749,679,92,130,3258,2.88,-1,-1.64,-70,-9.35,38,41.3,57,3,5,5,3,Kirchdorf,1,Edeka,18,7,38.89,1.64
-Niederbayern,Landshut,,Landkreis,09274,151819,148101,95,83,561,591,228,307,3718,2.51,-12,-12.63,30,5.35,79,34.65,85,-2,-2,4,3,"Furth, Johannesbrunn",2,Edeka,38,24,63.16,2.71
-Niederbayern,Passau,,Landkreis,09275,186284,189142,147,127,606,645,580,432,-2858,-1.51,-20,-13.61,39,6.44,-148,-25.52,131,-4,-3,1,2,,0,Edeka,62,44,70.97,3.44
-Niederbayern,Regen,,Landkreis,09276,76265,81416,63,56,599,606,99,93,-5151,-6.33,-7,-11.11,7,1.17,-6,-6.06,56,0,0,2,1,Bayerisch Eisenstein,1,Edeka,25,19,76,4.17
-Niederbayern,Rottal-Inn,,Landkreis,09277,118164,119598,76,64,687,724,252,314,-1434,-1.2,-12,-15.79,37,5.39,62,24.6,65,-1,-2,6,3,,0,Edeka,33,26,78.79,4.71
-Niederbayern,Straubing-Bogen,,Landkreis,09278,97967,97797,68,49,479,449,245,353,170,0.17,-19,-27.94,-30,-6.26,108,44.08,49,0,0,8,3,Irlbach,1,Edeka,35,28,80,5
-Niederbayern,Dingolfing-Landau,,Landkreis,09279,93450,91906,61,50,564,691,173,330,1544,1.68,-11,-18.03,127,22.52,157,90.75,50,0,0,1,2,,0,Edeka,23,12,52.17,2.09
-Oberpfalz,Amberg,,Stadt,09361,41535,44618,21,20,1246,1060,160,159,-3083,-6.91,-1,-4.76,-186,-14.93,-1,-0.62,20,0,0,0,0,,0,Edeka und Netto,4,0,0,1
-Oberpfalz,Regensburg,,Stadt,09362,142292,129859,56,60,953,1272,419,534,12433,9.57,4,7.14,319,33.47,115,27.45,58,2,3,0,0,,0,Edeka,12,1,8.33,1.09
-Oberpfalz,Weiden in der Oberpfalz,Weiden,Stadt,09363,41817,42672,27,26,1078,1439,96,247,-855,-2,-1,-3.7,361,33.49,151,157.29,26,0,0,0,0,,0,Edeka,8,4,50,2
-Oberpfalz,Amberg-Sulzbach,,Landkreis,09371,103045,108159,50,40,537,568,103,269,-5114,-4.73,-10,-20,31,5.77,166,161.17,40,0,0,8,1,Utzenhofen,1,Edeka,15,3,20,1.25
-Oberpfalz,Cham,,Landkreis,09372,125844,130871,123,94,413,660,183,288,-5027,-3.84,-29,-23.58,247,59.81,105,57.38,97,-3,-3,3,1,,0,Edeka,43,30,69.77,3.31
-Oberpfalz,Neumarkt in der Oberpfalz,Neumarkt,Landkreis,09373,128975,128613,61,56,623,761,280,530,362,0.28,-5,-8.2,138,22.15,250,89.29,55,1,2,2,1,"Deusmauer, Hohenfels, Sulzbürg",3,Netto und Edeka,11,0,0,1
-Oberpfalz,Neustadt an der Waldnaab,Neustadt,Landkreis,09374,95184,100081,70,44,473,563,157,203,-4897,-4.89,-26,-37.14,90,19.03,46,29.3,47,-3,-6,15,10,,0,Edeka,13,1,7.69,1.08
-Oberpfalz,Regensburg,,Landkreis,09375,187205,182193,85,71,898,643,136,188,5012,2.75,-14,-16.47,-255,-28.4,52,38.24,75,-4,-5,11,9,,0,Edeka und Netto,21,0,0,1
-Oberpfalz,Schwandorf,,Landkreis,09376,143614,144748,92,73,717,731,238,400,-1134,-0.78,-19,-20.65,14,1.95,162,68.07,78,-5,-6,9,7,"Altendorf, Gleiritsch, Schwarzhofen",3,Edeka,17,4,23.53,1.31
-Oberpfalz,Tirschenreuth,,Landkreis,09377,73250,77729,64,46,471,699,149,173,-4479,-5.76,-18,-28.12,228,48.41,24,16.11,46,0,0,8,2,Fuchsmühl,1,Edeka,19,11,57.89,2.38
-Oberfranken,Bamberg,,Stadt,09461,71952,70081,33,36,1153,1298,267,183,1871,2.67,3,9.09,145,12.58,-84,-31.46,37,-1,-3,0,0,,0,Edeka,9,4,44.44,1.8
-Oberfranken,Bayreuth,,Stadt,09462,71601,73997,36,35,901,1054,347,317,-2396,-3.24,-1,-2.78,153,16.98,-30,-8.65,35,0,0,0,0,,0,Netto,7,1,14.29,1.17
-Oberfranken,Coburg,,Stadt,09463,41062,41950,23,23,666,1121,277,80,-888,-2.12,0,0,455,68.32,-197,-71.12,22,1,5,0,0,,0,Edeka und Netto,6,0,0,1
-Oberfranken,Hof,,Stadt,09464,44325,48723,27,24,1380,1039,111,180,-4398,-9.03,-3,-11.11,-341,-24.71,69,62.16,26,-2,-8,0,0,,0,Edeka,7,4,57.14,2.33
-Oberfranken,Bamberg,,Landkreis,09471,144695,144825,84,76,651,696,232,229,-130,-0.09,-8,-9.52,45,6.91,-3,-1.29,75,1,1,6,8,,0,Edeka,24,11,45.83,1.85
-Oberfranken,Bayreuth,,Landkreis,09472,104615,108724,68,49,540,673,161,227,-4109,-3.78,-19,-27.94,133,24.63,66,40.99,50,-1,-2,11,7,Trockau,1,Edeka,14,3,21.43,1.27
-Oberfranken,Coburg,,Landkreis,09473,86715,91325,59,41,667,719,116,118,-4610,-5.05,-18,-30.51,52,7.8,2,1.72,43,-2,-5,3,1,"Heilgersdorf, Rossach",2,Edeka,12,4,33.33,1.5
-Oberfranken,Forchheim,,Landkreis,09474,113900,113543,56,45,835,913,175,239,357,0.31,-11,-19.64,78,9.34,64,36.57,45,0,0,10,4,Unterleinleiter,1,Edeka,11,4,36.36,1.57
-Oberfranken,Hof,,Landkreis,09475,96608,105715,73,48,566,703,175,191,-9107,-8.61,-25,-34.25,137,24.2,16,9.14,50,-2,-4,3,4,,0,Edeka,15,7,46.67,1.88
-Oberfranken,Kronach,,Landkreis,09476,67998,73678,68,52,525,615,81,48,-5680,-7.71,-16,-23.53,90,17.14,-33,-40.74,55,-3,-5,3,1,Nordhalben,1,Edeka,23,17,73.91,3.83
-Oberfranken,Kulmbach,,Landkreis,09477,72541,77141,46,38,731,897,179,200,-4600,-5.96,-8,-17.39,166,22.71,21,11.73,38,0,0,9,2,"Grafengehaig, Rugendorf",2,Edeka,9,3,33.33,1.5
-Oberfranken,Lichtenfels,,Landkreis,09478,66540,70057,46,35,659,824,143,135,-3517,-5.02,-11,-23.91,165,25.04,-8,-5.59,37,-2,-5,1,0,,0,Edeka,12,6,50,2
-Oberfranken,Wunsiedel im Fichtelgebirge,Wunsiedel,Landkreis,09479,73403,81631,57,40,689,859,143,160,-8228,-10.08,-17,-29.82,170,24.67,17,11.89,41,-1,-2,3,0,,0,Edeka,18,11,61.11,2.57
-Mittelfranken,Ansbach,,Stadt,09561,40010,40624,22,19,1083,1103,103,58,-614,-1.51,-3,-13.64,20,1.85,-45,-43.69,18,1,6,0,0,,0,Edeka und Norma,4,0,0,1
-Mittelfranken,Erlangen,,Stadt,09562,106423,103197,43,42,970,1275,196,292,3226,3.13,-1,-2.33,305,31.44,96,48.98,42,0,0,0,0,,0,Edeka und Norma,8,0,0,1
-Mittelfranken,Fürth,,Stadt,09563,121519,113422,56,49,821,1121,452,567,8097,7.14,-7,-12.5,300,36.54,115,25.44,47,2,4,0,0,,0,Norma,16,8,50,2
-Mittelfranken,Nürnberg,,Stadt,09564,501072,499237,200,190,876,1169,1,1,1835,0.37,-10,-5,293,33.45,0,0,190,0,0,0,0,,0,Norma,36,10,27.78,1.38
-Mittelfranken,Schwabach,,Stadt,09565,39941,38791,15,15,1470,1554,89,155,1150,2.96,0,0,84,5.71,66,74.16,15,0,0,0,0,,0,Edeka,3,1,33.33,1.5
-Mittelfranken,Ansbach,,Landkreis,09571,179419,183755,110,91,569,675,192,319,-4336,-2.36,-19,-17.27,106,18.63,127,66.15,102,-11,-11,15,9,"Arberg, Langfurth",2,Edeka,28,16,57.14,2.33
-Mittelfranken,Erlangen-Höchstadt,,Landkreis,09572,132830,130489,58,57,826,774,732,275,2341,1.79,-1,-1.72,-52,-6.3,-457,-62.43,60,-3,-5,6,5,"Eckenhaid, Röttenbach",2,Edeka,13,2,15.38,1.18
-Mittelfranken,Fürth,,Landkreis,09573,113847,114024,46,43,814,759,149,256,-177,-0.16,-3,-6.52,-55,-6.76,107,71.81,46,-3,-7,1,1,,0,Rewe,8,1,12.5,1.14
-Mittelfranken,Nürnberger Land,,Landkreis,09574,165918,168389,78,66,731,792,254,345,-2471,-1.47,-12,-15.38,61,8.34,91,35.83,66,0,0,7,2,"Haimendorf, Schönberg, Simonshofen",3,Edeka,17,7,41.18,1.7
-Mittelfranken,Neustadt/Aisch-Bad Windsheim,,Landkreis,09575,97808,99979,58,49,692,650,251,201,-2171,-2.17,-9,-15.52,-42,-6.07,-50,-19.92,49,0,0,14,7,"Ipsheim, Langenfeld",2,Edeka,15,9,60,2.5
-Mittelfranken,Roth,,Landkreis,09576,123890,125708,62,51,822,633,118,444,-1818,-1.45,-11,-17.74,-189,-22.99,326,276.27,52,-1,-2,1,0,Schwanstetten,1,Netto und Edeka,9,0,0,1
-Mittelfranken,Weißenburg-Gunzenhausen,,Landkreis,09577,92518,94660,49,35,814,731,231,164,-2142,-2.26,-14,-28.57,-83,-10.2,-67,-29,36,-1,-3,12,5,Absberg,1,Edeka,11,5,45.45,1.83
-Unterfranken,Aschaffenburg,,Stadt,09661,68167,68642,26,27,1035,1385,155,195,-475,-0.69,1,3.85,350,33.82,40,25.81,27,0,0,0,0,,0,Edeka,7,3,42.86,1.75
-Unterfranken,Schweinfurt,,Stadt,09662,51610,54273,27,31,1119,1292,334,228,-2663,-4.91,4,14.81,173,15.46,-106,-31.74,31,0,0,0,0,,0,Edeka,8,4,50,2
-Unterfranken,Würzburg,,Stadt,09663,124219,133906,46,49,1047,1369,201,277,-9687,-7.23,3,6.52,322,30.75,76,37.81,49,0,0,0,0,,0,Edeka,14,6,42.86,1.75
-Unterfranken,Aschaffenburg,,Landkreis,09671,172776,174974,82,72,690,722,257,211,-2198,-1.26,-10,-12.2,32,4.64,-46,-17.9,71,1,1,11,2,"Feldkahl, Hofstädten, Kleinkahl, Wiesen",4,Edeka,19,5,26.32,1.36
-Unterfranken,Bad Kissingen,,Landkreis,09672,102901,107988,77,51,590,664,253,385,-5087,-4.71,-26,-33.77,74,12.54,132,52.17,55,-4,-7,8,2,,0,Edeka,15,9,60,2.5
-Unterfranken,Rhön-Grabfeld,,Landkreis,09673,79676,86094,60,47,508,620,162,180,-6418,-7.45,-13,-21.67,112,22.05,18,11.11,47,0,0,14,8,Unsleben,1,Edeka,14,7,50,2
-Unterfranken,Haßberge,,Landkreis,09674,84152,87607,55,45,575,618,294,193,-3455,-3.94,-10,-18.18,43,7.48,-101,-34.35,45,0,0,7,4,"Untermerzbach, Aidhausen, Riedbach-Kleinsteinach",3,Edeka,22,17,77.27,4.4
-Unterfranken,Kitzingen,,Landkreis,09675,88492,89501,61,42,622,735,134,173,-1009,-1.13,-19,-31.15,113,18.17,39,29.1,42,0,0,14,9,"Buchbrunn, Rödelsee",2,Edeka,12,4,33.33,1.5
-Unterfranken,Miltenberg,,Landkreis,09676,127941,131376,62,56,617,838,394,431,-3435,-2.61,-6,-9.68,221,35.82,37,9.39,58,-2,-3,9,2,Rück-Schippach,1,Netto,11,2,18.18,1.22
-Unterfranken,Main-Spessart,,Landkreis,09677,125915,131218,90,71,586,704,389,200,-5303,-4.04,-19,-21.11,118,20.14,-189,-48.59,70,1,1,17,8,"Gräfendorf, Aura im Sinngrund, Wiesenfeld, Obersfeld",4,Edeka,26,14,53.85,2.17
-Unterfranken,Schweinfurt,,Landkreis,09678,113747,115924,60,52,535,576,169,154,-2177,-1.88,-8,-13.33,41,7.66,-15,-8.88,52,0,0,6,3,,0,Edeka,17,9,52.94,2.13
-Unterfranken,Würzburg,,Landkreis,09679,159253,159978,77,70,658,595,67,206,-725,-0.45,-7,-9.09,-63,-9.57,139,207.46,70,0,0,15,7,"Eisenheim, Uengershausen",2,Edeka,25,18,72,3.57
-Schwaben,Augsburg,,Stadt,09761,281111,262676,101,93,995,1229,439,738,18435,7.02,-8,-7.92,234,23.52,299,68.11,97,-4,-4,0,0,,0,Norma,14,1,7.14,1.08
-Schwaben,Kaufbeuren,,Stadt,09762,42014,42183,22,21,1137,1170,160,167,-169,-0.4,-1,-4.55,33,2.9,7,4.38,21,0,0,0,0,,0,Aldi und Kaes,3,0,0,1
-Schwaben,Kempten,,Stadt,09763,65624,61360,39,35,794,1319,205,403,4264,6.95,-4,-10.26,525,66.12,198,96.59,35,0,0,0,0,,0,Feneberg,9,4,44.44,1.8
-Schwaben,Memmingen,,Stadt,09764,42201,41107,28,25,1187,1299,188,288,1094,2.66,-3,-10.71,112,9.44,100,53.19,25,0,0,0,0,,0,Feneberg und Netto,4,0,0,1
-Schwaben,Aichach-Friedberg,,Landkreis,09771,129294,127446,49,56,767,774,358,594,1848,1.45,7,14.29,7,0.91,236,65.92,57,-1,-2,12,6,Harthausen,1,Edeka,16,9,56.25,2.29
-Schwaben,Augsburg,,Landkreis,09772,242697,241381,104,109,918,911,273,572,1316,0.55,5,4.81,-7,-0.76,299,109.52,112,-3,-3,14,12,Biberbach,1,Edeka,28,15,53.57,2.15
-Schwaben,Dillingen an der Donau,,Landkreis,09773,93478,95512,44,40,732,884,105,205,-2034,-2.13,-4,-9.09,152,20.77,100,95.24,41,-1,-2,12,8,"Lauterbach, Zöschingen",2,Edeka und Netto,9,0,0,1
-Schwaben,Günzburg,,Landkreis,09774,121828,122450,60,65,841,793,223,209,-622,-0.51,5,8.33,-48,-5.71,-14,-6.28,68,-3,-4,12,9,"Deisenhausen, Ettenbeuren, Haldenwang, Neuburg an der Kammel",4,Utz und Netto,12,0,0,1
-Schwaben,Neu-Ulm,,Landkreis,09775,167847,163387,70,69,1056,967,636,527,4460,2.73,-1,-1.43,-89,-8.43,-109,-17.14,68,1,1,6,2,"Jedesheim, Kellmünz",2,Rewe,10,1,10,1.11
-Schwaben,Lindau (Bodensee),Lindau,Landkreis,09776,79387,79467,40,34,660,665,145,123,-80,-0.1,-6,-15,5,0.76,-22,-15.17,37,-3,-8,4,5,Opfenbach,1,Edeka,10,6,60,2.5
-Schwaben,Ostallgäu,,Landkreis,09777,135894,134766,92,79,549,665,427,337,1128,0.84,-13,-14.13,116,21.13,-90,-21.08,76,3,4,17,7,"Hopferbach, Rettenbach, Friesenried",3,Edeka,20,6,30,1.43
-Schwaben,Unterallgäu,,Landkreis,09778,138712,135708,72,70,604,571,144,229,3004,2.21,-2,-2.78,-33,-5.46,85,59.03,67,3,4,18,11,"Niederrieden, Wolfertschwenden",2,Edeka,22,14,63.64,2.75
-Schwaben,Donau-Ries,,Landkreis,09779,130203,130969,75,61,656,843,238,308,-766,-0.58,-14,-18.67,187,28.51,70,29.41,62,-1,-2,21,11,"Amerdingen, Daiting, Huisheim, Riedheim, Rögling, Tagmersheim, Wolferstadt",7,Edeka,24,13,54.17,2.18
-Schwaben,Oberallgäu,,Landkreis,09780,150981,150507,83,77,591,619,205,548,474,0.31,-6,-7.23,28,4.74,343,167.32,78,-1,-1,3,2,"Altstädten, Börwang, Heising, Krugzell, Niedersonthofen, Probstried, Rettenberg",7,Feneberg,22,10,45.45,1.83
+govDistrict,admDistrict,admDistrictShort,relatedDistrictId,districtType,id,pop2014,pop2005,shopCount2005,shopCount2015,salesArea2005,salesArea2015,employees2007,employees2015,popDeltaAbs,popDeltaPrc,shopCountDeltaAbs,shopCountDeltaPrc,salesAreaDeltaAbs,salesAreaDeltaPrc,employeesDeltaAbs,employeesDeltaPrc,shopCount2014,lastShopCountDeltaAbs,lastShopCountDeltaPrc,noSupermarketCount,noStoreCount,ruralStoresNames,ruralStoresCount,biggestChain,biggestChainCount,biggestChainDeltaAbs,biggestChainDeltaPrc,biggestChainDeltaFctr
+Oberbayern,Ingolstadt,,,Stadt,09161,131002,121314,53,56,1013,1258,166,476,9688,7.99,3,5.66,245,24.19,310,186.75,56,0,0,0,0,,0,Edeka,18,12,66.67,3
+Oberbayern,München,,,Stadt,09162,1429584,1259677,457,503,680,1072,4,5,169907,13.49,46,10.07,392,57.65,1,25,494,9,2,0,0,,0,Kaiser's Tengelmann,89,12,13.48,1.16
+Oberbayern,Rosenheim,,09187,Stadt,09163,60889,60226,27,30,1140,1276,139,193,663,1.1,3,11.11,136,11.93,54,38.85,29,1,3,0,0,,0,Edeka,5,1,20,1.25
+Oberbayern,Altötting,,,Landkreis,09171,107465,109227,68,60,764,787,240,221,-1762,-1.61,-8,-11.76,23,3.01,-19,-7.92,61,-1,-2,3,2,,0,Edeka,27,20,74.07,3.86
+Oberbayern,Berchtesgadener Land,,,Landkreis,09172,102976,102587,74,57,555,751,188,199,389,0.38,-17,-22.97,196,35.32,11,5.85,58,-1,-2,2,1,,0,Edeka,26,19,73.08,3.71
+Oberbayern,Bad Tölz-Wolfratshausen,,,Landkreis,09173,123340,120633,69,58,608,732,198,210,2707,2.24,-11,-15.94,124,20.39,12,6.06,61,-3,-5,2,4,"Reichersbeuern, Wolfratshausen",2,Edeka,20,14,70,3.33
+Oberbayern,Dachau,,,Landkreis,09174,146279,134382,54,61,771,715,241,419,11897,8.85,7,12.96,-56,-7.26,178,73.86,62,-1,-2,1,0,,0,Rewe,15,4,26.67,1.36
+Oberbayern,Ebersberg,,,Landkreis,09175,134873,123895,54,56,665,763,285,345,10978,8.86,2,3.7,98,14.74,60,21.05,56,0,0,2,4,Gelting,1,Edeka,13,1,7.69,1.08
+Oberbayern,Eichstätt,,,Landkreis,09176,127189,123233,64,58,581,589,438,401,3956,3.21,-6,-9.37,8,1.38,-37,-8.45,58,0,0,7,4,"Appertshofen, Lippertshofen",2,Edeka,27,17,62.96,2.7
+Oberbayern,Erding,,,Landkreis,09177,131839,123094,58,57,634,689,165,484,8745,7.1,-1,-1.72,55,8.68,319,193.33,57,0,0,4,3,"Langenpreising, Wörth",2,Edeka,24,18,75,4
+Oberbayern,Freising,,,Landkreis,09178,170357,160655,69,74,774,801,197,713,9702,6.04,5,7.25,27,3.49,516,261.93,74,0,0,4,3,"Haag an der Amper, Paunzhausen",2,Edeka,20,5,25,1.33
+Oberbayern,Fürstenfeldbruck,,,Landkreis,09179,210278,199783,68,70,893,911,635,886,10495,5.25,2,2.94,18,2.02,251,39.53,68,2,3,6,3,Schöngeising,1,Rewe,16,7,43.75,1.78
+Oberbayern,Garmisch-Partenkirchen,,,Landkreis,09180,85931,87351,61,53,472,611,170,291,-1420,-1.63,-8,-13.11,139,29.45,121,71.18,57,-4,-7,5,2,Farchant,1,Edeka,18,12,66.67,3
+Oberbayern,Landsberg am Lech,Landsberg,,Landkreis,09181,116118,112080,58,57,559,842,145,278,4038,3.6,-1,-1.72,283,50.63,133,91.72,59,-2,-3,8,7,"Hurlach, Windach",2,Edeka,21,14,66.67,3
+Oberbayern,Miesbach,,,Landkreis,09182,96773,94970,49,44,596,611,248,350,1803,1.9,-5,-10.2,15,2.52,102,41.13,45,-1,-2,3,0,,0,Edeka,15,9,60,2.5
+Oberbayern,Mühldorf am Inn,Mühldorf,,Landkreis,09183,110296,110930,65,62,732,770,219,247,-634,-0.57,-3,-4.62,38,5.19,28,12.79,62,0,0,11,10,"Mettenheim, Mittergars, Oberflossing, Oberornau, Ramsau",5,Edeka,27,18,66.67,3
+Oberbayern,München,,,Landkreis,09184,332800,309080,117,131,791,843,760,1,23720,7.67,14,11.97,52,6.57,-759,-99.87,131,0,0,0,2,,0,Kaiser's Tengelmann,26,7,26.92,1.37
+Oberbayern,Neuburg-Schrobenhausen,,,Landkreis,09185,93505,91181,45,49,814,747,567,620,2324,2.55,4,8.89,-67,-8.23,53,9.35,52,-3,-6,3,4,,0,Edeka,21,14,66.67,3
+Oberbayern,Pfaffenhofen an der Ilm,Pfaffenhofen,,Landkreis,09186,121594,115809,59,53,629,655,401,364,5785,5,-6,-10.17,26,4.13,-37,-9.23,53,0,0,2,1,,0,Edeka,17,10,58.82,2.43
+Oberbayern,Rosenheim,,09163,Landkreis,09187,251850,247057,151,134,550,710,533,627,4793,1.94,-17,-11.26,160,29.09,94,17.64,139,-5,-4,3,5,"Evenhausen, Pfaffenhofen, Sachrang",3,Edeka,60,46,76.67,4.29
+Oberbayern,Starnberg,,,Landkreis,09188,131873,129091,50,55,602,606,352,567,2782,2.16,5,10,4,0.66,215,61.08,54,1,2,0,0,,0,Edeka,14,2,14.29,1.17
+Oberbayern,Traunstein,,,Landkreis,09189,171978,170906,126,109,574,700,457,333,1072,0.63,-17,-13.49,126,21.95,-124,-27.13,114,-5,-4,3,4,"Frabertsham, Hammer, Schleching",3,Edeka,53,43,81.13,5.3
+Oberbayern,Weilheim-Schongau,,,Landkreis,09190,131190,131034,64,66,894,923,226,376,156,0.12,2,3.13,29,3.24,150,66.37,68,-2,-3,8,6,Habach,1,Edeka,19,12,63.16,2.71
+Niederbayern,Landshut,,09274,Stadt,09261,67509,61368,22,26,916,1391,163,228,6141,10.01,4,18.18,475,51.86,65,39.88,25,1,4,0,0,,0,Edeka,5,1,20,1.25
+Niederbayern,Passau,,09275,Stadt,09262,49952,50651,30,28,1061,1168,413,356,-699,-1.38,-2,-6.67,107,10.08,-57,-13.8,26,2,8,0,0,,0,Edeka,8,3,37.5,1.6
+Niederbayern,Straubing,,09278,Stadt,09263,46027,44633,27,25,1156,1269,211,227,1394,3.12,-2,-7.41,113,9.78,16,7.58,26,-1,-4,0,0,,0,Edeka und Netto,5,0,0,1
+Niederbayern,Deggendorf,,,Landkreis,09271,115699,117492,81,73,742,750,245,235,-1793,-1.53,-8,-9.88,8,1.08,-10,-4.08,72,1,1,3,2,,0,Edeka,33,22,66.67,3
+Niederbayern,Freyung-Grafenau,,,Landkreis,09272,77927,81582,86,63,400,511,83,149,-3655,-4.48,-23,-26.74,111,27.75,66,79.52,64,-1,-2,1,2,,0,Edeka,44,39,88.64,8.8
+Niederbayern,Kelheim,,,Landkreis,09273,116495,113237,61,60,749,679,92,130,3258,2.88,-1,-1.64,-70,-9.35,38,41.3,57,3,5,5,3,Kirchdorf,1,Edeka,18,7,38.89,1.64
+Niederbayern,Landshut,,09261,Landkreis,09274,151819,148101,95,83,561,591,228,307,3718,2.51,-12,-12.63,30,5.35,79,34.65,85,-2,-2,4,3,"Furth, Johannesbrunn",2,Edeka,38,24,63.16,2.71
+Niederbayern,Passau,,09262,Landkreis,09275,186284,189142,147,127,606,645,580,432,-2858,-1.51,-20,-13.61,39,6.44,-148,-25.52,131,-4,-3,1,2,,0,Edeka,62,44,70.97,3.44
+Niederbayern,Regen,,,Landkreis,09276,76265,81416,63,56,599,606,99,93,-5151,-6.33,-7,-11.11,7,1.17,-6,-6.06,56,0,0,2,1,Bayerisch Eisenstein,1,Edeka,25,19,76,4.17
+Niederbayern,Rottal-Inn,,,Landkreis,09277,118164,119598,76,64,687,724,252,314,-1434,-1.2,-12,-15.79,37,5.39,62,24.6,65,-1,-2,6,3,,0,Edeka,33,26,78.79,4.71
+Niederbayern,Straubing-Bogen,,09263,Landkreis,09278,97967,97797,68,49,479,449,245,353,170,0.17,-19,-27.94,-30,-6.26,108,44.08,49,0,0,8,3,Irlbach,1,Edeka,35,28,80,5
+Niederbayern,Dingolfing-Landau,,,Landkreis,09279,93450,91906,61,50,564,691,173,330,1544,1.68,-11,-18.03,127,22.52,157,90.75,50,0,0,1,2,,0,Edeka,23,12,52.17,2.09
+Oberpfalz,Amberg,,09371,Stadt,09361,41535,44618,21,20,1246,1060,160,159,-3083,-6.91,-1,-4.76,-186,-14.93,-1,-0.62,20,0,0,0,0,,0,Edeka und Netto,4,0,0,1
+Oberpfalz,Regensburg,,09375,Stadt,09362,142292,129859,56,60,953,1272,419,534,12433,9.57,4,7.14,319,33.47,115,27.45,58,2,3,0,0,,0,Edeka,12,1,8.33,1.09
+Oberpfalz,Weiden in der Oberpfalz,Weiden,09374,Stadt,09363,41817,42672,27,26,1078,1439,96,247,-855,-2,-1,-3.7,361,33.49,151,157.29,26,0,0,0,0,,0,Edeka,8,4,50,2
+Oberpfalz,Amberg-Sulzbach,,09361,Landkreis,09371,103045,108159,50,40,537,568,103,269,-5114,-4.73,-10,-20,31,5.77,166,161.17,40,0,0,8,1,Utzenhofen,1,Edeka,15,3,20,1.25
+Oberpfalz,Cham,,,Landkreis,09372,125844,130871,123,94,413,660,183,288,-5027,-3.84,-29,-23.58,247,59.81,105,57.38,97,-3,-3,3,1,,0,Edeka,43,30,69.77,3.31
+Oberpfalz,Neumarkt in der Oberpfalz,Neumarkt,,Landkreis,09373,128975,128613,61,56,623,761,280,530,362,0.28,-5,-8.2,138,22.15,250,89.29,55,1,2,2,1,"Deusmauer, Hohenfels, Sulzbürg",3,Netto und Edeka,11,0,0,1
+Oberpfalz,Neustadt an der Waldnaab,Neustadt,09363,Landkreis,09374,95184,100081,70,44,473,563,157,203,-4897,-4.89,-26,-37.14,90,19.03,46,29.3,47,-3,-6,15,10,,0,Edeka,13,1,7.69,1.08
+Oberpfalz,Regensburg,,09362,Landkreis,09375,187205,182193,85,71,898,643,136,188,5012,2.75,-14,-16.47,-255,-28.4,52,38.24,75,-4,-5,11,9,,0,Edeka und Netto,21,0,0,1
+Oberpfalz,Schwandorf,,,Landkreis,09376,143614,144748,92,73,717,731,238,400,-1134,-0.78,-19,-20.65,14,1.95,162,68.07,78,-5,-6,9,7,"Altendorf, Gleiritsch, Schwarzhofen",3,Edeka,17,4,23.53,1.31
+Oberpfalz,Tirschenreuth,,,Landkreis,09377,73250,77729,64,46,471,699,149,173,-4479,-5.76,-18,-28.12,228,48.41,24,16.11,46,0,0,8,2,Fuchsmühl,1,Edeka,19,11,57.89,2.38
+Oberfranken,Bamberg,,09471,Stadt,09461,71952,70081,33,36,1153,1298,267,183,1871,2.67,3,9.09,145,12.58,-84,-31.46,37,-1,-3,0,0,,0,Edeka,9,4,44.44,1.8
+Oberfranken,Bayreuth,,09472,Stadt,09462,71601,73997,36,35,901,1054,347,317,-2396,-3.24,-1,-2.78,153,16.98,-30,-8.65,35,0,0,0,0,,0,Netto,7,1,14.29,1.17
+Oberfranken,Coburg,,09473,Stadt,09463,41062,41950,23,23,666,1121,277,80,-888,-2.12,0,0,455,68.32,-197,-71.12,22,1,5,0,0,,0,Edeka und Netto,6,0,0,1
+Oberfranken,Hof,,09475,Stadt,09464,44325,48723,27,24,1380,1039,111,180,-4398,-9.03,-3,-11.11,-341,-24.71,69,62.16,26,-2,-8,0,0,,0,Edeka,7,4,57.14,2.33
+Oberfranken,Bamberg,,09461,Landkreis,09471,144695,144825,84,76,651,696,232,229,-130,-0.09,-8,-9.52,45,6.91,-3,-1.29,75,1,1,6,8,,0,Edeka,24,11,45.83,1.85
+Oberfranken,Bayreuth,,09462,Landkreis,09472,104615,108724,68,49,540,673,161,227,-4109,-3.78,-19,-27.94,133,24.63,66,40.99,50,-1,-2,11,7,Trockau,1,Edeka,14,3,21.43,1.27
+Oberfranken,Coburg,,09463,Landkreis,09473,86715,91325,59,41,667,719,116,118,-4610,-5.05,-18,-30.51,52,7.8,2,1.72,43,-2,-5,3,1,"Heilgersdorf, Rossach",2,Edeka,12,4,33.33,1.5
+Oberfranken,Forchheim,,,Landkreis,09474,113900,113543,56,45,835,913,175,239,357,0.31,-11,-19.64,78,9.34,64,36.57,45,0,0,10,4,Unterleinleiter,1,Edeka,11,4,36.36,1.57
+Oberfranken,Hof,,09464,Landkreis,09475,96608,105715,73,48,566,703,175,191,-9107,-8.61,-25,-34.25,137,24.2,16,9.14,50,-2,-4,3,4,,0,Edeka,15,7,46.67,1.88
+Oberfranken,Kronach,,,Landkreis,09476,67998,73678,68,52,525,615,81,48,-5680,-7.71,-16,-23.53,90,17.14,-33,-40.74,55,-3,-5,3,1,Nordhalben,1,Edeka,23,17,73.91,3.83
+Oberfranken,Kulmbach,,,Landkreis,09477,72541,77141,46,38,731,897,179,200,-4600,-5.96,-8,-17.39,166,22.71,21,11.73,38,0,0,9,2,"Grafengehaig, Rugendorf",2,Edeka,9,3,33.33,1.5
+Oberfranken,Lichtenfels,,,Landkreis,09478,66540,70057,46,35,659,824,143,135,-3517,-5.02,-11,-23.91,165,25.04,-8,-5.59,37,-2,-5,1,0,,0,Edeka,12,6,50,2
+Oberfranken,Wunsiedel im Fichtelgebirge,Wunsiedel,,Landkreis,09479,73403,81631,57,40,689,859,143,160,-8228,-10.08,-17,-29.82,170,24.67,17,11.89,41,-1,-2,3,0,,0,Edeka,18,11,61.11,2.57
+Mittelfranken,Ansbach,,09571,Stadt,09561,40010,40624,22,19,1083,1103,103,58,-614,-1.51,-3,-13.64,20,1.85,-45,-43.69,18,1,6,0,0,,0,Edeka und Norma,4,0,0,1
+Mittelfranken,Erlangen,,,Stadt,09562,106423,103197,43,42,970,1275,196,292,3226,3.13,-1,-2.33,305,31.44,96,48.98,42,0,0,0,0,,0,Edeka und Norma,8,0,0,1
+Mittelfranken,Fürth,,,Stadt,09563,121519,113422,56,49,821,1121,452,567,8097,7.14,-7,-12.5,300,36.54,115,25.44,47,2,4,0,0,,0,Norma,16,8,50,2
+Mittelfranken,Nürnberg,,,Stadt,09564,501072,499237,200,190,876,1169,1,1,1835,0.37,-10,-5,293,33.45,0,0,190,0,0,0,0,,0,Norma,36,10,27.78,1.38
+Mittelfranken,Schwabach,,,Stadt,09565,39941,38791,15,15,1470,1554,89,155,1150,2.96,0,0,84,5.71,66,74.16,15,0,0,0,0,,0,Edeka,3,1,33.33,1.5
+Mittelfranken,Ansbach,,09561,Landkreis,09571,179419,183755,110,91,569,675,192,319,-4336,-2.36,-19,-17.27,106,18.63,127,66.15,102,-11,-11,15,9,"Arberg, Langfurth",2,Edeka,28,16,57.14,2.33
+Mittelfranken,Erlangen-Höchstadt,,,Landkreis,09572,132830,130489,58,57,826,774,732,275,2341,1.79,-1,-1.72,-52,-6.3,-457,-62.43,60,-3,-5,6,5,"Eckenhaid, Röttenbach",2,Edeka,13,2,15.38,1.18
+Mittelfranken,Fürth,,,Landkreis,09573,113847,114024,46,43,814,759,149,256,-177,-0.16,-3,-6.52,-55,-6.76,107,71.81,46,-3,-7,1,1,,0,Rewe,8,1,12.5,1.14
+Mittelfranken,Nürnberger Land,,,Landkreis,09574,165918,168389,78,66,731,792,254,345,-2471,-1.47,-12,-15.38,61,8.34,91,35.83,66,0,0,7,2,"Haimendorf, Schönberg, Simonshofen",3,Edeka,17,7,41.18,1.7
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,,,Landkreis,09575,97808,99979,58,49,692,650,251,201,-2171,-2.17,-9,-15.52,-42,-6.07,-50,-19.92,49,0,0,14,7,"Ipsheim, Langenfeld",2,Edeka,15,9,60,2.5
+Mittelfranken,Roth,,,Landkreis,09576,123890,125708,62,51,822,633,118,444,-1818,-1.45,-11,-17.74,-189,-22.99,326,276.27,52,-1,-2,1,0,Schwanstetten,1,Netto und Edeka,9,0,0,1
+Mittelfranken,Weißenburg-Gunzenhausen,,,Landkreis,09577,92518,94660,49,35,814,731,231,164,-2142,-2.26,-14,-28.57,-83,-10.2,-67,-29,36,-1,-3,12,5,Absberg,1,Edeka,11,5,45.45,1.83
+Unterfranken,Aschaffenburg,,,Stadt,09661,68167,68642,26,27,1035,1385,155,195,-475,-0.69,1,3.85,350,33.82,40,25.81,27,0,0,0,0,,0,Edeka,7,3,42.86,1.75
+Unterfranken,Schweinfurt,,09678,Stadt,09662,51610,54273,27,31,1119,1292,334,228,-2663,-4.91,4,14.81,173,15.46,-106,-31.74,31,0,0,0,0,,0,Edeka,8,4,50,2
+Unterfranken,Würzburg,,09679,Stadt,09663,124219,133906,46,49,1047,1369,201,277,-9687,-7.23,3,6.52,322,30.75,76,37.81,49,0,0,0,0,,0,Edeka,14,6,42.86,1.75
+Unterfranken,Aschaffenburg,,,Landkreis,09671,172776,174974,82,72,690,722,257,211,-2198,-1.26,-10,-12.2,32,4.64,-46,-17.9,71,1,1,11,2,"Feldkahl, Hofstädten, Kleinkahl, Wiesen",4,Edeka,19,5,26.32,1.36
+Unterfranken,Bad Kissingen,,,Landkreis,09672,102901,107988,77,51,590,664,253,385,-5087,-4.71,-26,-33.77,74,12.54,132,52.17,55,-4,-7,8,2,,0,Edeka,15,9,60,2.5
+Unterfranken,Rhön-Grabfeld,,,Landkreis,09673,79676,86094,60,47,508,620,162,180,-6418,-7.45,-13,-21.67,112,22.05,18,11.11,47,0,0,14,8,Unsleben,1,Edeka,14,7,50,2
+Unterfranken,Haßberge,,,Landkreis,09674,84152,87607,55,45,575,618,294,193,-3455,-3.94,-10,-18.18,43,7.48,-101,-34.35,45,0,0,7,4,"Untermerzbach, Aidhausen, Riedbach-Kleinsteinach",3,Edeka,22,17,77.27,4.4
+Unterfranken,Kitzingen,,,Landkreis,09675,88492,89501,61,42,622,735,134,173,-1009,-1.13,-19,-31.15,113,18.17,39,29.1,42,0,0,14,9,"Buchbrunn, Rödelsee",2,Edeka,12,4,33.33,1.5
+Unterfranken,Miltenberg,,,Landkreis,09676,127941,131376,62,56,617,838,394,431,-3435,-2.61,-6,-9.68,221,35.82,37,9.39,58,-2,-3,9,2,Rück-Schippach,1,Netto,11,2,18.18,1.22
+Unterfranken,Main-Spessart,,,Landkreis,09677,125915,131218,90,71,586,704,389,200,-5303,-4.04,-19,-21.11,118,20.14,-189,-48.59,70,1,1,17,8,"Gräfendorf, Aura im Sinngrund, Wiesenfeld, Obersfeld",4,Edeka,26,14,53.85,2.17
+Unterfranken,Schweinfurt,,09662,Landkreis,09678,113747,115924,60,52,535,576,169,154,-2177,-1.88,-8,-13.33,41,7.66,-15,-8.88,52,0,0,6,3,,0,Edeka,17,9,52.94,2.13
+Unterfranken,Würzburg,,09663,Landkreis,09679,159253,159978,77,70,658,595,67,206,-725,-0.45,-7,-9.09,-63,-9.57,139,207.46,70,0,0,15,7,"Eisenheim, Uengershausen",2,Edeka,25,18,72,3.57
+Schwaben,Augsburg,,,Stadt,09761,281111,262676,101,93,995,1229,439,738,18435,7.02,-8,-7.92,234,23.52,299,68.11,97,-4,-4,0,0,,0,Norma,14,1,7.14,1.08
+Schwaben,Kaufbeuren,,09777,Stadt,09762,42014,42183,22,21,1137,1170,160,167,-169,-0.4,-1,-4.55,33,2.9,7,4.38,21,0,0,0,0,,0,Aldi und Kaes,3,0,0,1
+Schwaben,Kempten,,09780,Stadt,09763,65624,61360,39,35,794,1319,205,403,4264,6.95,-4,-10.26,525,66.12,198,96.59,35,0,0,0,0,,0,Feneberg,9,4,44.44,1.8
+Schwaben,Memmingen,,09778,Stadt,09764,42201,41107,28,25,1187,1299,188,288,1094,2.66,-3,-10.71,112,9.44,100,53.19,25,0,0,0,0,,0,Feneberg und Netto,4,0,0,1
+Schwaben,Aichach-Friedberg,,,Landkreis,09771,129294,127446,49,56,767,774,358,594,1848,1.45,7,14.29,7,0.91,236,65.92,57,-1,-2,12,6,Harthausen,1,Edeka,16,9,56.25,2.29
+Schwaben,Augsburg,,,Landkreis,09772,242697,241381,104,109,918,911,273,572,1316,0.55,5,4.81,-7,-0.76,299,109.52,112,-3,-3,14,12,Biberbach,1,Edeka,28,15,53.57,2.15
+Schwaben,Dillingen an der Donau,,,Landkreis,09773,93478,95512,44,40,732,884,105,205,-2034,-2.13,-4,-9.09,152,20.77,100,95.24,41,-1,-2,12,8,"Lauterbach, Zöschingen",2,Edeka und Netto,9,0,0,1
+Schwaben,Günzburg,,,Landkreis,09774,121828,122450,60,65,841,793,223,209,-622,-0.51,5,8.33,-48,-5.71,-14,-6.28,68,-3,-4,12,9,"Deisenhausen, Ettenbeuren, Haldenwang, Neuburg an der Kammel",4,Utz und Netto,12,0,0,1
+Schwaben,Neu-Ulm,,,Landkreis,09775,167847,163387,70,69,1056,967,636,527,4460,2.73,-1,-1.43,-89,-8.43,-109,-17.14,68,1,1,6,2,"Jedesheim, Kellmünz",2,Rewe,10,1,10,1.11
+Schwaben,Lindau (Bodensee),Lindau,,Landkreis,09776,79387,79467,40,34,660,665,145,123,-80,-0.1,-6,-15,5,0.76,-22,-15.17,37,-3,-8,4,5,Opfenbach,1,Edeka,10,6,60,2.5
+Schwaben,Ostallgäu,,09762,Landkreis,09777,135894,134766,92,79,549,665,427,337,1128,0.84,-13,-14.13,116,21.13,-90,-21.08,76,3,4,17,7,"Hopferbach, Rettenbach, Friesenried",3,Edeka,20,6,30,1.43
+Schwaben,Unterallgäu,,09764,Landkreis,09778,138712,135708,72,70,604,571,144,229,3004,2.21,-2,-2.78,-33,-5.46,85,59.03,67,3,4,18,11,"Niederrieden, Wolfertschwenden",2,Edeka,22,14,63.64,2.75
+Schwaben,Donau-Ries,,,Landkreis,09779,130203,130969,75,61,656,843,238,308,-766,-0.58,-14,-18.67,187,28.51,70,29.41,62,-1,-2,21,11,"Amerdingen, Daiting, Huisheim, Riedheim, Rögling, Tagmersheim, Wolferstadt",7,Edeka,24,13,54.17,2.18
+Schwaben,Oberallgäu,,09763,Landkreis,09780,150981,150507,83,77,591,619,205,548,474,0.31,-6,-7.23,28,4.74,343,167.32,78,-1,-1,3,2,"Altstädten, Börwang, Heising, Krugzell, Niedersonthofen, Probstried, Rettenberg",7,Feneberg,22,10,45.45,1.83
