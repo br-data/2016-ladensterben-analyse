@@ -31,25 +31,25 @@ function analyse() {
     currentDistrict.popDeltaAbs = currentDistrict.pop2014 - currentDistrict.pop2005;
 
     // Calculate population change from 2005 to 2014 (percentage)
-    currentDistrict.popDeltaPrc = currentDistrict.popDeltaAbs / currentDistrict.pop2005 * 100;
+    currentDistrict.popDeltaPrc = Math.round(currentDistrict.popDeltaAbs / currentDistrict.pop2005 * 10000) / 100;
 
     // Calculate shop count change from 2005 to 2015 (absolute)
     currentDistrict.shopCountDeltaAbs = currentDistrict.shopCount2015 - currentDistrict.shopCount2005;
 
     // Calculate shop count change from 2005 to 2015 (percentage)
-    currentDistrict.shopCountDeltaPrc = currentDistrict.shopCountDeltaAbs / currentDistrict.shopCount2005 * 100;
+    currentDistrict.shopCountDeltaPrc = Math.round(currentDistrict.shopCountDeltaAbs / currentDistrict.shopCount2005 * 10000) / 100;
 
     // Calculate shop sales area change from 2005 to 2015 (absolute)
     currentDistrict.salesAreaDeltaAbs = currentDistrict.salesArea2015 - currentDistrict.salesArea2005;
 
     // Calculate shop sales area change from 2005 to 2015 (percentage)
-    currentDistrict.salesAreaDeltaPrc = currentDistrict.salesAreaDeltaAbs / currentDistrict.salesArea2005 * 100;
+    currentDistrict.salesAreaDeltaPrc = Math.round(currentDistrict.salesAreaDeltaAbs / currentDistrict.salesArea2005 * 10000) / 100;
 
     // Calculate shop sales area change from 2007 to 2015 (absolute)
     currentDistrict.employeesDeltaAbs = currentDistrict.employees2015 - currentDistrict.employees2007;
 
     // Calculate shop sales area change from 2007 to 2015 (percentage)
-    currentDistrict.employeesDeltaPrc = currentDistrict.employeesDeltaAbs / currentDistrict.employees2007 * 100;
+    currentDistrict.employeesDeltaPrc = Math.round(currentDistrict.employeesDeltaAbs / currentDistrict.employees2007 * 10000) / 100;
 
 
     // Calculate shops count for 2014
@@ -66,14 +66,14 @@ function analyse() {
     currentDistrict.lastShopCountDeltaAbs = currentDistrict.shopCount2015 - currentDistrict.shopCount2014;
 
     // Calculate shop count change  from 2014 to 2015 (percentage)
-    currentDistrict.lastShopCountDeltaPrc = currentDistrict.lastShopCountDeltaAbs / currentDistrict.shopCount2014 * 100;
+    currentDistrict.lastShopCountDeltaPrc = Math.round(currentDistrict.lastShopCountDeltaAbs / currentDistrict.shopCount2014 * 100);
 
 
     // Get all towns per district
     var townsPerDistrict = towns.filter(function (currentTown) {
 
       return currentDistrict.admDistrict === currentTown.admDistrict &&
-      currentDistrict.districtType === currentTown.districtType
+      currentDistrict.districtType === currentTown.districtType;
     });
 
     // Calculate number of towns without supermarkets per district
@@ -129,10 +129,10 @@ function analyse() {
     currentDistrict.biggestChainDeltaAbs = currentDistrict.biggestChain[0].value - currentDistrict.biggestChain[1].value;
 
     // Calculate the difference (percentage) in stores between the first biggest and the second biggest supermarket chain
-    currentDistrict.biggestChainDeltaPrc = currentDistrict.biggestChainDeltaAbs / currentDistrict.biggestChain[0].value * 100;
+    currentDistrict.biggestChainDeltaPrc = Math.round(currentDistrict.biggestChainDeltaAbs / currentDistrict.biggestChain[0].value * 10000) / 100;
 
     // Calculate the difference (factor) in stores between the first biggest and the second biggest supermarket chain
-    currentDistrict.biggestChainDeltaFctr = currentDistrict.biggestChain[0].value / currentDistrict.biggestChain[1].value;
+    currentDistrict.biggestChainDeltaFctr = Math.round(currentDistrict.biggestChain[0].value / currentDistrict.biggestChain[1].value * 100) / 100;
 
     // Get the name of the biggest or the two biggest super market chains
     currentDistrict.biggestChain = (function () {
