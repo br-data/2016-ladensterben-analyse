@@ -24,6 +24,9 @@ function analyse() {
 
     var currentDistrict = districts[district];
 
+    // Add leading zero to id string
+    currentDistrict.id = '0' + currentDistrict.id;
+
     // Calculate population change from 2005 to 2014 (absolute)
     currentDistrict.popDeltaAbs = currentDistrict.pop2014 - currentDistrict.pop2005;
 
