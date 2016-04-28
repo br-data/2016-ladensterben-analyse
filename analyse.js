@@ -126,7 +126,7 @@ function analyse() {
     currentDistrict.biggestChainDeltaAbs = currentDistrict.biggestChain[0].value - currentDistrict.biggestChain[1].value;
 
     // Calculate the difference (percentage) in stores between the first biggest and the second biggest supermarket chain
-    currentDistrict.biggestChainDeltaPrc = currentDistrict.biggestChain[0].value / currentDistrict.biggestChainDeltaAbs * 100;
+    currentDistrict.biggestChainDeltaPrc = currentDistrict.biggestChainDeltaAbs / currentDistrict.biggestChain[0].value * 100;
 
     // Calculate the difference (factor) in stores between the first biggest and the second biggest supermarket chain
     currentDistrict.biggestChainDeltaFctr = currentDistrict.biggestChain[0].value / currentDistrict.biggestChain[1].value;
@@ -150,7 +150,7 @@ function analyse() {
   stringifyCSV(result, function (csv) {
 
     // Save the CSV string to file
-    saveFile('./data.csv', csv);
+    // saveFile('./data.csv', csv);
   });
 }
 
@@ -260,7 +260,6 @@ function stringifyCSV(data, callback) {
 
     if (!error) {
 
-      console.log(stringData);
       callback(stringData);
     } else {
 
