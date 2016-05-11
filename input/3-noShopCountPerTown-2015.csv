@@ -1,0 +1,511 @@
+govDistrict,admDistrict,districtType,town,ags,pop2015,noSupermarket,noStore
+Schwaben,Aichach-Friedberg,Landkreis,Adelzhausen,9771111,"1,664",x,x
+Schwaben,Aichach-Friedberg,Landkreis,Hollenbach,9771140,"2,377",x,
+Schwaben,Aichach-Friedberg,Landkreis,Inchenhofen,9771141,"2,746",x,x
+Schwaben,Aichach-Friedberg,Landkreis,Merching,9771145,"3,112",x,
+Schwaben,Aichach-Friedberg,Landkreis,Obergriesbach,9771149,"1,985",x,x
+Schwaben,Aichach-Friedberg,Landkreis,Rehling,9771158,"2,491",x,
+Schwaben,Aichach-Friedberg,Landkreis,Ried,9771160,"2,986",x,
+Schwaben,Aichach-Friedberg,Landkreis,Schiltberg,9771162,"1,933",x,
+Schwaben,Aichach-Friedberg,Landkreis,Sielenbach,9771165,"1,624",x,
+Schwaben,Aichach-Friedberg,Landkreis,Steindorf,9771168,935,x,
+Schwaben,Aichach-Friedberg,Landkreis,Todtenweis,9771169,"1,360",x,x
+Schwaben,Aichach-Friedberg,Landkreis,Baar (Schwaben),9771176,"1,152",x,
+Oberbayern,Altötting,Landkreis,Halsbach,9171119,941,x,
+Oberbayern,Altötting,Landkreis,Mehring,9171124,"2,373",x,x
+Oberbayern,Altötting,Landkreis,Stammham,9171130,988,x,x
+Oberbayern,Altötting,Landkreis,Teising,9171131,"1,898",x,
+Oberbayern,Altötting,Landkreis,Tyrlaching,9171134,934,x,x
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ammerthal,9371111,"2,101",x,
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ebermannsdorf,9371118,"2,465",x,x
+Oberpfalz,Amberg-Sulzbach,Landkreis,Ensdorf,9371120,"2,220",x,
+Oberpfalz,Amberg-Sulzbach,Landkreis,Gebenbach,9371123,899,x,
+Oberpfalz,Amberg-Sulzbach,Landkreis,Hirschbach,9371128,"1,206",x,
+Oberpfalz,Amberg-Sulzbach,Landkreis,Hohenburg,9371129,"1,580",x,
+Oberpfalz,Amberg-Sulzbach,Landkreis,Illschwang,9371131,"2,004",x,
+Oberpfalz,Amberg-Sulzbach,Landkreis,Weigendorf,9371157,"1,206",x,
+Mittelfranken,Ansbach,Landkreis,Adelshofen,9571111,976,x,x
+Mittelfranken,Ansbach,Landkreis,Diebach,9571134,"1,107",x,x
+Mittelfranken,Ansbach,Landkreis,Dombühl,9571137,"1,674",x,
+Mittelfranken,Ansbach,Landkreis,Ehingen,9571141,"1,941",x,
+Mittelfranken,Ansbach,Landkreis,Gerolfingen,9571154,947,x,
+Mittelfranken,Ansbach,Landkreis,Insingen,9571169,"1,187",x,
+Mittelfranken,Ansbach,Landkreis,Neusitz,9571181,"2,009",x,x
+Mittelfranken,Ansbach,Landkreis,Oberdachstetten,9571183,"1,536",x,
+Mittelfranken,Ansbach,Landkreis,Ohrenbach,9571188,630,x,x
+Mittelfranken,Ansbach,Landkreis,Röckingen,9571192,752,x,
+Mittelfranken,Ansbach,Landkreis,Rügland,9571194,"1,239",x,
+Mittelfranken,Ansbach,Landkreis,Steinsfeld,9571205,"1,212",x,x
+Mittelfranken,Ansbach,Landkreis,Wettringen,9571222,986,x,x
+Mittelfranken,Ansbach,Landkreis,Wieseth,9571223,"1,363",x,
+Mittelfranken,Ansbach,Landkreis,Windelsbach,9571225,"1,066",x,
+Mittelfranken,Ansbach,Landkreis,Wittelshofen,9571227,"1,225",x,
+Unterfranken,Aschaffenburg,Landkreis,Blankenbach,9671113,"1,498",x,
+Unterfranken,Aschaffenburg,Landkreis,Heimbuchenthal,9671127,"2,180",x,
+Unterfranken,Aschaffenburg,Landkreis,Heinrichsthal,9671128,838,x,
+Unterfranken,Aschaffenburg,Landkreis,Johannesberg,9671133,"3,882",x,
+Unterfranken,Aschaffenburg,Landkreis,Kleinkahl,9671135,"1,816",x,
+Unterfranken,Aschaffenburg,Landkreis,Krombach,9671138,"2,157",x,
+Unterfranken,Aschaffenburg,Landkreis,Sailauf,9671150,"3,588",x,
+Unterfranken,Aschaffenburg,Landkreis,Sommerkahl,9671153,"1,146",x,
+Unterfranken,Aschaffenburg,Landkreis,Weibersbrunn,9671157,"2,010",x,
+Unterfranken,Aschaffenburg,Landkreis,Westerngrund,9671159,"1,908",x,
+Unterfranken,Aschaffenburg,Landkreis,Wiesen,9671162,"1,032",x,
+Schwaben,Augsburg,Landkreis,Allmannshofen,9772114,828,x,
+Schwaben,Augsburg,Landkreis,Bonstetten,9772126,"1,300",x,
+Schwaben,Augsburg,Landkreis,Ehingen,9772134,992,x,x
+Schwaben,Augsburg,Landkreis,Ellgau,9772136,"1,050",x,
+Schwaben,Augsburg,Landkreis,Heretsried,9772156,966,x,x
+Schwaben,Augsburg,Landkreis,Hiltenfingen,9772157,"1,449",x,
+Schwaben,Augsburg,Landkreis,Klosterlechfeld,9772162,"2,850",x,
+Schwaben,Augsburg,Landkreis,Kühlenthal,9772166,816,x,x
+Schwaben,Augsburg,Landkreis,Kutzenhausen,9772167,"2,458",x,x
+Schwaben,Augsburg,Landkreis,Mickhausen,9772178,"1,386",x,
+Schwaben,Augsburg,Landkreis,Oberottmarshausen,9772186,"1,692",x,x
+Schwaben,Augsburg,Landkreis,Scherstetten,9772197,"1,022",x,x
+Schwaben,Augsburg,Landkreis,Ustersbach,9772211,"1,105",x,
+Schwaben,Augsburg,Landkreis,Walkertshofen,9772214,"1,154",x,x
+Schwaben,Augsburg,Landkreis,Wehringen,9772215,"2,876",x,
+Unterfranken,Bad Kissingen,Landkreis,Aura a.d.Saale,9672111,868,x,x
+Unterfranken,Bad Kissingen,Landkreis,Elfershausen,9672121,"2,828",x,
+Unterfranken,Bad Kissingen,Landkreis,Motten,9672134,"1,738",x,
+Unterfranken,Bad Kissingen,Landkreis,Oberleichtersbach,9672138,"2,052",x,
+Unterfranken,Bad Kissingen,Landkreis,Ramsthal,9672142,"1,097",x,
+Unterfranken,Bad Kissingen,Landkreis,Rannungen,9672143,"1,135",x,
+Unterfranken,Bad Kissingen,Landkreis,Schondra,9672149,"1,731",x,
+Unterfranken,Bad Kissingen,Landkreis,Sulzthal,9672155,867,x,
+Unterfranken,Bad Kissingen,Landkreis,Thundorf i.UFr.,9672157,"1,047",x,x
+Unterfranken,Bad Kissingen,Landkreis,Zeitlofs,9672166,"2,059",x,
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Bad Heilbrunn,9173111,"3,780",x,
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Bichl,9173115,"2,139",x,
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Eurasburg,9173123,"4,257",x,
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Icking,9173130,"3,720",x,x
+Oberbayern,Bad Tölz-Wolfratshausen,Landkreis,Reichersbeuern,9173140,"2,311",x,x
+Oberfranken,Bamberg,Landkreis,Altendorf,9471111,"2,000",x,x
+Oberfranken,Bamberg,Landkreis,Gerach,9471133,923,x,x
+Oberfranken,Bamberg,Landkreis,Kemmern,9471150,"2,554",x,x
+Oberfranken,Bamberg,Landkreis,Königsfeld,9471151,"1,329",x,
+Oberfranken,Bamberg,Landkreis,Priesendorf,9471173,"1,516",x,
+Oberfranken,Bamberg,Landkreis,Stadelhofen,9471189,"1,224",x,
+Oberfranken,Bamberg,Landkreis,Wattendorf,9471209,666,x,x
+Oberfranken,Bayreuth,Landkreis,Ahorntal,9472111,"2,186",x,
+Oberfranken,Bayreuth,Landkreis,Betzenstein,9472118,"2,461",x,
+Oberfranken,Bayreuth,Landkreis,Emtmannsberg,9472133,"1,065",x,x
+Oberfranken,Bayreuth,Landkreis,Gesees,9472140,"1,306",x,
+Oberfranken,Bayreuth,Landkreis,Haag,9472146,928,x,x
+Oberfranken,Bayreuth,Landkreis,Hummeltal,9472155,"2,385",x,
+Oberfranken,Bayreuth,Landkreis,Kirchenpingarten,9472156,"1,234",x,
+Oberfranken,Bayreuth,Landkreis,Plankenfels,9472176,894,x,
+Oberfranken,Bayreuth,Landkreis,Prebitz,9472180,"1,014",x,x
+Oberfranken,Bayreuth,Landkreis,Schnabelwaid,9472184,976,x,x
+Oberfranken,Bayreuth,Landkreis,Seybothenreuth,9472188,"1,266",x,
+Oberbayern,Berchtesgadener Land,Landkreis,Marktschellenberg,9172124,"1,753",x,x
+Oberbayern,Berchtesgadener Land,Landkreis,Schneizlreuth,9172131,"1,314",x,x
+Oberpfalz,Cham,Landkreis,Gleißenberg,9372128,866,x,
+Oberpfalz,Cham,Landkreis,Pösing,9372147,998,x,
+Oberpfalz,Cham,Landkreis,Rimbach,9372151,"1,872",x,
+Oberpfalz,Cham,Landkreis,Waffenbrunn,9372168,"2,090",x,
+Oberfranken,Coburg,Landkreis,Großheirath,9473132,"2,557",x,
+Oberfranken,Coburg,Landkreis,Grub a.Forst,9473134,"2,852",x,
+Oberfranken,Coburg,Landkreis,Itzgrund,9473138,"2,282",x,
+Oberfranken,Coburg,Landkreis,Lautertal,9473141,"4,240",x,
+Oberbayern,Dachau,Landkreis,Pfaffenhofen a.d.Glonn,9174137,"2,012",x,x
+Oberbayern,Dachau,Landkreis,Sulzemoos,9174146,"2,720",x,
+Niederbayern,Deggendorf,Landkreis,Grattersdorf,9271123,"1,253",x,
+Niederbayern,Deggendorf,Landkreis,Hunding,9271126,"1,169",x,x
+Niederbayern,Deggendorf,Landkreis,Niederalteich,9271138,"1,705",x,
+Schwaben,Dillingen an der Donau,Landkreis,Aislingen,9773111,"1,318",x,
+Schwaben,Dillingen an der Donau,Landkreis,Binswangen,9773116,"1,310",x,
+Schwaben,Dillingen an der Donau,Landkreis,Blindheim,9773119,"1,677",x,x
+Schwaben,Dillingen an der Donau,Landkreis,Glött,9773133,"1,100",x,
+Schwaben,Dillingen an der Donau,Landkreis,Haunsheim,9773137,"1,548",x,x
+Schwaben,Dillingen an der Donau,Landkreis,Laugna,9773143,"1,563",x,x
+Schwaben,Dillingen an der Donau,Landkreis,Mödingen,9773147,"1,292",x,
+Schwaben,Dillingen an der Donau,Landkreis,Medlingen,9773153,"1,027",x,x
+Schwaben,Dillingen an der Donau,Landkreis,Schwenningen,9773164,"1,441",x,
+Schwaben,Dillingen an der Donau,Landkreis,Villenbach,9773179,"1,266",x,x
+Schwaben,Dillingen an der Donau,Landkreis,Ziertheim,9773186,991,x,x
+Schwaben,Dillingen an der Donau,Landkreis,Zusamaltheim,9773188,"1,240",x,
+Niederbayern,Dingolfing-Landau,Landkreis,Moosthenning,9279128,"4,912",x,
+Schwaben,Donau-Ries,Landkreis,Alerheim,9779111,"1,607",x,
+Schwaben,Donau-Ries,Landkreis,Auhausen,9779117,"1,016",x,
+Schwaben,Donau-Ries,Landkreis,Daiting,9779129,768,x,x
+Schwaben,Donau-Ries,Landkreis,Ederheim,9779136,"1,111",x,
+Schwaben,Donau-Ries,Landkreis,Ehingen a.Ries,9779138,800,x,x
+Schwaben,Donau-Ries,Landkreis,Forheim,9779146,566,x,
+Schwaben,Donau-Ries,Landkreis,Fünfstetten,9779148,"1,311",x,
+Schwaben,Donau-Ries,Landkreis,Hainsfarth,9779154,"1,435",x,
+Schwaben,Donau-Ries,Landkreis,Hohenaltheim,9779162,582,x,
+Schwaben,Donau-Ries,Landkreis,Holzheim,9779163,"1,140",x,x
+Schwaben,Donau-Ries,Landkreis,Huisheim,9779167,"1,566",x,
+Schwaben,Donau-Ries,Landkreis,Maihingen,9779176,"1,228",x,
+Schwaben,Donau-Ries,Landkreis,Marktoffingen,9779177,"1,294",x,x
+Schwaben,Donau-Ries,Landkreis,Münster,9779187,"1,246",x,
+Schwaben,Donau-Ries,Landkreis,Niederschönenfeld,9779192,"1,328",x,
+Schwaben,Donau-Ries,Landkreis,Oberndorf a.Lech,9779196,"2,376",x,
+Schwaben,Donau-Ries,Landkreis,Otting,9779198,767,x,x
+Schwaben,Donau-Ries,Landkreis,Reimlingen,9779203,"1,327",x,x
+Schwaben,Donau-Ries,Landkreis,Tagmersheim,9779217,"1,086",x,
+Schwaben,Donau-Ries,Landkreis,Wechingen,9779226,"1,426",x,
+Oberbayern,Ebersberg,Landkreis,Bruck,9175114,"1,253",x,
+Oberbayern,Ebersberg,Landkreis,Frauenneuharting,9175119,"1,500",x,x
+Oberbayern,Ebersberg,Landkreis,Moosach,9175128,"1,547",x,
+Oberbayern,Ebersberg,Landkreis,Emmering,9175136,"1,514",x,x
+Oberbayern,Eichstätt,Landkreis,Böhmfeld,9176116,"1,657",x,
+Oberbayern,Eichstätt,Landkreis,Egweil,9176122,"1,162",x,
+Oberbayern,Eichstätt,Landkreis,Hepberg,9176131,"2,790",x,
+Oberbayern,Eichstätt,Landkreis,Mindelstetten,9176147,"1,652",x,x
+Oberbayern,Eichstätt,Landkreis,Mörnsheim,9176148,"1,521",x,
+Oberbayern,Eichstätt,Landkreis,Titting,9176164,"2,638",x,
+Oberbayern,Eichstätt,Landkreis,Walting,9176165,"2,326",x,x
+Oberbayern,Erding,Landkreis,Inning a.Holz,9177122,"1,456",x,
+Oberbayern,Erding,Landkreis,Ottenhofen,9177134,"1,922",x,x
+Oberbayern,Erding,Landkreis,Steinkirchen,9177138,"1,204",x,
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Gremsdorf,9572126,"1,599",x,x
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Lonnerstadt,9572139,"1,996",x,
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Marloffstein,9572141,"1,558",x,
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Oberreichenbach,9572147,"1,246",x,
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Spardorf,9572154,"1,968",x,x
+Mittelfranken,Erlangen-Höchstadt,Landkreis,Vestenbergsgreuth,9572159,"1,505",x,
+Oberfranken,Forchheim,Landkreis,Effeltrich,9474122,"2,586",x,
+Oberfranken,Forchheim,Landkreis,Hallerndorf,9474133,"4,101",x,
+Oberfranken,Forchheim,Landkreis,Hetzles,9474137,"1,283",x,
+Oberfranken,Forchheim,Landkreis,Kleinsendelbach,9474144,"1,471",x,
+Oberfranken,Forchheim,Landkreis,Pinzberg,9474158,"1,908",x,
+Oberfranken,Forchheim,Landkreis,Poxdorf,9474160,"1,487",x,
+Oberfranken,Forchheim,Landkreis,Pretzfeld,9474161,"2,418",x,
+Oberfranken,Forchheim,Landkreis,Unterleinleiter,9474168,"1,221",x,x
+Oberfranken,Forchheim,Landkreis,Weilersbach,9474171,"2,040",x,x
+Oberfranken,Forchheim,Landkreis,Weißenohe,9474173,"1,059",x,x
+Oberfranken,Forchheim,Landkreis,Wiesenthau,9474175,"1,628",x,
+Oberbayern,Freising,Landkreis,Attenkirchen,9178115,"2,629",x,
+Oberbayern,Freising,Landkreis,Rudelzhausen,9178122,"3,316",x,
+Oberbayern,Freising,Landkreis,Hohenkammer,9178133,"2,374",x,
+Oberbayern,Freising,Landkreis,Marzling,9178140,"3,196",x,x
+Oberbayern,Fürstenfeldbruck,Landkreis,Adelshofen,9179111,"1,609",x,
+Oberbayern,Fürstenfeldbruck,Landkreis,Egenhofen,9179117,"3,333",x,
+Oberbayern,Fürstenfeldbruck,Landkreis,Hattenhofen,9179128,"1,493",x,
+Oberbayern,Fürstenfeldbruck,Landkreis,Jesenwang,9179130,"1,510",x,
+Mittelfranken,Fürth,Landkreis,Tuchenbach,9573129,"1,338",x,x
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Riegsee,9180128,"1,180",x,x
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Schwaigen,9180131,588,x,x
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Seehausen a.Staffelsee,9180132,"2,406",x,x
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Spatzenhausen,9180133,739,x,
+Oberbayern,Garmisch-Partenkirchen,Landkreis,Unterammergau,9180135,"1,497",x,
+Schwaben,Günzburg,Landkreis,Aletshausen,9774111,"1,112",x,
+Schwaben,Günzburg,Landkreis,Dürrlauingen,9774127,"1,575",x,
+Schwaben,Günzburg,Landkreis,Ebershausen,9774129,600,x,
+Schwaben,Günzburg,Landkreis,Gundremmingen,9774136,"1,462",x,
+Schwaben,Günzburg,Landkreis,Haldenwang,9774140,"1,875",x,
+Schwaben,Günzburg,Landkreis,Kötz,9774148,"3,233",x,
+Schwaben,Günzburg,Landkreis,Landensberg,9774151,705,x,x
+Schwaben,Günzburg,Landkreis,Aichen,9774166,"1,140",x,
+Schwaben,Günzburg,Landkreis,Rettenbach,9774174,"1,647",x,
+Schwaben,Günzburg,Landkreis,Röfingen,9774178,"1,078",x,x
+Schwaben,Günzburg,Landkreis,Wiesenbach,9774189,950,x,x
+Schwaben,Günzburg,Landkreis,Waldstetten,9774191,"1,215",x,
+Schwaben,Günzburg,Landkreis,Waltenhausen,9774192,698,x,x
+Schwaben,Günzburg,Landkreis,Winterbach,9774196,769,x,x
+Unterfranken,Haßberge,Landkreis,Bundorf,9674120,914,x,
+Unterfranken,Haßberge,Landkreis,Eltmann,9674133,"5,240",x,
+Unterfranken,Haßberge,Landkreis,Gädheim,9674139,"1,268",x,x
+Unterfranken,Haßberge,Landkreis,Riedbach,9674153,"1,746",x,
+Unterfranken,Haßberge,Landkreis,Pfarrweisach,9674184,"1,481",x,
+Unterfranken,Haßberge,Landkreis,Rentweinsdorf,9674190,"1,571",x,
+Unterfranken,Haßberge,Landkreis,Stettfeld,9674201,"1,145",x,
+Unterfranken,Haßberge,Landkreis,Wonfurt,9674219,"1,926",x,x
+Oberfranken,Hof,Landkreis,Döhlau,9475120,"3,916",x,
+Oberfranken,Hof,Landkreis,Leupoldsgrün,9475145,"1,194",x,
+Oberfranken,Hof,Landkreis,Lichtenberg,9475146,"1,003",x,
+Niederbayern,Kelheim,Landkreis,Aiglsbach,9273113,"1,739",x,
+Niederbayern,Kelheim,Landkreis,Biburg,9273119,"1,182",x,x
+Niederbayern,Kelheim,Landkreis,Kirchdorf,9273139,912,x,x
+Niederbayern,Kelheim,Landkreis,Train,9273177,"1,857",x,
+Niederbayern,Kelheim,Landkreis,Wildenberg,9273181,"1,340",x,
+Unterfranken,Kitzingen,Landkreis,Abtswind,9675111,866,x,x
+Unterfranken,Kitzingen,Landkreis,Biebelried,9675113,"1,237",x,
+Unterfranken,Kitzingen,Landkreis,Buchbrunn,9675114,"1,128",x,x
+Unterfranken,Kitzingen,Landkreis,Großlangheim,9675131,"1,600",x,x
+Unterfranken,Kitzingen,Landkreis,Kleinlangheim,9675142,"1,719",x,
+Unterfranken,Kitzingen,Landkreis,Mainstockheim,9675146,"1,960",x,x
+Unterfranken,Kitzingen,Landkreis,Martinsheim,9675150,"1,024",x,
+Unterfranken,Kitzingen,Landkreis,Prichsenstadt,9675158,"3,129",x,
+Unterfranken,Kitzingen,Landkreis,Rüdenhausen,9675162,870,x,x
+Unterfranken,Kitzingen,Landkreis,Segnitz,9675166,873,x,
+Unterfranken,Kitzingen,Landkreis,Seinsheim,9675167,"1,054",x,
+Unterfranken,Kitzingen,Landkreis,Sommerach,9675169,"1,317",x,
+Unterfranken,Kitzingen,Landkreis,Sulzfeld a.Main,9675170,"1,345",x,x
+Unterfranken,Kitzingen,Landkreis,Willanzheim,9675179,"1,580",x,
+Oberfranken,Kronach,Landkreis,Schneckenlohe,9476171,"1,092",x,
+Oberfranken,Kronach,Landkreis,Tschirn,9476182,539,x,x
+Oberfranken,Kulmbach,Landkreis,Guttenberg,9477118,502,x,x
+Oberfranken,Kulmbach,Landkreis,Harsdorf,9477119,975,x,
+Oberfranken,Kulmbach,Landkreis,Kasendorf,9477124,"2,486",x,
+Oberfranken,Kulmbach,Landkreis,Ködnitz,9477127,"1,580",x,
+Oberfranken,Kulmbach,Landkreis,Kupferberg,9477129,"1,036",x,
+Oberfranken,Kulmbach,Landkreis,Marktschorgast,9477139,"1,403",x,
+Oberfranken,Kulmbach,Landkreis,Rugendorf,9477151,"1,038",x,
+Oberfranken,Kulmbach,Landkreis,Wirsberg,9477163,"1,827",x,
+Oberfranken,Kulmbach,Landkreis,Wonsees,9477164,"1,120",x,
+Oberbayern,Landsberg am Lech,Landkreis,Eresing,9181118,"1,764",x,
+Oberbayern,Landsberg am Lech,Landkreis,Igling,9181127,"2,480",x,
+Oberbayern,Landsberg am Lech,Landkreis,Obermeitingen,9181131,"1,584",x,x
+Oberbayern,Landsberg am Lech,Landkreis,Reichling,9181135,"1,646",x,
+Oberbayern,Landsberg am Lech,Landkreis,Scheuring,9181138,"1,933",x,x
+Oberbayern,Landsberg am Lech,Landkreis,Schwifting,9181140,973,x,x
+Oberbayern,Landsberg am Lech,Landkreis,Thaining,9181142,946,x,x
+Oberbayern,Landsberg am Lech,Landkreis,Weil,9181145,"3,787",x,x
+Oberbayern,Landsberg am Lech,Landkreis,Denklingen,9181113,"2,530",x,
+Niederbayern,Landshut,Landkreis,Baierbach,9274118,765,x,x
+Niederbayern,Landshut,Landkreis,Bayerbach b.Ergoldsbach,9274119,"1,779",x,
+Niederbayern,Landshut,Landkreis,Kröning,9274145,"1,949",x,
+Niederbayern,Landshut,Landkreis,Obersüßbach,9274165,"1,720",x,x
+Niederbayern,Landshut,Landkreis,Weihmichl,9274187,"2,489",x,x
+Oberfranken,Lichtenfels,Landkreis,Marktzeuln,9478144,"1,518",x,
+Schwaben,Lindau (Bodensee),Landkreis,Hergensweiler,9776115,"1,875",x,x
+Schwaben,Lindau (Bodensee),Landkreis,Maierhöfen,9776118,"1,576",x,
+Schwaben,Lindau (Bodensee),Landkreis,Oberreute,9776121,"1,613",x,
+Schwaben,Lindau (Bodensee),Landkreis,Opfenbach,9776122,"2,279",x,
+Schwaben,Lindau (Bodensee),Landkreis,Röthenbach (Allgäu),9776124,"1,713",x,
+Unterfranken,Main-Spessart,Landkreis,Aura i.Sinngrund,9677116,996,x,
+Unterfranken,Main-Spessart,Landkreis,Bischbrunn,9677120,"1,793",x,
+Unterfranken,Main-Spessart,Landkreis,Gössenheim,9677132,"1,189",x,
+Unterfranken,Main-Spessart,Landkreis,Gräfendorf,9677133,"1,389",x,
+Unterfranken,Main-Spessart,Landkreis,Hafenlohr,9677135,"1,868",x,
+Unterfranken,Main-Spessart,Landkreis,Hasloch,9677137,"1,385",x,x
+Unterfranken,Main-Spessart,Landkreis,Himmelstadt,9677142,"1,591",x,x
+Unterfranken,Main-Spessart,Landkreis,Karbach,9677146,"1,447",x,
+Unterfranken,Main-Spessart,Landkreis,Karsbach,9677149,"1,741",x,
+Unterfranken,Main-Spessart,Landkreis,Mittelsinn,9677159,803,x,
+Unterfranken,Main-Spessart,Landkreis,Neuendorf,9677164,839,x,x
+Unterfranken,Main-Spessart,Landkreis,Neustadt a.Main,9677166,"1,271",x,x
+Unterfranken,Main-Spessart,Landkreis,Roden,9677178,980,x,x
+Unterfranken,Main-Spessart,Landkreis,Rothenfels,9677181,993,x,
+Unterfranken,Main-Spessart,Landkreis,Steinfeld,9677186,"2,177",x,
+Unterfranken,Main-Spessart,Landkreis,Wiesthal,9677200,"1,325",x,
+Oberbayern,Miesbach,Landkreis,Irschenberg,9182123,"3,198",x,
+Oberbayern,Miesbach,Landkreis,Kreuth,9182124,"3,568",x,
+Oberbayern,Miesbach,Landkreis,Valley,9182133,"3,167",x,
+Unterfranken,Miltenberg,Landkreis,Altenbuch,9676111,"1,261",x,
+Unterfranken,Miltenberg,Landkreis,Eichenbühl,9676119,"2,533",x,
+Unterfranken,Miltenberg,Landkreis,Hausen,9676128,"1,867",x,x
+Unterfranken,Miltenberg,Landkreis,Kirchzell,9676131,"2,244",x,
+Unterfranken,Miltenberg,Landkreis,Laudenbach,9676135,"1,416",x,x
+Unterfranken,Miltenberg,Landkreis,Neunkirchen,9676143,"1,527",x,
+Unterfranken,Miltenberg,Landkreis,Röllbach,9676151,"1,683",x,
+Unterfranken,Miltenberg,Landkreis,Rüdenau,9676153,750,x,
+Unterfranken,Miltenberg,Landkreis,Weilbach,9676165,"2,193",x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Aschau a.Inn,9183113,"3,203",x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Erharting,9183116,931,x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Heldenstein,9183120,"2,511",x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Jettenbach,9183122,718,x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Kirchdorf,9183123,"1,332",x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Lohkirchen,9183125,699,x,
+Oberbayern,Mühldorf am Inn,Landkreis,Niederbergkirchen,9183130,"1,209",x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Niedertaufkirchen,9183131,"1,351",x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Oberbergkirchen,9183132,"1,637",x,
+Oberbayern,Mühldorf am Inn,Landkreis,Oberneukirchen,9183134,838,x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Rattenkirchen,9183138,981,x,x
+Oberbayern,Mühldorf am Inn,Landkreis,Schönberg,9183143,999,x,
+Oberbayern,Mühldorf am Inn,Landkreis,Unterreit,9183147,"1,721",x,
+Oberbayern,Mühldorf am Inn,Landkreis,Zangberg,9183151,"1,084",x,x
+Oberbayern,München,Landkreis,Hohenbrunn,9184129,"8,794",x,
+Oberbayern,München,Landkreis,Schäftlarn,9184142,"5,618",x,
+Schwaben,Neu-Ulm,Landkreis,Holzheim,9775126,"1,825",x,x
+Schwaben,Neu-Ulm,Landkreis,Kellmünz a.d.Iller,9775132,"1,373",x,
+Schwaben,Neu-Ulm,Landkreis,Oberroth,9775141,903,x,
+Schwaben,Neu-Ulm,Landkreis,Osterberg,9775142,883,x,x
+Schwaben,Neu-Ulm,Landkreis,Roggenburg,9775149,"2,663",x,
+Schwaben,Neu-Ulm,Landkreis,Unterroth,9775161,"1,009",x,x
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Berg im Gau,9185116,"1,267",x,
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Bergheim,9185118,"1,921",x,x
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Brunnen,9185123,"1,646",x,
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Rohrenfels,9185157,"1,513",x,
+Oberbayern,Neuburg-Schrobenhausen,Landkreis,Königsmoos,9185163,"4,555",x,
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Berngau,9373114,"2,556",x,
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Pilsach,9373153,"2,777",x,
+Oberpfalz,Neumarkt in der Oberpfalz,Landkreis,Sengenthal,9373159,"3,344",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Ergersheim,9575122,"1,086",x,x
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gerhardshofen,9575125,"2,509",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gollhofen,9575127,826,x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Gutenstetten,9575128,"1,324",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Hagenbüchach,9575129,"1,353",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Hemmersheim,9575130,666,x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Illesheim,9575133,955,x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Ippesheim,9575134,"1,131",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Langenfeld,9575138,999,x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Markt Nordheim,9575146,"1,144",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Münchsteinach,9575150,"1,359",x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Oberscheinfeld,9575157,"1,141",x,x
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Simmershofen,9575163,879,x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Weigenheim,9575179,987,x,
+Mittelfranken,Neustadt/Aisch-Bad Windsheim,Landkreis,Wilhelmsdorf,9575181,"1,469",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Etzenricht,9374119,"1,597",x,x
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Georgenberg,9374123,"1,344",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Kirchendemenreuth,9374128,861,x,x
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Kohlberg,9374131,"1,217",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Leuchtenberg,9374132,"1,186",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Neustadt am Kulm,9374140,"1,149",x,x
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Parkstein,9374144,"2,313",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Pirk,9374146,"1,823",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Trabitz,9374148,"1,290",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Schirmitz,9374154,"1,998",x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Schlammersdorf,9374155,879,x,
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Speinshart,9374157,"1,111",x,x
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Störnstein,9374158,"1,476",x,x
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Theisseil,9374160,"1,179",x,x
+Oberpfalz,Neustadt an der Waldnaab,Landkreis,Bechtsrieth,9374170,"1,059",x,x
+Mittelfranken,Nürnberger Land,Landkreis,Alfeld,9574111,"1,086",x,
+Mittelfranken,Nürnberger Land,Landkreis,Happurg,9574128,"3,628",x,
+Mittelfranken,Nürnberger Land,Landkreis,Henfenfeld,9574131,"1,874",x,
+Mittelfranken,Nürnberger Land,Landkreis,Kirchensittenbach,9574135,"2,036",x,
+Mittelfranken,Nürnberger Land,Landkreis,Reichenschwand,9574150,"2,315",x,
+Mittelfranken,Nürnberger Land,Landkreis,Simmelsdorf,9574158,"3,174",x,
+Mittelfranken,Nürnberger Land,Landkreis,Vorra,9574161,"1,695",x,
+Schwaben,Oberallgäu,Landkreis,Balderschwang,9780113,322,x,x
+Schwaben,Oberallgäu,Landkreis,Betzigau,9780114,"2,777",x,
+Schwaben,Oberallgäu,Landkreis,Obermaiselstein,9780131,972,x,
+Schwaben,Ostallgäu,Landkreis,Baisweil,9777114,"1,293",x,
+Schwaben,Ostallgäu,Landkreis,Bidingen,9777118,"1,620",x,
+Schwaben,Ostallgäu,Landkreis,Eisenberg,9777125,"1,195",x,
+Schwaben,Ostallgäu,Landkreis,Hopferau,9777135,"1,105",x,
+Schwaben,Ostallgäu,Landkreis,Günzach,9777138,"1,438",x,
+Schwaben,Ostallgäu,Landkreis,Irsee,9777139,"1,447",x,
+Schwaben,Ostallgäu,Landkreis,Kraftisried,9777144,746,x,x
+Schwaben,Ostallgäu,Landkreis,Lamerdingen,9777145,"1,904",x,
+Schwaben,Ostallgäu,Landkreis,Mauerstetten,9777152,"3,071",x,
+Schwaben,Ostallgäu,Landkreis,Osterzell,9777157,670,x,
+Schwaben,Ostallgäu,Landkreis,Rieden am Forggensee,9777163,"1,261",x,
+Schwaben,Ostallgäu,Landkreis,Rieden,9777164,"1,316",x,x
+Schwaben,Ostallgäu,Landkreis,Stöttwang,9777172,"1,792",x,
+Schwaben,Ostallgäu,Landkreis,Waal,9777177,"2,216",x,
+Niederbayern,Passau,Landkreis,Beutelsbach,9275117,"1,098",x,
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Hettenshausen,9186126,"2,097",x,
+Oberbayern,Pfaffenhofen an der Ilm,Landkreis,Pörnbach,9186144,"2,113",x,
+Niederbayern,Regen,Landkreis,Geiersthal,9276122,"2,179",x,
+Niederbayern,Regen,Landkreis,Gotteszell,9276123,"1,197",x,x
+Niederbayern,Regen,Landkreis,Kollnburg,9276128,"2,778",x,
+Oberpfalz,Regensburg,Landkreis,Altenthann,9375114,"1,514",x,x
+Oberpfalz,Regensburg,Landkreis,Bach a.d.Donau,9375116,"1,780",x,
+Oberpfalz,Regensburg,Landkreis,Deuerling,9375127,"2,048",x,
+Oberpfalz,Regensburg,Landkreis,Duggendorf,9375131,"1,576",x,x
+Oberpfalz,Regensburg,Landkreis,Mintraching,9375170,"4,791",x,
+Oberpfalz,Regensburg,Landkreis,Mötzing,9375171,"1,607",x,x
+Oberpfalz,Regensburg,Landkreis,Pfakofen,9375182,"1,613",x,
+Oberpfalz,Regensburg,Landkreis,Pielenhofen,9375184,"1,511",x,x
+Oberpfalz,Regensburg,Landkreis,Riekofen,9375191,766,x,x
+Oberpfalz,Regensburg,Landkreis,Thalmassing,9375205,"3,334",x,x
+Oberpfalz,Regensburg,Landkreis,Wiesent,9375209,"2,531",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Aubstadt,9673113,740,x,x
+Unterfranken,Rhön-Grabfeld,Landkreis,Großbardorf,9673126,883,x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Großeibstadt,9673127,"1,123",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Hausen,9673129,681,x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Hendungen,9673130,912,x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Herbstadt,9673131,627,x,x
+Unterfranken,Rhön-Grabfeld,Landkreis,Heustreu,9673133,"1,262",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Höchheim,9673134,"1,148",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Niederlauer,9673146,"1,662",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Oberstreu,9673151,"1,530",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Rödelmaier,9673156,916,x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Stockheim,9673170,"1,096",x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Strahlungen,9673171,917,x,
+Unterfranken,Rhön-Grabfeld,Landkreis,Sulzdorf a.d.Lederhecke,9673172,"1,114",x,
+Oberbayern,Rosenheim,Landkreis,Chiemsee,9187123,236,x,
+Oberbayern,Rosenheim,Landkreis,Eiselfing,9187126,"2,984",x,
+Oberbayern,Rosenheim,Landkreis,Ramerberg,9187164,"1,372",x,
+Mittelfranken,Roth,Landkreis,Röttenbach,9576141,"2,963",x,x
+Niederbayern,Rottal-Inn,Landkreis,Dietersburg,9277114,"3,129",x,
+Niederbayern,Rottal-Inn,Landkreis,Hebertsfelden,9277124,"3,615",x,
+Niederbayern,Rottal-Inn,Landkreis,Malgersdorf,9277131,"1,222",x,
+Niederbayern,Rottal-Inn,Landkreis,Postmünster,9277139,"2,292",x,
+Niederbayern,Rottal-Inn,Landkreis,Reut,9277140,"1,721",x,
+Niederbayern,Rottal-Inn,Landkreis,Rimbach,9277141,890,x,x
+Oberpfalz,Schwandorf,Landkreis,Altendorf,9376112,895,x,x
+Oberpfalz,Schwandorf,Landkreis,Fensterbach,9376125,"2,361",x,
+Oberpfalz,Schwandorf,Landkreis,Gleiritsch,9376131,655,x,x
+Oberpfalz,Schwandorf,Landkreis,Guteneck,9376133,842,x,
+Oberpfalz,Schwandorf,Landkreis,Niedermurach,9376148,"1,265",x,
+Oberpfalz,Schwandorf,Landkreis,Schwarzach b.Nabburg,9376162,"1,456",x,x
+Oberpfalz,Schwandorf,Landkreis,Stulln,9376169,"1,682",x,
+Oberpfalz,Schwandorf,Landkreis,Trausnitz,9376173,961,x,x
+Oberpfalz,Schwandorf,Landkreis,Weiding,9376176,494,x,x
+Oberpfalz,Schwandorf,Landkreis,Winklarn,9376178,"1,412",x,
+Unterfranken,Schweinfurt,Landkreis,Dingolshausen,9678122,"1,321",x,
+Unterfranken,Schweinfurt,Landkreis,Geldersheim,9678132,"2,921",x,
+Unterfranken,Schweinfurt,Landkreis,Lülsfeld,9678153,790,x,x
+Unterfranken,Schweinfurt,Landkreis,Michelau i.Steigerwald,9678157,"1,102",x,
+Unterfranken,Schweinfurt,Landkreis,Sulzheim,9678183,"2,064",x,
+Unterfranken,Schweinfurt,Landkreis,Wipfeld,9678196,"1,071",x,
+Niederbayern,Straubing-Bogen,Landkreis,Atting,9278117,"1,644",x,x
+Niederbayern,Straubing-Bogen,Landkreis,Haselbach,9278134,"1,785",x,
+Niederbayern,Straubing-Bogen,Landkreis,Irlbach,9278140,"1,129",x,
+Niederbayern,Straubing-Bogen,Landkreis,Loitzendorf,9278147,622,x,
+Niederbayern,Straubing-Bogen,Landkreis,Perasdorf,9278171,566,x,x
+Niederbayern,Straubing-Bogen,Landkreis,Perkam,9278172,"1,531",x,
+Niederbayern,Straubing-Bogen,Landkreis,Rattiszell,9278179,"1,479",x,
+Niederbayern,Straubing-Bogen,Landkreis,Windberg,9278198,"1,068",x,x
+Oberpfalz,Tirschenreuth,Landkreis,Ebnath,9377115,"1,284",x,
+Oberpfalz,Tirschenreuth,Landkreis,Friedenfels,9377118,"1,254",x,
+Oberpfalz,Tirschenreuth,Landkreis,Fuchsmühl,9377119,"1,642",x,
+Oberpfalz,Tirschenreuth,Landkreis,Kastl,9377128,"1,395",x,x
+Oberpfalz,Tirschenreuth,Landkreis,Konnersreuth,9377131,"1,816",x,
+Oberpfalz,Tirschenreuth,Landkreis,Leonberg,9377137,"1,013",x,
+Oberpfalz,Tirschenreuth,Landkreis,Neualbenreuth,9377142,"1,380",x,
+Oberpfalz,Tirschenreuth,Landkreis,Pechbrunn,9377145,"1,355",x,
+Oberpfalz,Tirschenreuth,Landkreis,Reuth b.Erbendorf,9377149,"1,202",x,
+Oberbayern,Traunstein,Landkreis,Petting,9189135,"2,291",x,
+Oberbayern,Traunstein,Landkreis,Staudach-Egerndach,9189146,"1,155",x,x
+Oberbayern,Traunstein,Landkreis,Taching a.See,9189150,"1,948",x,
+Oberbayern,Traunstein,Landkreis,Wonneberg,9189165,"1,489",x,x
+Schwaben,Unterallgäu,Landkreis,Apfeltrach,9778113,927,x,x
+Schwaben,Unterallgäu,Landkreis,Benningen,9778118,"2,071",x,
+Schwaben,Unterallgäu,Landkreis,Böhen,9778119,734,x,
+Schwaben,Unterallgäu,Landkreis,Fellheim,9778139,"1,114",x,x
+Schwaben,Unterallgäu,Landkreis,Hawangen,9778149,"1,329",x,
+Schwaben,Unterallgäu,Landkreis,Kirchhaslach,9778157,"1,280",x,
+Schwaben,Unterallgäu,Landkreis,Kronburg,9778161,"1,755",x,
+Schwaben,Unterallgäu,Landkreis,Lachen,9778162,"1,478",x,x
+Schwaben,Unterallgäu,Landkreis,Lauben,9778163,"1,355",x,
+Schwaben,Unterallgäu,Landkreis,Memmingerberg,9778171,"2,830",x,x
+Schwaben,Unterallgäu,Landkreis,Oberrieden,9778183,"1,243",x,
+Schwaben,Unterallgäu,Landkreis,Oberschönegg,9778184,965,x,
+Schwaben,Unterallgäu,Landkreis,Pleß,9778188,840,x,
+Schwaben,Unterallgäu,Landkreis,Salgen,9778190,"1,439",x,x
+Schwaben,Unterallgäu,Landkreis,Winterrieden,9778217,887,x,
+Oberbayern,Weilheim-Schongau,Landkreis,Antdorf,9190113,"1,261",x,
+Oberbayern,Weilheim-Schongau,Landkreis,Eberfing,9190120,"1,366",x,
+Oberbayern,Weilheim-Schongau,Landkreis,Eglfing,9190121,"1,040",x,x
+Oberbayern,Weilheim-Schongau,Landkreis,Habach,9190126,"1,145",x,x
+Oberbayern,Weilheim-Schongau,Landkreis,Ingenried,9190133,991,x,
+Oberbayern,Weilheim-Schongau,Landkreis,Prem,9190143,867,x,
+Oberbayern,Weilheim-Schongau,Landkreis,Wessobrunn,9190158,"2,177",x,
+Oberbayern,Weilheim-Schongau,Landkreis,Wildsteig,9190160,"1,342",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Absberg,9577111,"1,326",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Alesheim,9577113,966,x,x
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Bergen,9577115,"1,087",x,x
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Burgsalach,9577120,"1,148",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Dittenheim,9577122,"1,770",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Ettenstatt,9577127,843,x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Haundorf,9577138,"2,720",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Höttingen,9577141,"1,125",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Markt Berolzheim,9577149,"1,269",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Meinheim,9577150,838,x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Raitenbuch,9577163,"1,198",x,
+Mittelfranken,Weißenburg-Gunzenhausen,Landkreis,Solnhofen,9577168,"1,692",x,
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Bad Alexandersbad,9479111,988,x,
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Höchstädt i.Fichtelgebirge,9479126,"1,132",x,
+Oberfranken,Wunsiedel im Fichtelgebirge,Landkreis,Thierstein,9479159,"1,143",x,
+Unterfranken,Würzburg,Landkreis,Bieberehren,9679118,912,x,
+Unterfranken,Würzburg,Landkreis,Bütthard,9679122,"1,311",x,
+Unterfranken,Würzburg,Landkreis,Erlabrunn,9679128,"1,736",x,
+Unterfranken,Würzburg,Landkreis,Frickenhausen a.Main,9679131,"1,233",x,
+Unterfranken,Würzburg,Landkreis,Holzkirchen,9679149,968,x,
+Unterfranken,Würzburg,Landkreis,Altertheim,9679165,"1,956",x,
+Unterfranken,Würzburg,Landkreis,Eisenheim,9679167,"1,326",x,x
+Unterfranken,Würzburg,Landkreis,Oberpleichfeld,9679169,"1,082",x,
+Unterfranken,Würzburg,Landkreis,Prosselsheim,9679174,"1,182",x,
+Unterfranken,Würzburg,Landkreis,Riedenheim,9679179,723,x,
+Unterfranken,Würzburg,Landkreis,Sonderhofen,9679188,839,x,
+Unterfranken,Würzburg,Landkreis,Tauberrettersheim,9679192,876,x,
+Unterfranken,Würzburg,Landkreis,Theilheim,9679193,"2,297",x,
+Unterfranken,Würzburg,Landkreis,Winterhausen,9679206,"1,447",x,

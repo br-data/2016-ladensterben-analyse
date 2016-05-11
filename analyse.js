@@ -15,6 +15,7 @@ function analyse() {
   var supermarkets = parseCSV(loadFile('./input/1-allSupermarkets-2015.csv'));
   var districts = parseCSV(loadFile('./input/2-shopCountPerAdmDistrict-2005-2015.csv'));
   var towns = parseCSV(loadFile('./input/3-shopCountPerTown-2014.csv'));
+  var townsNoShop = parseCSV(loadFile('./input/3-noShopCountPerTown-2015.csv'));
   var ruralStores = parseCSV(loadFile('./input/4-allRuralStores-2015.csv'));
 
   // Analysis results go here
@@ -75,7 +76,7 @@ function analyse() {
 
 
     // Get all towns per district
-    var townsPerDistrict = towns.filter(function (currentTown) {
+    var townsPerDistrict = townsNoShop.filter(function (currentTown) {
 
       return currentDistrict.admDistrict === currentTown.admDistrict &&
       currentDistrict.districtType === currentTown.districtType;
@@ -84,13 +85,13 @@ function analyse() {
     // Calculate number of towns without supermarkets per district
     currentDistrict.noSupermarketCount = townsPerDistrict.filter(function (currentTown) {
 
-      return currentTown.supermarket === 0;
+      return currentTown.noSupermarket === 'x';
     }).length;
 
     // Calculate number of towns without supermarkets per district
     currentDistrict.noStoreCount = townsPerDistrict.filter(function (currentTown) {
 
-      return currentTown.store === 0;
+      return currentTown.noStore === 'x';
     }).length;
 
 
@@ -282,6 +283,8 @@ function stringifyCSV(data, callback) {
 function saveFile(relativePath, string) {
 
   relativePath = path.normalize(relativePath);
+
+  console.log('Saved file', relativePath);
 
   try {
 
