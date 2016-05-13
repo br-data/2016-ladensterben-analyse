@@ -16,7 +16,8 @@ Die Originialdaten aus der Anfrage wurden mit [Tabula](http://tabula.technology/
 
 - **1-allSupermarkets-2015.csv**: Anlage 1: Alle Lebensmitteleinzelhandelsgeschäfte in Bayern pro Gemeinde mit Unternehmensgruppenzugehörigkeit
 - **2-shopCountPerAdmDistrict-2005-2015.csv**: Anlage 2: Vergleich der Landkreise mit Zahlen zur Anzahl der Geschäfte, durchschnittliche Verkaufsfläche und Zahl der Angestellten, jeweils damals und heute
-- **3-shopCountPerTown-2014.csv**: Anlage 3: Gemeinden mit der Anzahl der Supermärkte und der kleinen Lebensmittelbetriebe (Bäcker, Metzger usw.) 
+- **3-shopCountPerTown-2014.csv**: Anlage 3: Gemeinden mit der Anzahl der Supermärkte und der kleinen Lebensmittelbetriebe (Bäcker, Metzger usw.)
+- **3-noShopCountPerTown-2015.csv**: Anlage 3: Gemeinden ohne Supermarkt und ohne kleinen Lebensmittelbetriebe (Bäcker, Metzger usw.)
 - **4-allRuralStores-2015.csv**: Anlage 4: Gemeinden mit einem Dorfladen 
 
 ## Daten analysieren
