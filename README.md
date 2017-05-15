@@ -1,5 +1,8 @@
-# Einzelhandel Analyse
-Sammlung an Tools um die Daten des bayerischen Einzelhandels zu analysieren.
+# Nahversorgung in Gefahr – Analyse
+Sammlung an Tools um die Entwicklung des bayerischen Einzelhandels zu analysieren. Während in Boom-Gegenden wie München oder Ingolstadt immer mehr Lebensmittelgeschäfte eröffnen, geht die Zahl in vielen Landkreisen teilweise dramatisch zurück.
+
+- **Live**: http://web.br.de/interaktiv/ladensterben
+- **Redirect**: http://br.de/tatort-twitter
 
 ## Verwendung
 1. Repository klonen `git clone https://...`
@@ -9,7 +12,7 @@ Sammlung an Tools um die Daten des bayerischen Einzelhandels zu analysieren.
 ## Datenquelle
 Die Daten stammen aus mehreren schriftlichen Anfragen des Landtagsabgeordneten Klaus Adelt (SPD), welche vom bayerischen Wirtschaftministerium beantwortet wurden. Die Daten wurde von der Firma TradeDimensions für die bayerische Landesregierung erhoben. 
 - Anfrage 2014: https://kleineanfragen.de/bayern/17/3014-nahversorgung-in-bayern
-- Anfrage 2015:
+- Anfrage 2015: https://kleineanfragen.de/bayern/17/10713-nahversorgung-in-bayern-stand-2015
 
 ## Daten extrahieren und bereinigen
 Die Originialdaten aus der Anfrage wurden mit [Tabula](http://tabula.technology/) extrahiert und anschließend bereinigt. Beim Bereinigen der Daten wurden in erster Linie die Spaltennamen und die Namen der Landkreise vereinheitlicht. Zudem wurden manchen Landkreisen einen Partnerlandkreis zugewiesen. Die bereinigten Daten liegen im Ordner `/input`:
